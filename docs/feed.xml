@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>The Better Meta</title>
+	<subtitle>Analysis of Paladins Data</subtitle>
+	<author><name>Chucky Ellison</name></author>
+	<link rel="self" type="application/atom+xml" href="https://www.thebettermeta.com/feed.xml" />
+	<link rel="alternate" type="text/html" href="https://www.thebettermeta.com/" />
+	<id>https://www.thebettermeta.com/</id>
+	<updated>2019-09-16T04:08:26-04:00</updated>
+	
+		
+			<entry>
+				<title type="html">Goodbye for Now</title>
+				<summary type="html">&lt;p&gt;This has been an awfully hard decision for me to make, but TBM will no longer crunch Paladins data.  No new ratings will be calculated.  The bot will be permanently disabled this Thursday 2019/09/19, so if there are any stats you want to pull, you should do so now.  I’ll probably leave the website up for posterity, at least as long as the hosting fees stay low, though it too will no longer be updated.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://discord.gg/DzxG72t&quot;&gt;The TBM discord&lt;/a&gt; will stay up for the foreseeable future, and I will continue to be here and enforce the same rule we’ve always had (don’t be a dick).  Hopefully some will stay and chat, either about Paladins or about other things.  I feel like we’ve built a community here and I don’t want to lose that.  In the future, I hope to find another game with an API, made by another developer, to which we can apply all the machinery I’ve developed.&lt;/p&gt;
+
+&lt;p&gt;For those who will be departing with the bot, thanks for hanging out.  I hope TBM helped make the game a bit more fun for you.  For those who were &lt;a href=&quot;https://www.thebettermeta.com/supporters/&quot;&gt;Patreon supporters&lt;/a&gt;, thank you from the bottom of my heart.  You definitely helped prolong the life of TBM.  Without you, it would have died with the original crossplatform update at the beginning of the year.  I only wish we could have found a more sustainable solution for the long term.&lt;/p&gt;
+
+&lt;p&gt;And finally, thanks to everyone who was interested in seeing data, even if that data wasn’t always what we expected.  It’s important to ask yourself why you believe the things you believe.  Ask yourself how strongly you believe those things, and figure out what evidence you have to support them.  With a little introspection, you just might find that your reasons aren’t as strong as your beliefs.  No matter what the topic, that’s how we come to understand the world.  Be kind and seek the truth.&lt;/p&gt;
+</summary>
+				<updated>2019-09-16T00:00:00-04:00</updated>
+				<link rel="alternate" type="text/html" href="https://www.thebettermeta.com/posts/2019/09/16/shutting-down/" />
+				<id>https://www.thebettermeta.com/posts/2019/09/16/shutting-down/</id>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html">New Kinds of Graphs</title>
+				<summary type="html">&lt;p&gt;For a long while, I’ve been focused mostly on the &lt;a href=&quot;https://discord.gg/jVuYrfM&quot;&gt;TBM Discord&lt;/a&gt; bot and graphs.
+It got to the point where adding new graphs to the site was a hassle, so all of my new graphs have been going there.
+I’ve finally gotten around to modernizing the website graphs, and here’s the first batch!&lt;/p&gt;
+
+&lt;p&gt;Outside of making the graphs easier for me to build, all the new graphs will be filterable by game mode (e.g., Casual vs Ranked), and/or Input device (Keyboard/Mouse vs Controller), and/or patch.&lt;/p&gt;
+
+&lt;dl&gt;
+	&lt;dt&gt;&lt;a href=&quot;/charts/map-distribution/&quot;&gt;Map Distribution&lt;/a&gt;&lt;/dt&gt;
+	&lt;dd&gt;Graph showing distribution of maps (how often maps come up in rotation)&lt;/dd&gt;
+
+	&lt;dt&gt;&lt;a href=&quot;/charts/in-game-ranked-tiers-vs-tbm-ratings/&quot;&gt;In-Game Ranked Tiers vs TBM Ratings&lt;/a&gt;&lt;/dt&gt;
+	&lt;dd&gt;What in-game tiers are related to what TBM ratings&lt;/dd&gt;
+
+	&lt;dt&gt;&lt;a href=&quot;/charts/in-game-ranked-tiers-distribution/&quot;&gt;In-Game Ranked Tiers Distribution&lt;/a&gt;&lt;/dt&gt;
+	&lt;dd&gt;Graph showing the distribution of in-game ranked tiers&lt;/dd&gt;
+
+	&lt;dt&gt;&lt;a href=&quot;/charts/matches-per-minute/&quot;&gt;Matches Per Minute&lt;/a&gt;&lt;/dt&gt;
+	&lt;dd&gt;Graph showing how many matches per minute go on in different regions throughout the day&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;There’s more in the pipeline, so hang on if you don’t see your favorite graphs yet.&lt;/p&gt;
+</summary>
+				<updated>2019-06-11T00:00:00-04:00</updated>
+				<link rel="alternate" type="text/html" href="https://www.thebettermeta.com/posts/2019/06/11/graphsv2/" />
+				<id>https://www.thebettermeta.com/posts/2019/06/11/graphsv2/</id>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html">Personalized Stats (Discord Bot)</title>
+				<summary type="html">&lt;p&gt;Up until now, The Better Meta has been about showing what champions/legendaries/compositions etc. work across huge groups of players.
+If you’ve ever wished you could find out detailed stats about &lt;em&gt;you&lt;/em&gt; as a player, or &lt;em&gt;your&lt;/em&gt; individual matches, then you are in luck.
+We now have a &lt;a href=&quot;https://discord.gg/jVuYrfM&quot;&gt;TBM Discord bot&lt;/a&gt; that provides individual, personalized stats about you or your friends.
+The bot gives you stats about each of your champions, your matches, and even tells you how stacked the odds are when you start a match.&lt;/p&gt;
+
+&lt;p&gt;To use the bot, just &lt;a href=&quot;https://discord.gg/jVuYrfM&quot;&gt;click on the link to our Discord chat&lt;/a&gt;, and start typing commands.
+Once in Discord, you can get detailed explanations for any &lt;code&gt;command&lt;/code&gt; by typing &lt;code&gt;!help command&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;In the rest of this post, I’ll give an overview of the commands that are currently available and what they do.&lt;/p&gt;
+
+&lt;h2 id=&quot;current-match-stats&quot;&gt;Current Match Stats&lt;/h2&gt;
+
+&lt;p&gt;So I think this is the big one.
+As soon as the draft is over, you can get information about all the other players in the match.
+I run this for pretty much all my matches since it gives me an idea of what to expect, who to worry about, and who to focus on.&lt;/p&gt;
+
+&lt;p&gt;In the screenshot below, “Rnk” is Hi-Rez’s in-game rank (e.g., Plat 3), while the ratings are &lt;a href=&quot;/posts/2017/07/20/ratings/&quot;&gt;The Better Meta champion ratings&lt;/a&gt; that we use to build all our skill-based graphs.
+The “chance to win” calculation is based on the champion composition of the two teams, as well as champion-specific and player-overall ratings.
+It correctly predicts the winner about 2/3 of the time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;bot-screenshot&quot; src=&quot;/assets/discord_bot/current-6defc6f103d72398d02f8bc38d38f4e3bbdd00c9a5dc6324893cd4cb229e0279.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There’s a similar &lt;code&gt;!match&lt;/code&gt; command to get the same details about matches that happened in the past.&lt;/p&gt;
+
+&lt;h2 id=&quot;player-stats&quot;&gt;Player Stats&lt;/h2&gt;
+&lt;p&gt;This command gives you an idea of how good a player is at each champion, and how that compares to other people.
+Because people often play differently in casual and ranked, there’s different ratings for each queue.
+This is a great, objective way to figure out which champions you’re actually effective with.
+People are often surprised about which champions they do the best with.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;bot-screenshot&quot; src=&quot;/assets/discord_bot/stats-5bfaa7d9b0833eebcdbf269a9bd58d9003a9160b69ace142854e6a03a8dc5d89.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;detailed-player-stats&quot;&gt;Detailed Player Stats&lt;/h2&gt;
+&lt;p&gt;Here you can dive deeper into a player’s stats for a specific champion, broken down by legendary.
+The different stats are: dps (damage per second), sps (shielding per second), kpm (kills per minute), hps (heals per second), xpm (deaths per minute), and cps (credits per second).
+You get a breakdown for both casual and ranked, and a comparison of your recent matches with your overall stats, to see how you’re improving (or not!).&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;bot-screenshot&quot; src=&quot;/assets/discord_bot/champ-dd95b6212e3cb840c7e86f33e41c4f5261c523ee856e0e3eb12666a6d35cea16.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This one is brand new as of this week, so the details of this one may change with feedback.&lt;/p&gt;
+
+&lt;h2 id=&quot;recent-matches&quot;&gt;Recent Matches&lt;/h2&gt;
+
+&lt;p&gt;This breaks down your performance in specific, recent matches, in terms of the same dps, kpm, etc. stats as above.
+It compares you to other people who play the same champion in the same game mode to get an idea of how you played vs how most people play that champion in that mode.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;bot-screenshot&quot; src=&quot;/assets/discord_bot/recent-3c8a122cfb2f474eb60ab399acea4a704363fb89a04bc680b73f3c6ac89ddd6a.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You might find (as I did) that you play a support champion more damage-heavy and heal-light than other people.
+If it works for you (your ratings are good), then maybe you’d take this information and lean into it—build a loadout around it, see how far you can push it.
+Or, maybe you’d want to try dialing it back to see if you can sacrifice a little damage for a lot more healing.
+You can even compare it to our &lt;a href=&quot;/charts/individual_champion_performance/&quot;&gt;Individual Champion Performance graphs&lt;/a&gt; to see how you match up against other champions.&lt;/p&gt;
+
+&lt;h2 id=&quot;graphing-your-ratings-over-time&quot;&gt;Graphing Your Ratings Over Time&lt;/h2&gt;
+
+&lt;p&gt;The last command I’ll mention is actually a graphical command.
+It gives you a scatterplot showing your overall ranked rating through time, after each and every match you’ve played.
+As you can see below, you’ll be able to find plateaus, periods of growth, and (sadly) slumps.
+This helps you figure out if your practice is paying off, or if your overall strategy of drafting is working.
+Are you picking champions that work for you?
+Is it time to try something different?&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;bot-screenshot&quot; src=&quot;/assets/discord_bot/graph-7529f623d3172058e1f1d0eff50632f7a62e6201790349ee9cbe06b46e3b484b.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The actual graph is zoomable in Discord.&lt;/p&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;So that’s an overview of what &lt;a href=&quot;https://discord.gg/jVuYrfM&quot;&gt;our Discord bot&lt;/a&gt; currently offers.
+I’m planning on adding all sorts of other commands as well, especially as I get feedback.
+We also talk a lot of stats in the Discord, and there’s a ton of graphs there that haven’t yet made it to the site, so it might be worth dropping by just to check those out.
+For whatever reason, I hope you drop by and check it out.
+Mention &lt;code&gt;@pseucrose&lt;/code&gt; in Discord to send me a hello!&lt;/p&gt;
+
+</summary>
+				<updated>2018-10-20T00:00:00-04:00</updated>
+				<link rel="alternate" type="text/html" href="https://www.thebettermeta.com/posts/2018/10/20/discord-bot/" />
+				<id>https://www.thebettermeta.com/posts/2018/10/20/discord-bot/</id>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html">Ratings and Champion Skill</title>
+				<summary type="html">&lt;p&gt;By far, the most common request we received after the launch of The Better Meta was to incorporate player ranking (aka ELO, MMR, etc.).
+“Putting up some averages is cool, but it’s not going to cut it,” we heard.
+“Of course Sha Lin does poorly on average, he’s hard to play!  But &lt;em&gt;good&lt;/em&gt; Sha Lins are amazing!” or “Who cares that Torvalds have the highest winrate—Torvalds are terrible!  They’re only good at killing noobs.”
+We agreed, and after a bit of work, we’re here to give you the data!
+In this post, we’re going to walk you through how we rated players and how to use ratings to figure out which champions are advantaged.&lt;/p&gt;
+
+&lt;p&gt;tl;dr: the new graphs are &lt;a href=&quot;/charts/champion_rating_overview&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;preliminaries&quot;&gt;Preliminaries&lt;/h2&gt;
+
+&lt;p&gt;The analysis done in this post uses data from five months of competitive matches ranging from OB42 to OB53, which amounts to over 2550K matches between about 600K different people.
+This means each competitive player played an average of 42 games (median 12).
+Further breaking it down per champion, it’s only 6 games (median 2)!
+The following chart shows the number of players Y who’ve played at least X matches:&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;matches_per_player&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;chart-wrapper&quot;&gt;
+	&lt;div id=&quot;matches_per_player&quot; class=&quot;chart-body&quot; style=&quot;height: 400px;&quot;&gt;
+		&lt;div class=&quot;loader&quot;&gt;Loading...&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This chart shows that there are a &lt;em&gt;lot&lt;/em&gt; of “noobs”, so we absolutely have to take skill into consideration when looking at champion ability.
+Let’s try to separate the wheat from the chaff.&lt;/p&gt;
+
+&lt;p&gt;Pro tip: all the graphs in this post are interactive!
+Hover your mouse or click to see detailed information.&lt;/p&gt;
+
+&lt;h2 id=&quot;basic-ratings&quot;&gt;Basic Ratings&lt;/h2&gt;
+
+&lt;p&gt;Hi-Rez does not currently provide in-game ratings publicly, so we had to build our own ratings system.
+Let’s take a look at that.&lt;/p&gt;
+
+&lt;p&gt;The most basic way to judge “how good” someone is at Paladins is to look at their winrate.
+A perfect player would win every game and would have a winrate of 100%; the worst player would have a winrate of 0%; in general, most players are somewhere in the middle.&lt;/p&gt;
+
+&lt;p&gt;However, players are generally matched up against players of the same skill level (a post for another time!), which means winrate isn’t enough by itself.
+We can do much better by taking into account the difficulty of the match—if you beat a bunch of terrible players, it says less about your skill than if you beat fantastic players.&lt;/p&gt;
+
+&lt;p&gt;Luckily, other people have done a lot of the hard work for us.
+There are a number of rating algorithms like &lt;a href=&quot;https://en.wikipedia.org/wiki/Elo_rating_system&quot;&gt;ELO&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/TrueSkill&quot;&gt;TrueSkill&lt;/a&gt;™, and &lt;a href=&quot;https://en.wikipedia.org/wiki/Glicko_rating_system&quot;&gt;Glicko&lt;/a&gt;.
+We will be using Glicko-2, a variation of the Glicko algorithm, with some class and team extensions described below.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-ratings-work-generally&quot;&gt;How Ratings Work Generally&lt;/h3&gt;
+&lt;p&gt;Glicko-2 keeps track of two pieces of information about each player concerning their skill level: an estimated rating (our best guess of a player’s real rating) and a measure of uncertainty (how confident we are about that guess).
+The basic idea is that everyone starts at the same rating estimate (medium) and same uncertainty (high).
+For every game played, the estimated rating gets adjusted up (on a win) or down (on a loss), and the uncertainty goes down.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;
+Winning an easy game increases your rating a little bit, while losing an easy game decreases it a lot; additionally, games with other players whose ratings we’re more certain about will change your rating more dramatically.
+If you’re that kind of person, all the gory statistical details of this process can be found on &lt;a href=&quot;http://www.glicko.net/glicko.html&quot;&gt;Glickman’s website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;People often wonder why ratings systems don’t take into account things like damage done or kill/death ratios.
+One major problem with this idea is that it encourages the wrong kind of behavior (see the &lt;a href=&quot;https://en.wikipedia.org/wiki/Cobra_effect&quot;&gt;cobra effect&lt;/a&gt;).  If people get points for kills, they will kill even when they should be healing; if they get points for heals, they will heal even when they should be retreating.
+As long as ratings are tied directly to winning and losing matches, there’s no way to game the system.&lt;/p&gt;
+
+&lt;h3 id=&quot;extensions-to-glicko&quot;&gt;Extensions to Glicko&lt;/h3&gt;
+&lt;p&gt;Glicko is designed for games with two symmetric players (e.g., chess).
+Paladins has both champions and teams, so we have to do something special to handle them.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;extension-champion&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&quot;dealing-with-champions&quot;&gt;Dealing with Champions&lt;/h4&gt;
+&lt;p&gt;We take a very restrictive and simple view of champions.
+Each person gets a completely separate rating for each champion they play.
+The matches a person plays with champion A do not affect, in any way, that person’s champion B rating.&lt;/p&gt;
+
+&lt;p&gt;The reason we do this is simple: people aren’t good at all champions.
+Just because you’re a top-tier Androxus doesn’t mean you’re fantastic at playing Torvald.
+In fact, because we keep ratings separate, we can look for correlations between champions (another upcoming post!).&lt;/p&gt;
+
+&lt;p&gt;In the following sections, whenever we refer to “a player’s rating” or even just “a rating”, we always mean “a player’s rating for a particular champion”.
+This is quite a mouthful, so we don’t usually say the whole phrase.
+Similarly, “a player” means “a person playing a particular champion”.
+When a person switches champions, they’re a different player.&lt;/p&gt;
+
+&lt;h4 id=&quot;dealing-with-teams&quot;&gt;Dealing with Teams&lt;/h4&gt;
+&lt;p&gt;To deal with the 5v5 nature of Paladins, we use the &lt;a href=&quot;http://rhetoricstudios.com/cyrad/thesis/&quot;&gt;composite opponent&lt;/a&gt; technique and extend it to take into consideration teammates.
+For each match, we pretend as if each particular player played a 1v1 game against an imaginary opponent with a rating that is the sum of the player’s opponents’ ratings minus the sum of the allies’ ratings.&lt;/p&gt;
+
+&lt;p&gt;For example, if you have a rating of 2000 on a team with {1700, 1600, 1400, 1400} rated allies, and you played against a team of {2100, 1600, 1500, 1500, 1300}, then we pretend as if you’ve played a game against a single opponent with a rating of (2100 + 1600 + 1500 + 1500 + 1300) - (1700 + 1600 + 1400 + 1400), or 8000 - 6100, or 1900.
+From your perspective, it’s as if you played against an opponent of a slightly lower rating than your own (1900 vs 2000).
+This is done for every player in the match, so ten composite matches are given to the Glicko algorithm.&lt;/p&gt;
+
+&lt;p&gt;In our testing, our extension seems to have slightly more predictive power compared to the original technique (which only adds up the opponents), and indeed does the best of any technique we tried.
+Taking into consideration “carries” (e.g., skewed team rating distributions) is something we’ve started looking into, but doesn’t seem to affect things very much.&lt;/p&gt;
+
+&lt;h2 id=&quot;paladins-ratings&quot;&gt;Paladins Ratings&lt;/h2&gt;
+
+&lt;p&gt;Now that we can rate players, we’re going to start looking at the data.
+We’ll step through a series of modifications to a graph and wind up at the new &lt;a href=&quot;/charts/champion_rating_overview&quot;&gt;Champion Ratings&lt;/a&gt; graph.&lt;/p&gt;
+
+&lt;h3 class=&quot;nocount&quot;&gt;Step 1: Overall Distribution of Ratings&lt;/h3&gt;
+&lt;p&gt;Let’s start with a look at how ratings are distributed:&lt;/p&gt;
+
+&lt;div class=&quot;chart-wrapper&quot;&gt;
+	&lt;div id=&quot;all_ratings&quot; class=&quot;chart-body&quot; style=&quot;height: 400px;&quot;&gt;
+		&lt;div class=&quot;loader&quot;&gt;Loading...&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This &lt;a href=&quot;https://en.wikipedia.org/wiki/Histogram&quot;&gt;histogram&lt;/a&gt; shows how common different ratings are for people who’ve played at least 10 games with the champion being rated.
+For any given rating, it shows how many players have nearly the same rating (e.g., 76108 players are rated between 1675 and 1725).&lt;/p&gt;
+
+&lt;p&gt;If you add up all the bins in this histogram, you get about ~740K total players.
+We know &lt;a href=&quot;#matches_per_player&quot;&gt;from above&lt;/a&gt; that there are ~330K actual people who have played at least 10 games, so this means each person has a little more than two champions in this histogram on average.
+The rightmost (2400) bin has 600 ratings in it, which means it represents 600/740K, or 0.08%, or the top eight hundredths of one percent of all ratings.
+In contrast, the middle bin contains about 10% of the ratings.&lt;/p&gt;
+
+&lt;p&gt;Remember, these rating numbers are for our system only and are not the same as those in-game, nor are they the same as on any other Paladins site!
+The rating numbers themselves are arbitrary—all that matters is the shape of the distribution.
+The shape is a “bell curve”, and the data is roughly &lt;a href=&quot;https://en.wikipedia.org/wiki/Normal_distribution&quot;&gt;normally distributed&lt;/a&gt; (with a mean of 1709 and a standard deviation of 196).
+Most players fall somewhere in the middle, and there are relatively few who are terrible or amazing.&lt;/p&gt;
+
+&lt;p&gt;As &lt;a href=&quot;#extension-champion&quot;&gt;described above&lt;/a&gt;, every person gets a separate rating for each champion they play, so if you play multiple champions, you’d be represented in this chart more than once.&lt;/p&gt;
+
+&lt;div class=&quot;chart-wrapper&quot;&gt;
+	&lt;div id=&quot;ratings_3a&quot; class=&quot;chart-body&quot; style=&quot;height: 400px;&quot;&gt;
+		&lt;div class=&quot;loader&quot;&gt;Loading...&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;This is basically the same graph as above, but we’re drawing lines between the tops of where each bar was.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;
+Just as before, the value Y at a rating X is how many players have about that rating (to within 50).&lt;/p&gt;
+
+&lt;h3 class=&quot;nocount&quot;&gt;Step 3: Breaking Things Down by Champion&lt;/h3&gt;
+
+&lt;p&gt;Remember, every person has a different rating for every champion they play.
+This means the Step 2 graph contains your great Ying rating somewhere on the right as well as your terrible Androxus rating somewhere on the left, etc.
+Let’s split each champion out separately and see what we get:&lt;/p&gt;
+
+&lt;div class=&quot;chart-wrapper&quot;&gt;
+	&lt;div id=&quot;ratings_3b&quot; class=&quot;chart-body&quot; style=&quot;height: 400px;&quot;&gt;
+		&lt;div class=&quot;loader&quot;&gt;Loading...&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This graph shows how many of each champion has a particular rating.
+Each line in this graph represents the distribution of success of a different champion, and if you were to add them all together, you’d get back to the previous graph.&lt;/p&gt;
+
+&lt;p&gt;Probably the easiest thing to see in this graph is that some of the curves are “bigger” (they have more area beneath them) than others.
+The area underneath a champion’s curve is a direct measure of the champion’s popularity: the more players who’ve played a particular champion, the more space their curve takes up on the graph.
+New champions like Zhin and Ash simply don’t have as many players as older champions like Makoa, so their curves are much closer to the x-axis.&lt;/p&gt;
+
+&lt;h3 class=&quot;nocount&quot;&gt;Step 4: Normalizing by Champion Popularity&lt;/h3&gt;
+&lt;p&gt;We want to find the best champions even if they are new or they aren’t popular, so let’s go ahead and normalize everything by popularity:&lt;/p&gt;
+
+&lt;div class=&quot;chart-wrapper&quot;&gt;
+	&lt;div id=&quot;ratings_3c&quot; class=&quot;chart-body&quot; style=&quot;height: 400px;&quot;&gt;
+		&lt;div class=&quot;loader&quot;&gt;Loading...&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Now all the curves trace out the same amount of area, so they are directly comparable.
+We haven’t shifted anything right or left—we’ve only scaled each curve up or down.&lt;/p&gt;
+
+&lt;p&gt;With that change, two specific curves are crying out for our attention: the purple one on the right and the orange one on the left.
+Why are they sticking out while the others are jumbled together in the middle?
+This time it’s because they represent “exceptional” champions—Torvald is the purple curve and Kinessa is orange.
+As you may know from our &lt;a href=&quot;/charts/individual_champion_performance/&quot;&gt;Champion Performance&lt;/a&gt; chart, Torvald has been doing particularly well (on average), and Kinessa particularly poorly.&lt;/p&gt;
+
+&lt;h3 class=&quot;nocount&quot;&gt;Step 5: Focus on Kinessa&lt;/h3&gt;
+&lt;p&gt;Let’s focus on Kinessa, and by way of comparison, Drogoz, for a second:&lt;/p&gt;
+
+&lt;div class=&quot;chart-wrapper&quot;&gt;
+	&lt;div id=&quot;ratings_3d&quot; class=&quot;chart-body&quot; style=&quot;height: 400px;&quot;&gt;
+		&lt;div class=&quot;loader&quot;&gt;Loading...&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;These two graphs show how Kinessa’s and Drogoz’s ratings are distributed.
+They have a similar shape (indeed, in the previous chart we saw that all champion curves have similar shapes), but they are shifted horizontally and stretched a bit.&lt;/p&gt;
+
+&lt;p&gt;What can we learn from this picture?
+For starters, an average Kinessa has a rating around 1550, while an average Drogoz has a rating around 1750.
+This isn’t too surprising, since we already knew that Kinessa does worse on average than other champions.
+Considering that most ratings fall somewhere between 1100 and 2400, a difference of 200 doesn’t seem all that bad!
+However, nearly every rating worse than the 1700 average is dominated by Kinessa, while every rating greater than 1700 is dominated by Drogoz.&lt;/p&gt;
+
+&lt;h3 class=&quot;nocount&quot;&gt;Step 6: Stack to Compare&lt;/h3&gt;
+&lt;p&gt;To investigate this relationship in more detail, we’d like to know which champion has more or less of each rating.
+By stacking them on top of one another (just by adding them), we make it easy to see which champion has the most people at any given advantage.
+Here’s what that looks like:&lt;/p&gt;
+
+&lt;div class=&quot;chart-wrapper&quot;&gt;
+	&lt;div id=&quot;kinessa_stacked1&quot; class=&quot;chart-body&quot; style=&quot;height: 400px;&quot;&gt;
+		&lt;div class=&quot;loader&quot;&gt;Loading...&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;In case you’ve never seen an area chart before, it may be helpful to look at the equivalent bar chart:&lt;/p&gt;
+
+&lt;div class=&quot;chart-wrapper&quot;&gt;
+	&lt;div id=&quot;kinessa_stacked1_bar&quot; class=&quot;chart-body&quot; style=&quot;height: 400px;&quot;&gt;
+		&lt;div class=&quot;loader&quot;&gt;Loading...&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Now we can easily see what proportion of each rating is granted to each champion.
+This makes it super easy to compare ratings as long as they fall somewhere towards the middle, but it’s still really hard to see what’s going on in the extremes.&lt;/p&gt;
+
+&lt;h3 class=&quot;nocount&quot;&gt;Step 7: Fill to 100%&lt;/h3&gt;
+
+&lt;p&gt;To get the full picture we just need to make all the tiny bars bigger.
+Let’s scale up every bin to be the exact same height:&lt;/p&gt;
+
+&lt;div class=&quot;chart-wrapper&quot;&gt;
+	&lt;div id=&quot;kinessa_stacked2&quot; class=&quot;chart-body&quot; style=&quot;height: 400px;&quot;&gt;
+		&lt;div class=&quot;loader&quot;&gt;Loading...&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Now we can clearly see the makeup of the entire range of performance&lt;sup id=&quot;fnref:squash&quot;&gt;&lt;a href=&quot;#fn:squash&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; for whatever champions we want.
+We see as before that Kinessas tend to represent more of the lower ratings while Drogoz represents more of the upper end, but we can also see that the trend continues even in the extreme ratings.
+Since Kinessa still maintains a significant presence at even the highest ratings, it’s possible to be a good Kinessa player.&lt;/p&gt;
+
+&lt;p&gt;The best of the best players are in the the rightmost (2400) bin.
+Inside, we see that it’s made up of 25% Kinessas and 75% Drogozes.
+We already normalized by popularity, so this discrepancy reflects the fact that it simply requires more skill (practice, talent, etc.) to be as good with Kinessa as with Drogoz.
+On the other hand, Drogoz is almost entirely absent at the lowest levels of play—this means it’s very difficult to be as bad at Drogoz as you can be with a Kinessa.
+For every worst possible Drogoz, there are about 16 equally bad Kinessas.&lt;/p&gt;
+
+&lt;h3 class=&quot;nocount&quot;&gt;Step 8: Get Rid of Ratings&lt;/h3&gt;
+
+&lt;p&gt;So far, we’ve been looking entirely at our made up ratings numbers.
+Even though the rightmost bin represents the top 0.08% of players, just how much does skill matter?
+To put the finishing touch on our graph, let’s turn the ratings into something a little more universal—winrates.&lt;/p&gt;
+
+&lt;p&gt;We can figure out how much advantage a particular rating confers by looking at the relationship between them:&lt;/p&gt;
+&lt;div class=&quot;chart-wrapper&quot;&gt;
+	&lt;div id=&quot;advantage_vs_winrate&quot; class=&quot;chart-body&quot; style=&quot;height: 400px;&quot;&gt;
+		&lt;div class=&quot;loader&quot;&gt;Loading...&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This graph shows, in practice, how a team’s rating advantage affects their chance to win.
+For example, if your team has a 600 point ratings advantage versus another team, then you have a 65% chance to win.
+This relationship&lt;sup id=&quot;fnref:fit&quot;&gt;&lt;a href=&quot;#fn:fit&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; means we can avoid looking at ratings directly, and instead look at how advantaged players are:&lt;/p&gt;
+
+&lt;div class=&quot;chart-wrapper&quot;&gt;
+	&lt;div id=&quot;kinessa_stacked3&quot; class=&quot;chart-body&quot; style=&quot;height: 400px;&quot;&gt;
+		&lt;div class=&quot;loader&quot;&gt;Loading...&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;On the x-axis, we’re now using “advantage” numbers.
+In this context, we say you have an advantage of X if when you replace an average player in a balanced game, your team would be X%  more likely to win than before.&lt;/p&gt;
+
+&lt;p&gt;This is the graph we’ve been working towards—with this we can compare two or more champions across different levels of play.
+Let’s add in all the other champions and take one final look.&lt;/p&gt;
+
+&lt;h2 id=&quot;analysis&quot;&gt;Analysis&lt;/h2&gt;
+
+&lt;p&gt;Here are all the champion ratings available at the end of OB53 put into our fancy chart:&lt;/p&gt;
+
+&lt;div class=&quot;chart-wrapper&quot;&gt;
+		&lt;div id=&quot;ratings_4&quot; class=&quot;chart-body&quot; style=&quot;height: 400px;&quot;&gt;
+			&lt;div class=&quot;loader&quot;&gt;Loading...&lt;/div&gt;
+		&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Just as before, the height of each colored band represents how many ratings there are of a particular champion at a particular rating.&lt;/p&gt;
+
+&lt;p&gt;We’ve already examined Kinessa and Drogoz in detail, but they stand out on this graph as well.
+Looking at Kinessa’s performance on the extreme left, she is by far the easiest of all champions to be terrible with. 
+On the other side of the graph, we have champions like Drogoz, Bomb King, Buck, and Torvald who make up most of the highest ratings.
+While the highest ratings in the game are consistently achieved using those champions, conversely, very few people have been able to get high ratings for champions like Skye or Makoa.&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s really interesting to look at Androxus: his band opens up on both ends, which means that it’s very easy to be bad with him, but it’s also possible to be great.
+While there are a few other champions that show this to a lesser extent (Kinessa and Cassie are other examples), Androxus is relatively even on both ends.
+This is definitely behavior we can’t see looking at averages, so it’s exciting that we could capture it.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;If you followed through this post, you should understand how to read the new &lt;a href=&quot;/charts/champion_rating_overview&quot;&gt;Champion Rating Overview&lt;/a&gt; graph.
+Hopefully this graph shows you what you’ve always wanted to know about champion ratings, but if you have any other ideas of graphs you’d like to see related to ratings, let us know and we’ll give it a shot!
+We’ve got a few ideas up our sleeves already, but we’d love to hear yours on &lt;a href=&quot;//www.twitter.com/thebettermeta&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Ideally we’d also increase the uncertainty &lt;del&gt;at the beginning of every patch and&lt;/del&gt; when players don’t play frequently, but we’re not doing this yet.  [Edit 2017-08-16: We are now increasing uncertainty at the beginning of every patch.]&amp;nbsp;&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;The y-axis could be made to show &lt;a href=&quot;https://en.wikipedia.org/wiki/Probability_density_function&quot;&gt;probability density&lt;/a&gt; by dividing through by the total number of players and the width of a bucket (50), but we think using player counts is more intuitive.&amp;nbsp;&lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:squash&quot;&gt;
+      &lt;p&gt;We have been surreptitiously squashing the most extreme data into the left- and rightmost two bins to ensure enough data for comparison.  In this final chart, it means that the first and last bins are really cumulative sums, being sums of the more extreme ratings, while all other bins are not.  Not a single person goes unaccounted for, even though there are so few people so far out.&amp;nbsp;&lt;a href=&quot;#fnref:squash&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:fit&quot;&gt;
+      &lt;p&gt;The relationship is very closely fit by a &lt;a href=&quot;https://en.wikipedia.org/wiki/Logistic_function&quot;&gt;logistic function&lt;/a&gt;.&amp;nbsp;&lt;a href=&quot;#fnref:fit&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;All of this is related to “skill floors” and “skill ceilings”, but we’re avoiding these terms because the meanings aren’t universally agreed upon.&amp;nbsp;&lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</summary>
+				<updated>2017-07-20T00:00:00-04:00</updated>
+				<link rel="alternate" type="text/html" href="https://www.thebettermeta.com/posts/2017/07/20/ratings/" />
+				<id>https://www.thebettermeta.com/posts/2017/07/20/ratings/</id>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html">Basic Legendaries Data</title>
+				<summary type="html">&lt;p&gt;I’ve added a flat table showing competitive &lt;a href=&quot;/charts/legendaries/&quot;&gt;Legendaries&lt;/a&gt; data broken down by patch.
+I wanted to go ahead and get this out there before it was finished because I think it’s useful.&lt;/p&gt;
+
+&lt;p&gt;Although much of the data is surprising in that legendaries don’t seem to affect the winrate a whole lot, there are a few nice gems.
+For example, Zhin’s “Retaliation” is significantly better than the other options, but is only chosen 10% of the time!
+Go take a look at your favorite champs and see what you think.&lt;/p&gt;
+
+</summary>
+				<updated>2017-06-18T00:00:00-04:00</updated>
+				<link rel="alternate" type="text/html" href="https://www.thebettermeta.com/posts/2017/06/18/legendaries-table/" />
+				<id>https://www.thebettermeta.com/posts/2017/06/18/legendaries-table/</id>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html">First Look at Team Composition</title>
+				<summary type="html">&lt;p&gt;With the newest &lt;a href=&quot;/charts/role_splits/&quot;&gt;Role Splits&lt;/a&gt; chart, I’ve taken our first step toward analyzing team composition.
+It gives a simple breakdown of how many of each role is viable in competitive play.&lt;/p&gt;
+
+&lt;p&gt;On first posting, it looks like flanks are seriously underpowered.
+If you’re considering between flank and something else… go something else.
+It’s also hard to go wrong with another tank, no matter how many you already have.&lt;/p&gt;
+</summary>
+				<updated>2017-05-04T00:00:00-04:00</updated>
+				<link rel="alternate" type="text/html" href="https://www.thebettermeta.com/posts/2017/05/04/role-splits/" />
+				<id>https://www.thebettermeta.com/posts/2017/05/04/role-splits/</id>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html">Matches Per Minute</title>
+				<summary type="html">&lt;p&gt;I got super bored waiting in the competitive queue the other night, so I decided to figure out when is the best time to play.
+I’ve added a new chart, &lt;a href=&quot;/charts/matches_per_minute/&quot;&gt;Matches Per Minute&lt;/a&gt; that gives the average number of competitive matches that happen in one minute throughout the day.
+It’s broken down by region, so you can look at the data that’s relevant for you.&lt;/p&gt;
+</summary>
+				<updated>2017-04-22T00:00:00-04:00</updated>
+				<link rel="alternate" type="text/html" href="https://www.thebettermeta.com/posts/2017/04/22/matches-per-minute/" />
+				<id>https://www.thebettermeta.com/posts/2017/04/22/matches-per-minute/</id>
+			</entry>
+		
+	
+		
+			<entry>
+				<title type="html">Welcome!</title>
+				<summary type="html">&lt;p&gt;Welcome to &lt;em&gt;The Better Meta&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;My goal for this site is to collect lots of quantitative analyses on Paladins competitive data.
+I’ll organize these analyses into readable charts that update automatically, so as the game is patched, people can take a look at how the patches actually affect gameplay.
+The first chart compares &lt;a href=&quot;/charts/individual_champion_performance/&quot;&gt;basic champion stats across time&lt;/a&gt;, and includes winrate, damage, popularity, and so forth.&lt;/p&gt;
+
+&lt;p&gt;I decided to make this site after hearing so much back-and-forth about the state of the Paladins meta.
+People were avoiding certain champions (Kinessa), and fervently picking others (Makoa).
+Were these picks justified?
+How would we ever figure it out without looking at the data?&lt;/p&gt;
+
+&lt;p&gt;Access to the underlying match data was kindly provided by &lt;a href=&quot;http://www.hirezstudios.com/&quot;&gt;Hi-Rez&lt;/a&gt;, and is freely available to anyone who requests an API key from them.&lt;/p&gt;
+</summary>
+				<updated>2017-04-17T00:00:00-04:00</updated>
+				<link rel="alternate" type="text/html" href="https://www.thebettermeta.com/posts/2017/04/17/launch/" />
+				<id>https://www.thebettermeta.com/posts/2017/04/17/launch/</id>
+			</entry>
+		
+	
+</feed>

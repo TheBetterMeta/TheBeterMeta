@@ -1,0 +1,37 @@
+{
+	"source": "tier_distribution.csv",
+	"title": "In-Game Ranked Tiers Distribution",
+	"summary": "Graph showing the distribution of in-game ranked tiers",
+	"description": "This graph shows the distribution of in-game ranked tiers at the end of a patch.",
+	"traces": [
+		{
+		"_x": ["name"],
+		"_y": ["pct"],
+		"type": "bar"
+		}
+	],
+	"filters": [
+		{
+			"name": "Patch",
+			"column": "patch",
+			"order": "desc",
+			"xxxtype": "number"
+		},
+		{
+			"name": "Mode",
+			"column": "division",
+			"order": "asc",
+			"default": "Crossplatform KB/M"
+		}		
+	],
+	"orderBy": "tier asc",
+	"layout": {
+		"showlegend": false,
+		"yaxis": {
+			"title": {"text": "% of Players"},
+			"tickformat": ",.0%",
+			"hoverformat": ",.2%",
+    		"dtick": 0.01
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"layout": {
+		"showlegend": true,
+		"xaxis": {"tickangle": -60},
+		"margin": {
+			"r": 50,
+			"b": 110,
+			"t": 0,
+			"pad": 4
+		},
+		"yaxis": {
+			"automargin": true
+		},
+		"xxxautosize": false,
+		"width": 960,
+		"height": 600,
+		"responsive": true
+	}
+}

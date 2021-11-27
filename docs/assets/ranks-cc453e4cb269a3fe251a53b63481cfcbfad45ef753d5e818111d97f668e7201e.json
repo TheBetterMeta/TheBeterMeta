@@ -1,0 +1,55 @@
+{
+	"source": "tier_distribution.csv",
+	"title": "In-Game Ranked Tiers vs TBM Ratings",
+	"description": "<p>This graph shows the distribution of TBM ratings for each in-game ranked tier.  For each rank, the box captures the 25th, 50th, and 75th percentiles (1st, 2nd, and 3rd quartiles), while the whiskers denote the minimum and maximum ratings.</p><p>If you're wondering why you should care about TBM ratings, see the <a href=\"https://discord.gg/jVuYrfM\">TBM Discord</a> for personalized stats.</p>",
+	"summary": "What in-game tiers are related to what TBM ratings",
+	"traces": [
+		{
+			"_x": [
+				"name",
+				"name",
+				"name",
+				"name",
+				"name",
+				"name"
+			],
+			"_y": [
+				"min",
+				"p25",
+				"p50",
+				"p50",
+				"p75",
+				"max"
+			],
+			"type": "box",
+			"boxpoints": false,
+			"xxxmarker": {
+				"color": "black"
+			},
+			"line": {
+				"width": 1
+			}
+		}
+	],
+	"filters": [
+		{
+			"name": "Patch",
+			"column": "patch",
+			"order": "desc",
+			"xxxtype": "number"
+		},
+		{
+			"name": "Mode",
+			"column": "division",
+			"order": "asc",
+			"default": "Crossplatform KB/M"
+		}
+	],
+	"orderBy": "tier asc",
+	"layout": {
+		"yaxis": {
+			"title": {"text": "TBM Rating"}
+		},
+		"showlegend": false
+	}
+}

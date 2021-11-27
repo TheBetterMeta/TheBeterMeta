@@ -1,0 +1,348 @@
+{
+	"source": "legendary_breakdown.csv",
+	"title": "Legendary (Talent) Breakdown",
+	"summary": "Graph breaking down performance of champion legendaries (talents)",
+	"description": "<p>This graph gives information about legendary (talent) performance.  You can look up whatever stat you're interested in on the Y Axis (e.g., winrate, popularity, damage, healing, etc.), for a certain patch, game mode/input device, and skill level.</p><p>The skill level you choose is based on TBM player ratings. The ratings roughly correspond to in-game tiers like this: <table><tr><th>TBM Rating</th><th>Rough in-game tier</th></tr><tr><td>3000</td><td>Masters</td></tr><tr><td>2700</td><td>Diamond</td></tr><tr><td>2500</td><td>Mid-Platinum</td></tr><tr><td>2100</td><td>Mid-Gold</td></tr></table>You can use the <a href=\"/charts/in-game-ranked-tiers-vs-tbm-ratings/\">In-Game Ranked Tiers vs TBM Ratings graph</a> to get a more accurate idea of where these ratings fall.  E.g., choosing 2700+ means you're looking at data from any match where the average TBM player rating was 2700 and above (roughly Diamond and up matches).  To figure out your personal rating, you can by using the <a href=\"/posts/2018/10/20/discord-bot/\">TBM Discord Bot</a>.</p><p>The black bars denote 99% confidence intervals.  These help give an idea of how accurate the estimates are, even when the number of matches is low. E.g., the true winrate of a legendary (for a patch/mode/skill selection) is likely to fall outside of only 1 in 100 black bars, and the true average damage (for a patch/mode/skill selection) is likely to fall outside of only 1 in 100 black bars.</p>",
+	"newColumns": [
+		{
+			"name": "winrate",
+			"value": "[wins] / [count]"
+		},
+		{
+			"name": "matches",
+			"value": "concat([count], ' matches')"
+		},		
+		{
+			"name": "winrate_pos",
+			"value": "ci([count], [wins] / [count], true)"
+		},
+		{
+			"name": "winrate_neg",
+			"value": "ci([count], [wins] / [count], false)"
+		},
+		{
+			"name": "pickrate",
+			"value": "[count] / [champ_count]"
+		},
+		{
+			"name": "pickrate_pos",
+			"value": "ci([champ_count], [count] / [champ_count], true)"
+		},
+		{
+			"name": "pickrate_neg",
+			"value": "ci([champ_count], [count] / [champ_count], false)"
+		},
+		{
+			"name": "dps_pos",
+			"value": "ci_mean([count], [sd_dps], true)"
+		},
+		{
+			"name": "dps_neg",
+			"value": "ci_mean([count], [sd_dps], false)"
+		},
+		{
+			"name": "sps_pos",
+			"value": "ci_mean([count], [sd_sps], true)"
+		},
+		{
+			"name": "sps_neg",
+			"value": "ci_mean([count], [sd_sps], false)"
+		},
+		{
+			"name": "hps_pos",
+			"value": "ci_mean([count], [sd_hps], true)"
+		},
+		{
+			"name": "hps_neg",
+			"value": "ci_mean([count], [sd_hps], false)"
+		},
+		{
+			"name": "kpm_pos",
+			"value": "ci_mean([count], [sd_kpm], true)"
+		},
+		{
+			"name": "kpm_neg",
+			"value": "ci_mean([count], [sd_kpm], false)"
+		},
+		{
+			"name": "slayspm_pos",
+			"value": "ci_mean([count], [sd_slayspm], true)"
+		},
+		{
+			"name": "slayspm_neg",
+			"value": "ci_mean([count], [sd_slayspm], false)"
+		},
+		{
+			"name": "xpm_pos",
+			"value": "ci_mean([count], [sd_xpm], true)"
+		},
+		{
+			"name": "xpm_neg",
+			"value": "ci_mean([count], [sd_xpm], false)"
+		},
+		{
+			"name": "cpm_pos",
+			"value": "ci_mean([count], [sd_cpm], true)"
+		},
+		{
+			"name": "cpm_neg",
+			"value": "ci_mean([count], [sd_cpm], false)"
+		}
+	],
+	"selectable": [
+		{
+			"name": "Winrate",
+			"data": {
+				"layout": {
+					"yaxis": {
+						"title": {"text": "Winrate"},
+						"tickformat": ",.1%",
+						"dtick": 0.1,
+						"range": [0, 1]
+					}	
+				},
+				"traces": [
+					{
+						"_y": ["winrate"],
+						"error_y": {
+							"_array": ["winrate_pos"],
+							"_arrayminus": ["winrate_neg"]
+						},
+						"_text": ["matches"]
+					}
+				]
+			}
+		},
+		{
+			"name": "Popularity",
+			"data": {
+				"layout": {
+					"yaxis": {
+						"title": {"text": "Popularity"},
+						"tickformat": ",.1%",
+						"dtick": 0.1,
+						"range": [0, 1]
+					}	
+				},
+				"traces": [
+					{
+						"_y": ["pickrate"],
+						"error_y": {
+							"_array": ["pickrate_pos"],
+							"_arrayminus": ["pickrate_neg"]
+						},
+						"_text": ["matches"]
+					}
+				]
+			}
+		},
+		{
+			"name": "Damage Per Second",
+			"data": {
+				"layout": {
+					"yaxis": {
+						"title": {"text": "Damage Per Second"},
+						"tickformat": ",.2f",
+						"xxdtick": 10,
+						"range": [0, 150]
+					}	
+				},
+				"traces": [
+					{
+						"_y": ["avg_dps"],
+						"error_y": {
+							"_array": ["dps_pos"],
+							"_arrayminus": ["dps_neg"]
+						},
+						"_text": ["matches"]
+					}
+				]
+			}
+		},
+		{
+			"name": "Shielding Per Second",
+			"data": {
+				"layout": {
+					"yaxis": {
+						"title": {"text": "Shielding Per Second"},
+						"tickformat": ",.2f",
+						"xxdtick": 10,
+						"range": [0, 150]
+					}	
+				},
+				"traces": [
+					{
+						"_y": ["avg_sps"],
+						"error_y": {
+							"_array": ["sps_pos"],
+							"_arrayminus": ["sps_neg"]
+						},
+						"_text": ["matches"]
+					}
+				]
+			}
+		},
+		{
+			"name": "Healing Per Second",
+			"data": {
+				"layout": {
+					"yaxis": {
+						"title": {"text": "Healing Per Second"},
+						"tickformat": ",.2f",
+						"dtick": 20,
+						"range": [0, 200]
+					}
+				},
+				"traces": [
+					{
+						"_y": ["avg_hps"],
+						"error_y": {
+							"_array": ["hps_pos"],
+							"_arrayminus": ["hps_neg"]
+						},
+						"_text": ["matches"]
+					}
+				]
+			}
+		},
+		{
+			"name": "Kills Per Minute",
+			"data": {
+				"layout": {
+					"yaxis": {
+						"title": {"text": "Kills Per Minute"},
+						"tickformat": ",.2f",
+						"dtick": 0.25,
+						"range": [0, 2.5]
+					}	
+				},
+				"traces": [
+					{
+						"_y": ["avg_kpm"],
+						"error_y": {
+							"_array": ["kpm_pos"],
+							"_arrayminus": ["kpm_neg"]
+						},
+						"_text": ["matches"]
+					}
+				]
+			}
+		},
+		{
+			"name": "Slays Per Minute",
+			"data": {
+				"layout": {
+					"yaxis": {
+						"title": {"text": "Slays Per Minute"},
+						"tickformat": ",.2f",
+						"dtick": 0.25,
+						"range": [0, 2.5]
+					}	
+				},
+				"traces": [
+					{
+						"_y": ["avg_slayspm"],
+						"error_y": {
+							"_array": ["slayspm_pos"],
+							"_arrayminus": ["slayspm_neg"]
+						},
+						"_text": ["matches"]
+					}
+				]
+			}
+		},
+		{
+			"name": "Deaths Per Minute",
+			"data": {
+				"layout": {
+					"yaxis": {
+						"title": {"text": "Deaths Per Minute"},
+						"tickformat": ",.2f",
+						"dtick": 0.10,
+						"range": [0, 1.2]
+					}	
+				},
+				"traces": [
+					{
+						"_y": ["avg_xpm"],
+						"error_y": {
+							"_array": ["xpm_pos"],
+							"_arrayminus": ["xpm_neg"]
+						},
+						"_text": ["matches"]
+					}
+				]
+			}
+		},
+		{
+			"name": "Credits Per Minute",
+			"data": {
+				"layout": {
+					"yaxis": {
+						"title": {"text": "Credits Per Minute"},
+						"tickformat": ",.2f",
+						"dtick": 25,
+						"range": [0, 300]
+					}	
+				},
+				"traces": [
+					{
+						"_y": ["avg_cpm"],
+						"error_y": {
+							"_array": ["cpm_pos"],
+							"_arrayminus": ["cpm_neg"]
+						},
+						"_text": ["matches"]
+					}
+				]
+			}
+		}
+	],
+	"traces": [
+		{
+			"_x": ["legendary"],
+			"error_y": {
+				"type": "data",
+				"symmetric": false
+			},
+			"type": "bar"
+		}
+	],
+	"splitBy": "name",
+	"xxxorderBy": "[hour] asc",
+	"filters": [
+		{
+			"name": "Patch",
+			"column": "patch",
+			"order": "desc"
+		},
+		{
+			"name": "Division",
+			"column": "division",
+			"order": "desc",
+			"default": "Keyboard/Mouse Ranked"
+		},
+		{
+			"name": "Role",
+			"column": "role",
+			"orderlist": ["Tank", "Damage", "Support", "Flank"],
+			"default": "Tank"
+		},
+		{
+			"name": "Player Rating",
+			"column": "skill_level",
+			"orderlist": ["3000+", "2700+", "2500+", "2100+", "Everyone"],
+			"xxtype": "number",
+			"default": "2500+"
+		}
+	],
+	"layout": {
+		"showlegend": true,
+		"yaxis": {
+			"fixedrange": true
+		},
+		"xaxis" : {
+			"fixedrange": true
+		}
+   	}
+}

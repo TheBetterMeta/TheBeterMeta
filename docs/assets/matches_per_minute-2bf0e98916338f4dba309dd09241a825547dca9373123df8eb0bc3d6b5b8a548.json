@@ -1,0 +1,47 @@
+{
+	"source": "matches_per_minute.csv",
+	"title": "Matches Per Minute",
+	"summary": "Graph showing how many matches per minute go on in different regions throughout the day",
+	"description": "This graph shows how many matches per minute go on in different regions throughout the day.",
+	"traces": [
+		{
+			"_x": ["hour"],
+			"_y": ["avg_matches_per_minute"],
+			"type": "line"
+		}
+	],	
+	"splitBy": "region",
+	"orderBy": "[hour] asc",
+	"filters": [
+		{
+			"name": "Patch",
+			"column": "patch",
+			"order": "desc",
+			"xxxtype": "number"
+		},
+		{
+			"name": "Mode",
+			"column": "division",
+			"order": "asc",
+			"default": "Keyboard/Mouse Ranked"
+		}
+	],
+	"layout": {
+		"showlegend": true,
+		"yaxis": {
+			"title": {"text": "Matches Per Minute"},
+			"tickformat": ",.0f",
+			"hoverformat": ",.1f",
+    		"dtick": 1
+		},
+		"xaxis": {
+			"title": {"text": "Hour of Day (UTC)"},
+			"tickformat": ",.0",
+			"ticksuffix": ":00",
+			"dtick": 1
+		},
+		"xxxxaxis": {
+			"tickformat": "%H:%M"
+		}		
+	}
+}

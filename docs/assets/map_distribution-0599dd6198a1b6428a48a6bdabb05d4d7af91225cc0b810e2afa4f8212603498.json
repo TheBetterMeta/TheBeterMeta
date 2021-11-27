@@ -1,0 +1,35 @@
+{
+	"source": "map_distribution.csv",
+	"title": "Map Distribution",
+	"summary": "Graph showing distribution of maps",
+	"description": "This graph shows how often different maps show up in casual and ranked siege.",
+	"traces": [
+		{
+			"_x": ["map"],
+			"_y": ["pct"],
+			"type": "bar"
+		}
+	],	
+	"orderBy": "pct asc",
+	"filters": [
+		{
+			"name": "Mode",
+			"column": "division",
+			"order": "asc",
+			"default": "Ranked"
+		},
+		{
+			"name": "Patch",
+			"column": "patch",
+			"order": "desc"
+		}
+	],
+	"layout": {
+		"showlegend": false,
+		"yaxis": {		
+			"title": {"text": "% of Matches"},
+			"tickformat": ",.0%",
+    		"dtick": 0.01
+		}
+	}
+}

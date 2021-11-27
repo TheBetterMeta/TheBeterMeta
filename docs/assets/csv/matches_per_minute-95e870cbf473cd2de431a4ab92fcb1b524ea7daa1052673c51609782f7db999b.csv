@@ -1,0 +1,2326 @@
+patch,hour,division,region,count,total,avg_matches_per_minute
+V2.06,0,Crossplatform Casual,Europe,30747,1692701,9.3103
+V2.06,1,Crossplatform Casual,Europe,19624,1692701,5.9422
+V2.06,2,Crossplatform Casual,Europe,13121,1692701,3.9731
+V2.06,3,Crossplatform Casual,Europe,9403,1692701,2.8473
+V2.06,4,Crossplatform Casual,Europe,8543,1692701,2.5869
+V2.06,5,Crossplatform Casual,Europe,11014,1692701,3.3351
+V2.06,6,Crossplatform Casual,Europe,18411,1692701,5.5749
+V2.06,7,Crossplatform Casual,Europe,30357,1692701,9.1922
+V2.06,8,Crossplatform Casual,Europe,47927,1692701,14.5124
+V2.06,9,Crossplatform Casual,Europe,67787,1692701,20.5260
+V2.06,10,Crossplatform Casual,Europe,83356,1692701,25.2547
+V2.06,11,Crossplatform Casual,Europe,90276,1692701,27.8415
+V2.06,12,Crossplatform Casual,Europe,99224,1692701,30.6011
+V2.06,13,Crossplatform Casual,Europe,108232,1692701,33.3793
+V2.06,14,Crossplatform Casual,Europe,114346,1692701,34.6347
+V2.06,15,Crossplatform Casual,Europe,118675,1692701,35.9349
+V2.06,16,Crossplatform Casual,Europe,120323,1692701,36.4339
+V2.06,17,Crossplatform Casual,Europe,122805,1692701,37.1855
+V2.06,18,Crossplatform Casual,Europe,123198,1692701,37.3116
+V2.06,19,Crossplatform Casual,Europe,125512,1692701,38.0052
+V2.06,20,Crossplatform Casual,Europe,116189,1692701,35.1822
+V2.06,21,Crossplatform Casual,Europe,95992,1692701,29.0665
+V2.06,22,Crossplatform Casual,Europe,70051,1692701,21.2115
+V2.06,23,Crossplatform Casual,Europe,47588,1692701,14.4097
+V2.06,0,Crossplatform Casual,North America,93418,1525305,28.2871
+V2.06,1,Crossplatform Casual,North America,98457,1525305,29.8129
+V2.06,2,Crossplatform Casual,North America,100714,1525305,30.4963
+V2.06,3,Crossplatform Casual,North America,94904,1525305,28.7371
+V2.06,4,Crossplatform Casual,North America,84020,1525305,25.4413
+V2.06,5,Crossplatform Casual,North America,70390,1525305,21.3142
+V2.06,6,Crossplatform Casual,North America,56283,1525305,17.0428
+V2.06,7,Crossplatform Casual,North America,43918,1525305,13.2984
+V2.06,8,Crossplatform Casual,North America,35343,1525305,10.7019
+V2.06,9,Crossplatform Casual,North America,29561,1525305,8.9511
+V2.06,10,Crossplatform Casual,North America,25685,1525305,7.7819
+V2.06,11,Crossplatform Casual,North America,25249,1525305,7.7869
+V2.06,12,Crossplatform Casual,North America,29551,1525305,9.1137
+V2.06,13,Crossplatform Casual,North America,36140,1525305,11.1458
+V2.06,14,Crossplatform Casual,North America,44509,1525305,13.4816
+V2.06,15,Crossplatform Casual,North America,52322,1525305,15.8433
+V2.06,16,Crossplatform Casual,North America,58730,1525305,17.7836
+V2.06,17,Crossplatform Casual,North America,64966,1525305,19.6718
+V2.06,18,Crossplatform Casual,North America,70333,1525305,21.3008
+V2.06,19,Crossplatform Casual,North America,75021,1525305,22.7165
+V2.06,20,Crossplatform Casual,North America,78457,1525305,23.7569
+V2.06,21,Crossplatform Casual,North America,82978,1525305,25.1258
+V2.06,22,Crossplatform Casual,North America,85600,1525305,25.9198
+V2.06,23,Crossplatform Casual,North America,88756,1525305,26.8754
+V2.05,0,Crossplatform Casual,Europe,23340,1460684,7.0674
+V2.05,1,Crossplatform Casual,Europe,14801,1460684,4.4818
+V2.05,2,Crossplatform Casual,Europe,9618,1460684,2.9124
+V2.05,3,Crossplatform Casual,Europe,7531,1460684,2.2804
+V2.05,4,Crossplatform Casual,Europe,7439,1460684,2.2526
+V2.05,5,Crossplatform Casual,Europe,10654,1460684,3.2261
+V2.05,6,Crossplatform Casual,Europe,18066,1460684,5.4704
+V2.05,7,Crossplatform Casual,Europe,28361,1460684,8.5878
+V2.05,8,Crossplatform Casual,Europe,43412,1460684,13.1453
+V2.05,9,Crossplatform Casual,Europe,58715,1460684,17.7790
+V2.05,10,Crossplatform Casual,Europe,71554,1460684,21.6666
+V2.05,11,Crossplatform Casual,Europe,75712,1460684,22.9388
+V2.05,12,Crossplatform Casual,Europe,83187,1460684,25.6553
+V2.05,13,Crossplatform Casual,Europe,90843,1460684,28.0164
+V2.05,14,Crossplatform Casual,Europe,97300,1460684,29.4701
+V2.05,15,Crossplatform Casual,Europe,103390,1460684,31.3066
+V2.05,16,Crossplatform Casual,Europe,107583,1460684,32.5763
+V2.05,17,Crossplatform Casual,Europe,110048,1460684,33.3226
+V2.05,18,Crossplatform Casual,Europe,109823,1460684,33.2545
+V2.05,19,Crossplatform Casual,Europe,110044,1460684,33.3214
+V2.05,20,Crossplatform Casual,Europe,102742,1460684,31.1104
+V2.05,21,Crossplatform Casual,Europe,81744,1460684,24.7522
+V2.05,22,Crossplatform Casual,Europe,57502,1460684,17.4117
+V2.05,23,Crossplatform Casual,Europe,37275,1460684,11.2869
+V2.05,0,Crossplatform Casual,North America,77863,1314081,23.5770
+V2.05,1,Crossplatform Casual,North America,81828,1314081,24.7776
+V2.05,2,Crossplatform Casual,North America,82830,1314081,25.0810
+V2.05,3,Crossplatform Casual,North America,81393,1314081,24.6459
+V2.05,4,Crossplatform Casual,North America,73576,1314081,22.2789
+V2.05,5,Crossplatform Casual,North America,60454,1314081,18.3056
+V2.05,6,Crossplatform Casual,North America,47596,1314081,14.4121
+V2.05,7,Crossplatform Casual,North America,37315,1314081,11.2990
+V2.05,8,Crossplatform Casual,North America,31196,1314081,9.4462
+V2.05,9,Crossplatform Casual,North America,26118,1314081,7.9086
+V2.05,10,Crossplatform Casual,North America,23407,1314081,7.0877
+V2.05,11,Crossplatform Casual,North America,22743,1314081,6.8906
+V2.05,12,Crossplatform Casual,North America,25996,1314081,8.0173
+V2.05,13,Crossplatform Casual,North America,32169,1314081,9.9211
+V2.05,14,Crossplatform Casual,North America,39514,1314081,11.9679
+V2.05,15,Crossplatform Casual,North America,46778,1314081,14.1645
+V2.05,16,Crossplatform Casual,North America,52627,1314081,15.9355
+V2.05,17,Crossplatform Casual,North America,57746,1314081,17.4856
+V2.05,18,Crossplatform Casual,North America,61230,1314081,18.5405
+V2.05,19,Crossplatform Casual,North America,64218,1314081,19.4453
+V2.05,20,Crossplatform Casual,North America,68827,1314081,20.8409
+V2.05,21,Crossplatform Casual,North America,71380,1314081,21.6140
+V2.05,22,Crossplatform Casual,North America,72826,1314081,22.0518
+V2.05,23,Crossplatform Casual,North America,74451,1314081,22.5438
+V2.06,0,PS4 Casual,North America,46481,820731,14.0745
+V2.06,1,PS4 Casual,North America,47183,820731,14.2871
+V2.06,2,PS4 Casual,North America,46536,820731,14.0912
+V2.06,3,PS4 Casual,North America,43233,820731,13.0910
+V2.06,4,PS4 Casual,North America,37510,820731,11.3581
+V2.06,5,PS4 Casual,North America,31564,820731,9.5576
+V2.06,6,PS4 Casual,North America,26234,820731,7.9437
+V2.06,7,PS4 Casual,North America,21966,820731,6.6514
+V2.06,8,PS4 Casual,North America,19720,820731,5.9713
+V2.06,9,PS4 Casual,North America,17443,820731,5.2818
+V2.06,10,PS4 Casual,North America,16233,820731,4.9182
+V2.06,11,PS4 Casual,North America,16824,820731,5.1886
+V2.06,12,PS4 Casual,North America,19682,820731,6.0700
+V2.06,13,PS4 Casual,North America,24785,820731,7.6438
+V2.06,14,PS4 Casual,North America,29999,820731,9.0866
+V2.06,15,PS4 Casual,North America,34021,820731,10.3016
+V2.06,16,PS4 Casual,North America,37043,820731,11.2167
+V2.06,17,PS4 Casual,North America,39771,820731,12.0427
+V2.06,18,PS4 Casual,North America,41313,820731,12.5097
+V2.06,19,PS4 Casual,North America,42645,820731,12.9130
+V2.06,20,PS4 Casual,North America,43563,820731,13.1910
+V2.06,21,PS4 Casual,North America,44997,820731,13.6252
+V2.06,22,PS4 Casual,North America,45676,820731,13.8307
+V2.06,23,PS4 Casual,North America,46309,820731,14.0225
+V2.05,0,PS4 Casual,North America,38383,734484,11.6224
+V2.05,1,PS4 Casual,North America,38466,734484,11.6476
+V2.05,2,PS4 Casual,North America,38251,734484,11.5825
+V2.05,3,PS4 Casual,North America,36532,734484,11.0619
+V2.05,4,PS4 Casual,North America,32917,734484,9.9673
+V2.05,5,PS4 Casual,North America,28599,734484,8.6599
+V2.05,6,PS4 Casual,North America,24059,734484,7.2851
+V2.05,7,PS4 Casual,North America,20855,734484,6.3149
+V2.05,8,PS4 Casual,North America,19320,734484,5.8501
+V2.05,9,PS4 Casual,North America,17638,734484,5.3409
+V2.05,10,PS4 Casual,North America,16467,734484,4.9863
+V2.05,11,PS4 Casual,North America,16619,734484,5.0352
+V2.05,12,PS4 Casual,North America,20067,734484,6.1888
+V2.05,13,PS4 Casual,North America,26020,734484,8.0247
+V2.05,14,PS4 Casual,North America,30776,734484,9.3214
+V2.05,15,PS4 Casual,North America,33459,734484,10.1314
+V2.05,16,PS4 Casual,North America,34929,734484,10.5766
+V2.05,17,PS4 Casual,North America,36654,734484,11.0989
+V2.05,18,PS4 Casual,North America,37105,734484,11.2355
+V2.05,19,PS4 Casual,North America,37211,734484,11.2675
+V2.05,20,PS4 Casual,North America,36774,734484,11.1352
+V2.05,21,PS4 Casual,North America,37181,734484,11.2585
+V2.05,22,PS4 Casual,North America,37990,734484,11.5034
+V2.05,23,PS4 Casual,North America,38212,734484,11.5706
+V2.06,0,PS4 Casual,Europe,15742,720060,4.7667
+V2.06,1,PS4 Casual,Europe,10646,720060,3.2237
+V2.06,2,PS4 Casual,Europe,6981,720060,2.1139
+V2.06,3,PS4 Casual,Europe,4928,720060,1.4922
+V2.06,4,PS4 Casual,Europe,3757,720060,1.1376
+V2.06,5,PS4 Casual,Europe,4082,720060,1.2360
+V2.06,6,PS4 Casual,Europe,6711,720060,2.0322
+V2.06,7,PS4 Casual,Europe,12831,720060,3.8853
+V2.06,8,PS4 Casual,Europe,22978,720060,6.9578
+V2.06,9,PS4 Casual,Europe,30923,720060,9.3635
+V2.06,10,PS4 Casual,Europe,37843,720060,11.4655
+V2.06,11,PS4 Casual,Europe,40496,720060,12.4891
+V2.06,12,PS4 Casual,Europe,44232,720060,13.6413
+V2.06,13,PS4 Casual,Europe,47868,720060,14.7627
+V2.06,14,PS4 Casual,Europe,51158,720060,15.4955
+V2.06,15,PS4 Casual,Europe,52297,720060,15.8356
+V2.06,16,PS4 Casual,Europe,51543,720060,15.6073
+V2.06,17,PS4 Casual,Europe,50024,720060,15.1473
+V2.06,18,PS4 Casual,Europe,47839,720060,14.4857
+V2.06,19,PS4 Casual,Europe,46212,720060,13.9931
+V2.06,20,PS4 Casual,Europe,42228,720060,12.7867
+V2.06,21,PS4 Casual,Europe,37161,720060,11.2524
+V2.06,22,PS4 Casual,Europe,29390,720060,8.8993
+V2.06,23,PS4 Casual,Europe,22190,720060,6.7192
+V2.05,0,PS4 Casual,Europe,12016,616126,3.6385
+V2.05,1,PS4 Casual,Europe,7771,616126,2.3531
+V2.05,2,PS4 Casual,Europe,5308,616126,1.6073
+V2.05,3,PS4 Casual,Europe,3842,616126,1.1634
+V2.05,4,PS4 Casual,Europe,3202,616126,0.9696
+V2.05,5,PS4 Casual,Europe,3954,616126,1.1973
+V2.05,6,PS4 Casual,Europe,7015,616126,2.1242
+V2.05,7,PS4 Casual,Europe,12581,616126,3.8096
+V2.05,8,PS4 Casual,Europe,20307,616126,6.1491
+V2.05,9,PS4 Casual,Europe,26733,616126,8.0948
+V2.05,10,PS4 Casual,Europe,31423,616126,9.5150
+V2.05,11,PS4 Casual,Europe,33038,616126,10.0098
+V2.05,12,PS4 Casual,Europe,35970,616126,11.0933
+V2.05,13,PS4 Casual,Europe,40353,616126,12.4451
+V2.05,14,PS4 Casual,Europe,43037,616126,13.0350
+V2.05,15,PS4 Casual,Europe,44984,616126,13.6213
+V2.05,16,PS4 Casual,Europe,46242,616126,14.0022
+V2.05,17,PS4 Casual,Europe,45923,616126,13.9056
+V2.05,18,PS4 Casual,Europe,43598,616126,13.2015
+V2.05,19,PS4 Casual,Europe,41159,616126,12.4630
+V2.05,20,PS4 Casual,Europe,36121,616126,10.9375
+V2.05,21,PS4 Casual,Europe,30304,616126,9.1761
+V2.05,22,PS4 Casual,Europe,23817,616126,7.2118
+V2.05,23,PS4 Casual,Europe,17428,616126,5.2773
+V2.06,0,Crossplatform Casual,Brazil,44024,552143,13.3305
+V2.06,1,Crossplatform Casual,Brazil,42605,552143,12.9009
+V2.06,2,Crossplatform Casual,Brazil,37981,552143,11.5007
+V2.06,3,Crossplatform Casual,Brazil,30126,552143,9.1222
+V2.06,4,Crossplatform Casual,Brazil,21531,552143,6.5196
+V2.06,5,Crossplatform Casual,Brazil,14564,552143,4.4100
+V2.06,6,Crossplatform Casual,Brazil,8824,552143,2.6719
+V2.06,7,Crossplatform Casual,Brazil,5093,552143,1.5422
+V2.06,8,Crossplatform Casual,Brazil,3171,552143,0.9602
+V2.06,9,Crossplatform Casual,Brazil,2307,552143,0.6986
+V2.06,10,Crossplatform Casual,Brazil,2363,552143,0.7160
+V2.06,11,Crossplatform Casual,Brazil,3818,552143,1.1775
+V2.06,12,Crossplatform Casual,Brazil,7046,552143,2.1730
+V2.06,13,Crossplatform Casual,Brazil,12338,552143,3.8051
+V2.06,14,Crossplatform Casual,Brazil,18013,552143,5.4562
+V2.06,15,Crossplatform Casual,Brazil,20542,552143,6.2202
+V2.06,16,Crossplatform Casual,Brazil,23778,552143,7.2000
+V2.06,17,Crossplatform Casual,Brazil,29282,552143,8.8666
+V2.06,18,Crossplatform Casual,Brazil,32790,552143,9.9308
+V2.06,19,Crossplatform Casual,Brazil,34885,552143,10.5632
+V2.06,20,Crossplatform Casual,Brazil,35735,552143,10.8206
+V2.06,21,Crossplatform Casual,Brazil,37751,552143,11.4311
+V2.06,22,Crossplatform Casual,Brazil,40461,552143,12.2517
+V2.06,23,Crossplatform Casual,Brazil,43115,552143,13.0553
+V2.04,0,Crossplatform Casual,Europe,8013,476082,4.9387
+V2.04,1,Crossplatform Casual,Europe,5307,476082,3.2709
+V2.04,2,Crossplatform Casual,Europe,3617,476082,2.2294
+V2.04,3,Crossplatform Casual,Europe,2806,476082,1.7295
+V2.04,4,Crossplatform Casual,Europe,2668,476082,1.6444
+V2.04,5,Crossplatform Casual,Europe,3495,476082,2.1542
+V2.04,6,Crossplatform Casual,Europe,5270,476082,3.2482
+V2.04,7,Crossplatform Casual,Europe,7937,476082,4.8919
+V2.04,8,Crossplatform Casual,Europe,11216,476082,6.9128
+V2.04,9,Crossplatform Casual,Europe,15662,476082,9.6531
+V2.04,10,Crossplatform Casual,Europe,19621,476082,12.0931
+V2.04,11,Crossplatform Casual,Europe,21730,476082,13.4087
+V2.04,12,Crossplatform Casual,Europe,24925,476082,15.3622
+V2.04,13,Crossplatform Casual,Europe,28677,476082,18.3533
+V2.04,14,Crossplatform Casual,Europe,31853,476082,20.3860
+V2.04,15,Crossplatform Casual,Europe,34020,476082,21.7728
+V2.04,16,Crossplatform Casual,Europe,37880,476082,23.3469
+V2.04,17,Crossplatform Casual,Europe,39831,476082,24.5493
+V2.04,18,Crossplatform Casual,Europe,39224,476082,24.1751
+V2.04,19,Crossplatform Casual,Europe,38986,476082,24.0284
+V2.04,20,Crossplatform Casual,Europe,34356,476082,21.1748
+V2.04,21,Crossplatform Casual,Europe,27575,476082,16.9954
+V2.04,22,Crossplatform Casual,Europe,19080,476082,11.7597
+V2.04,23,Crossplatform Casual,Europe,12333,476082,7.6012
+V2.03,0,Crossplatform Casual,Europe,8015,474757,4.9399
+V2.03,1,Crossplatform Casual,Europe,5221,474757,3.2179
+V2.03,2,Crossplatform Casual,Europe,3423,474757,2.1097
+V2.03,3,Crossplatform Casual,Europe,2559,474757,1.5772
+V2.03,4,Crossplatform Casual,Europe,2503,474757,1.5427
+V2.03,5,Crossplatform Casual,Europe,3076,474757,1.8959
+V2.03,6,Crossplatform Casual,Europe,4883,474757,3.0096
+V2.03,7,Crossplatform Casual,Europe,7638,474757,4.7076
+V2.03,8,Crossplatform Casual,Europe,11470,474757,7.0694
+V2.03,9,Crossplatform Casual,Europe,16423,474757,10.1222
+V2.03,10,Crossplatform Casual,Europe,20224,474757,12.4647
+V2.03,11,Crossplatform Casual,Europe,22630,474757,13.9476
+V2.03,12,Crossplatform Casual,Europe,25157,474757,16.1005
+V2.03,13,Crossplatform Casual,Europe,28269,474757,18.0923
+V2.03,14,Crossplatform Casual,Europe,30238,474757,19.3523
+V2.03,15,Crossplatform Casual,Europe,33361,474757,20.5911
+V2.03,16,Crossplatform Casual,Europe,35968,474757,22.1684
+V2.03,17,Crossplatform Casual,Europe,36850,474757,22.7119
+V2.03,18,Crossplatform Casual,Europe,39660,474757,24.4438
+V2.03,19,Crossplatform Casual,Europe,40022,474757,24.6670
+V2.03,20,Crossplatform Casual,Europe,36535,474757,22.5179
+V2.03,21,Crossplatform Casual,Europe,28345,474757,17.4701
+V2.03,22,Crossplatform Casual,Europe,19748,474757,12.1715
+V2.03,23,Crossplatform Casual,Europe,12539,474757,7.7282
+V2.05,0,Crossplatform Casual,Brazil,36738,469407,11.1243
+V2.05,1,Crossplatform Casual,Brazil,35355,469407,10.7056
+V2.05,2,Crossplatform Casual,Brazil,31987,469407,9.6857
+V2.05,3,Crossplatform Casual,Brazil,26672,469407,8.0763
+V2.05,4,Crossplatform Casual,Brazil,19702,469407,5.9658
+V2.05,5,Crossplatform Casual,Brazil,13095,469407,3.9652
+V2.05,6,Crossplatform Casual,Brazil,7871,469407,2.3834
+V2.05,7,Crossplatform Casual,Brazil,4526,469407,1.3705
+V2.05,8,Crossplatform Casual,Brazil,2827,469407,0.8560
+V2.05,9,Crossplatform Casual,Brazil,2007,469407,0.6077
+V2.05,10,Crossplatform Casual,Brazil,2065,469407,0.6253
+V2.05,11,Crossplatform Casual,Brazil,3205,469407,0.9711
+V2.05,12,Crossplatform Casual,Brazil,5984,469407,1.8455
+V2.05,13,Crossplatform Casual,Brazil,10455,469407,3.2244
+V2.05,14,Crossplatform Casual,Brazil,15666,469407,4.7449
+V2.05,15,Crossplatform Casual,Brazil,18353,469407,5.5573
+V2.05,16,Crossplatform Casual,Brazil,20800,469407,6.2983
+V2.05,17,Crossplatform Casual,Brazil,25026,469407,7.5779
+V2.05,18,Crossplatform Casual,Brazil,27604,469407,8.3585
+V2.05,19,Crossplatform Casual,Brazil,28890,469407,8.7479
+V2.05,20,Crossplatform Casual,Brazil,29912,469407,9.0574
+V2.05,21,Crossplatform Casual,Brazil,31162,469407,9.4359
+V2.05,22,Crossplatform Casual,Brazil,33718,469407,10.2099
+V2.05,23,Crossplatform Casual,Brazil,35787,469407,10.8364
+V2.04,0,Crossplatform Casual,North America,24972,368359,15.3911
+V2.04,1,Crossplatform Casual,North America,26015,368359,16.0339
+V2.04,2,Crossplatform Casual,North America,25706,368359,15.8435
+V2.04,3,Crossplatform Casual,North America,24406,368359,15.0423
+V2.04,4,Crossplatform Casual,North America,21290,368359,13.1218
+V2.04,5,Crossplatform Casual,North America,17177,368359,10.5868
+V2.04,6,Crossplatform Casual,North America,13266,368359,8.1763
+V2.04,7,Crossplatform Casual,North America,10493,368359,6.4673
+V2.04,8,Crossplatform Casual,North America,8262,368359,5.0923
+V2.04,9,Crossplatform Casual,North America,7325,368359,4.5147
+V2.04,10,Crossplatform Casual,North America,6616,368359,4.0777
+V2.04,11,Crossplatform Casual,North America,6489,368359,4.0042
+V2.04,12,Crossplatform Casual,North America,7360,368359,4.5363
+V2.04,13,Crossplatform Casual,North America,8568,368359,5.4836
+V2.04,14,Crossplatform Casual,North America,10543,368359,6.7476
+V2.04,15,Crossplatform Casual,North America,11581,368359,7.4119
+V2.04,16,Crossplatform Casual,North America,13163,368359,8.1128
+V2.04,17,Crossplatform Casual,North America,13873,368359,8.5504
+V2.04,18,Crossplatform Casual,North America,14135,368359,8.7120
+V2.04,19,Crossplatform Casual,North America,15316,368359,9.4398
+V2.04,20,Crossplatform Casual,North America,17028,368359,10.4949
+V2.04,21,Crossplatform Casual,North America,19868,368359,12.2453
+V2.04,22,Crossplatform Casual,North America,21509,368359,13.2568
+V2.04,23,Crossplatform Casual,North America,23398,368359,14.4210
+V2.03,0,Crossplatform Casual,North America,23688,361459,14.5997
+V2.03,1,Crossplatform Casual,North America,25176,361459,15.5168
+V2.03,2,Crossplatform Casual,North America,25311,361459,15.6001
+V2.03,3,Crossplatform Casual,North America,23865,361459,14.7089
+V2.03,4,Crossplatform Casual,North America,21053,361459,12.9757
+V2.03,5,Crossplatform Casual,North America,16788,361459,10.3470
+V2.03,6,Crossplatform Casual,North America,12778,361459,7.8756
+V2.03,7,Crossplatform Casual,North America,9860,361459,6.0771
+V2.03,8,Crossplatform Casual,North America,8004,361459,4.9332
+V2.03,9,Crossplatform Casual,North America,7052,361459,4.3464
+V2.03,10,Crossplatform Casual,North America,6344,361459,3.9101
+V2.03,11,Crossplatform Casual,North America,6309,361459,3.8885
+V2.03,12,Crossplatform Casual,North America,7037,361459,4.5038
+V2.03,13,Crossplatform Casual,North America,8358,361459,5.3493
+V2.03,14,Crossplatform Casual,North America,10072,361459,6.4461
+V2.03,15,Crossplatform Casual,North America,11633,361459,7.1801
+V2.03,16,Crossplatform Casual,North America,12797,361459,7.8872
+V2.03,17,Crossplatform Casual,North America,13967,361459,8.6084
+V2.03,18,Crossplatform Casual,North America,14881,361459,9.1717
+V2.03,19,Crossplatform Casual,North America,16146,361459,9.9514
+V2.03,20,Crossplatform Casual,North America,17979,361459,11.0811
+V2.03,21,Crossplatform Casual,North America,19390,361459,11.9507
+V2.03,22,Crossplatform Casual,North America,21069,361459,12.9856
+V2.03,23,Crossplatform Casual,North America,21902,361459,13.4990
+V2.06,0,Keyboard/Mouse Ranked,Europe,7820,346989,2.3679
+V2.06,1,Keyboard/Mouse Ranked,Europe,4983,346989,1.5089
+V2.06,2,Keyboard/Mouse Ranked,Europe,3005,346989,0.9099
+V2.06,3,Keyboard/Mouse Ranked,Europe,2009,346989,0.6083
+V2.06,4,Keyboard/Mouse Ranked,Europe,1696,346989,0.5136
+V2.06,5,Keyboard/Mouse Ranked,Europe,1845,346989,0.5587
+V2.06,6,Keyboard/Mouse Ranked,Europe,2721,346989,0.8239
+V2.06,7,Keyboard/Mouse Ranked,Europe,4581,346989,1.3871
+V2.06,8,Keyboard/Mouse Ranked,Europe,7644,346989,2.3147
+V2.06,9,Keyboard/Mouse Ranked,Europe,11373,346989,3.4438
+V2.06,10,Keyboard/Mouse Ranked,Europe,14847,346989,4.4983
+V2.06,11,Keyboard/Mouse Ranked,Europe,17056,346989,5.2602
+V2.06,12,Keyboard/Mouse Ranked,Europe,19438,346989,5.9948
+V2.06,13,Keyboard/Mouse Ranked,Europe,21843,346989,6.7365
+V2.06,14,Keyboard/Mouse Ranked,Europe,23394,346989,7.2148
+V2.06,15,Keyboard/Mouse Ranked,Europe,24509,346989,7.4235
+V2.06,16,Keyboard/Mouse Ranked,Europe,24840,346989,7.5261
+V2.06,17,Keyboard/Mouse Ranked,Europe,24891,346989,7.5370
+V2.06,18,Keyboard/Mouse Ranked,Europe,24970,346989,7.7009
+V2.06,19,Keyboard/Mouse Ranked,Europe,25985,346989,7.8697
+V2.06,20,Keyboard/Mouse Ranked,Europe,25432,346989,7.7025
+V2.06,21,Keyboard/Mouse Ranked,Europe,22487,346989,6.8091
+V2.06,22,Keyboard/Mouse Ranked,Europe,17418,346989,5.2742
+V2.06,23,Keyboard/Mouse Ranked,Europe,12202,346989,3.6948
+V2.05,0,Keyboard/Mouse Ranked,Europe,7438,338436,2.2523
+V2.05,1,Keyboard/Mouse Ranked,Europe,4505,338436,1.3641
+V2.05,2,Keyboard/Mouse Ranked,Europe,2679,338436,0.8112
+V2.05,3,Keyboard/Mouse Ranked,Europe,1870,338436,0.5662
+V2.05,4,Keyboard/Mouse Ranked,Europe,1621,338436,0.4909
+V2.05,5,Keyboard/Mouse Ranked,Europe,1864,338436,0.5644
+V2.05,6,Keyboard/Mouse Ranked,Europe,2752,338436,0.8333
+V2.05,7,Keyboard/Mouse Ranked,Europe,4559,338436,1.3805
+V2.05,8,Keyboard/Mouse Ranked,Europe,7835,338436,2.3728
+V2.05,9,Keyboard/Mouse Ranked,Europe,11614,338436,3.5168
+V2.05,10,Keyboard/Mouse Ranked,Europe,14223,338436,4.3067
+V2.05,11,Keyboard/Mouse Ranked,Europe,16469,338436,4.9897
+V2.05,12,Keyboard/Mouse Ranked,Europe,18728,338436,5.7758
+V2.05,13,Keyboard/Mouse Ranked,Europe,20881,338436,6.4398
+V2.05,14,Keyboard/Mouse Ranked,Europe,22795,338436,7.0301
+V2.05,15,Keyboard/Mouse Ranked,Europe,24161,338436,7.3177
+V2.05,16,Keyboard/Mouse Ranked,Europe,24683,338436,7.4741
+V2.05,17,Keyboard/Mouse Ranked,Europe,24761,338436,7.4977
+V2.05,18,Keyboard/Mouse Ranked,Europe,24642,338436,7.4616
+V2.05,19,Keyboard/Mouse Ranked,Europe,24966,338436,7.5598
+V2.05,20,Keyboard/Mouse Ranked,Europe,25292,338436,7.6585
+V2.05,21,Keyboard/Mouse Ranked,Europe,21754,338436,6.5871
+V2.05,22,Keyboard/Mouse Ranked,Europe,16792,338436,5.0846
+V2.05,23,Keyboard/Mouse Ranked,Europe,11552,338436,3.4980
+V2.06,0,Crossplatform Casual,Latin America North,24864,332533,7.5289
+V2.06,1,Crossplatform Casual,Latin America North,25979,332533,7.8665
+V2.06,2,Crossplatform Casual,Latin America North,27052,332533,8.1914
+V2.06,3,Crossplatform Casual,Latin America North,26387,332533,7.9900
+V2.06,4,Crossplatform Casual,Latin America North,23195,332533,7.0235
+V2.06,5,Crossplatform Casual,Latin America North,17598,332533,5.3287
+V2.06,6,Crossplatform Casual,Latin America North,11641,332533,3.5249
+V2.06,7,Crossplatform Casual,Latin America North,6768,332533,2.0494
+V2.06,8,Crossplatform Casual,Latin America North,3766,332533,1.1404
+V2.06,9,Crossplatform Casual,Latin America North,2085,332533,0.6313
+V2.06,10,Crossplatform Casual,Latin America North,1323,332533,0.4009
+V2.06,11,Crossplatform Casual,Latin America North,1009,332533,0.3112
+V2.06,12,Crossplatform Casual,Latin America North,1324,332533,0.4083
+V2.06,13,Crossplatform Casual,Latin America North,2506,332533,0.7729
+V2.06,14,Crossplatform Casual,Latin America North,4960,332533,1.5024
+V2.06,15,Crossplatform Casual,Latin America North,8072,332533,2.4443
+V2.06,16,Crossplatform Casual,Latin America North,11348,332533,3.4362
+V2.06,17,Crossplatform Casual,Latin America North,13954,332533,4.2253
+V2.06,18,Crossplatform Casual,Latin America North,15657,332533,4.7419
+V2.06,19,Crossplatform Casual,Latin America North,17216,332533,5.2130
+V2.06,20,Crossplatform Casual,Latin America North,18996,332533,5.7520
+V2.06,21,Crossplatform Casual,Latin America North,20835,332533,6.3089
+V2.06,22,Crossplatform Casual,Latin America North,22441,332533,6.7952
+V2.06,23,Crossplatform Casual,Latin America North,23557,332533,7.1331
+V2.05,0,Crossplatform Casual,Latin America North,22441,302166,6.7952
+V2.05,1,Crossplatform Casual,Latin America North,23723,302166,7.1833
+V2.05,2,Crossplatform Casual,Latin America North,24198,302166,7.3272
+V2.05,3,Crossplatform Casual,Latin America North,24147,302166,7.3118
+V2.05,4,Crossplatform Casual,Latin America North,21417,302166,6.4851
+V2.05,5,Crossplatform Casual,Latin America North,16023,302166,4.8519
+V2.05,6,Crossplatform Casual,Latin America North,10338,302166,3.1304
+V2.05,7,Crossplatform Casual,Latin America North,5950,302166,1.8017
+V2.05,8,Crossplatform Casual,Latin America North,3170,302166,0.9599
+V2.05,9,Crossplatform Casual,Latin America North,1755,302166,0.5314
+V2.05,10,Crossplatform Casual,Latin America North,1120,302166,0.3392
+V2.05,11,Crossplatform Casual,Latin America North,904,302166,0.2739
+V2.05,12,Crossplatform Casual,Latin America North,1178,302166,0.3633
+V2.05,13,Crossplatform Casual,Latin America North,2380,302166,0.7340
+V2.05,14,Crossplatform Casual,Latin America North,4627,302166,1.4015
+V2.05,15,Crossplatform Casual,Latin America North,7579,302166,2.2950
+V2.05,16,Crossplatform Casual,Latin America North,10412,302166,3.1528
+V2.05,17,Crossplatform Casual,Latin America North,12659,302166,3.8332
+V2.05,18,Crossplatform Casual,Latin America North,13985,302166,4.2347
+V2.05,19,Crossplatform Casual,Latin America North,15358,302166,4.6505
+V2.05,20,Crossplatform Casual,Latin America North,17262,302166,5.2270
+V2.05,21,Crossplatform Casual,Latin America North,19002,302166,5.7538
+V2.05,22,Crossplatform Casual,Latin America North,20660,302166,6.2559
+V2.05,23,Crossplatform Casual,Latin America North,21878,302166,6.6247
+V2.06,0,Crossplatform Casual,Southeast Asia,2174,271310,0.6583
+V2.06,1,Crossplatform Casual,Southeast Asia,3235,271310,0.9796
+V2.06,2,Crossplatform Casual,Southeast Asia,4919,271310,1.4895
+V2.06,3,Crossplatform Casual,Southeast Asia,6607,271310,2.0006
+V2.06,4,Crossplatform Casual,Southeast Asia,8366,271310,2.5332
+V2.06,5,Crossplatform Casual,Southeast Asia,9896,271310,2.9965
+V2.06,6,Crossplatform Casual,Southeast Asia,12254,271310,3.7106
+V2.06,7,Crossplatform Casual,Southeast Asia,14346,271310,4.3440
+V2.06,8,Crossplatform Casual,Southeast Asia,15898,271310,4.8140
+V2.06,9,Crossplatform Casual,Southeast Asia,16896,271310,5.1161
+V2.06,10,Crossplatform Casual,Southeast Asia,17194,271310,5.2093
+V2.06,11,Crossplatform Casual,Southeast Asia,16275,271310,5.0193
+V2.06,12,Crossplatform Casual,Southeast Asia,17621,271310,5.4344
+V2.06,13,Crossplatform Casual,Southeast Asia,20505,271310,6.3238
+V2.06,14,Crossplatform Casual,Southeast Asia,22057,271310,6.6812
+V2.06,15,Crossplatform Casual,Southeast Asia,21009,271310,6.3616
+V2.06,16,Crossplatform Casual,Southeast Asia,18004,271310,5.4517
+V2.06,17,Crossplatform Casual,Southeast Asia,14278,271310,4.3234
+V2.06,18,Crossplatform Casual,Southeast Asia,10692,271310,3.2382
+V2.06,19,Crossplatform Casual,Southeast Asia,7451,271310,2.2562
+V2.06,20,Crossplatform Casual,Southeast Asia,4747,271310,1.4374
+V2.06,21,Crossplatform Casual,Southeast Asia,3064,271310,0.9278
+V2.06,22,Crossplatform Casual,Southeast Asia,2058,271310,0.6232
+V2.06,23,Crossplatform Casual,Southeast Asia,1764,271310,0.5342
+V2.06,0,PS4 Casual,Brazil,18118,258180,5.4862
+V2.06,1,PS4 Casual,Brazil,16470,258180,4.9872
+V2.06,2,PS4 Casual,Brazil,14298,258180,4.3295
+V2.06,3,PS4 Casual,Brazil,11516,258180,3.4871
+V2.06,4,PS4 Casual,Brazil,8271,258180,2.5045
+V2.06,5,PS4 Casual,Brazil,5497,258180,1.6645
+V2.06,6,PS4 Casual,Brazil,3440,258180,1.0417
+V2.06,7,PS4 Casual,Brazil,2189,258180,0.6628
+V2.06,8,PS4 Casual,Brazil,1565,258180,0.4739
+V2.06,9,PS4 Casual,Brazil,1378,258180,0.4173
+V2.06,10,PS4 Casual,Brazil,1670,258180,0.5060
+V2.06,11,PS4 Casual,Brazil,2650,258180,0.8173
+V2.06,12,PS4 Casual,Brazil,4503,258180,1.3888
+V2.06,13,PS4 Casual,Brazil,7492,258180,2.3106
+V2.06,14,PS4 Casual,Brazil,10642,258180,3.2236
+V2.06,15,PS4 Casual,Brazil,12047,258180,3.6479
+V2.06,16,PS4 Casual,Brazil,13220,258180,4.0031
+V2.06,17,PS4 Casual,Brazil,15266,258180,4.6226
+V2.06,18,PS4 Casual,Brazil,16679,258180,5.0504
+V2.06,19,PS4 Casual,Brazil,17297,258180,5.2376
+V2.06,20,PS4 Casual,Brazil,17602,258180,5.3299
+V2.06,21,PS4 Casual,Brazil,18254,258180,5.5273
+V2.06,22,PS4 Casual,Brazil,18984,258180,5.7484
+V2.06,23,PS4 Casual,Brazil,19132,258180,5.7932
+V2.05,0,Crossplatform Casual,Southeast Asia,2111,250004,0.6392
+V2.05,1,Crossplatform Casual,Southeast Asia,3035,250004,0.9190
+V2.05,2,Crossplatform Casual,Southeast Asia,4659,250004,1.4108
+V2.05,3,Crossplatform Casual,Southeast Asia,6439,250004,1.9498
+V2.05,4,Crossplatform Casual,Southeast Asia,8191,250004,2.4803
+V2.05,5,Crossplatform Casual,Southeast Asia,9598,250004,2.9063
+V2.05,6,Crossplatform Casual,Southeast Asia,11688,250004,3.5392
+V2.05,7,Crossplatform Casual,Southeast Asia,13572,250004,4.1096
+V2.05,8,Crossplatform Casual,Southeast Asia,15433,250004,4.6732
+V2.05,9,Crossplatform Casual,Southeast Asia,15915,250004,4.8191
+V2.05,10,Crossplatform Casual,Southeast Asia,16289,250004,4.9324
+V2.05,11,Crossplatform Casual,Southeast Asia,14605,250004,4.4250
+V2.05,12,Crossplatform Casual,Southeast Asia,15596,250004,4.8099
+V2.05,13,Crossplatform Casual,Southeast Asia,18020,250004,5.5575
+V2.05,14,Crossplatform Casual,Southeast Asia,19522,250004,5.9129
+V2.05,15,Crossplatform Casual,Southeast Asia,19038,250004,5.7647
+V2.05,16,Crossplatform Casual,Southeast Asia,16200,250004,4.9054
+V2.05,17,Crossplatform Casual,Southeast Asia,12532,250004,3.7947
+V2.05,18,Crossplatform Casual,Southeast Asia,9482,250004,2.8712
+V2.05,19,Crossplatform Casual,Southeast Asia,6702,250004,2.0294
+V2.05,20,Crossplatform Casual,Southeast Asia,4520,250004,1.3687
+V2.05,21,Crossplatform Casual,Southeast Asia,2895,250004,0.8766
+V2.05,22,Crossplatform Casual,Southeast Asia,2118,250004,0.6414
+V2.05,23,Crossplatform Casual,Southeast Asia,1844,250004,0.5584
+V2.05,0,PS4 Casual,Brazil,14947,212595,4.5260
+V2.05,1,PS4 Casual,Brazil,13260,212595,4.0152
+V2.05,2,PS4 Casual,Brazil,11773,212595,3.5649
+V2.05,3,PS4 Casual,Brazil,9343,212595,2.8291
+V2.05,4,PS4 Casual,Brazil,6719,212595,2.0345
+V2.05,5,PS4 Casual,Brazil,4417,212595,1.3375
+V2.05,6,PS4 Casual,Brazil,2753,212595,0.8336
+V2.05,7,PS4 Casual,Brazil,1803,212595,0.5460
+V2.05,8,PS4 Casual,Brazil,1346,212595,0.4076
+V2.05,9,PS4 Casual,Brazil,1113,212595,0.3370
+V2.05,10,PS4 Casual,Brazil,1377,212595,0.4170
+V2.05,11,PS4 Casual,Brazil,2160,212595,0.6545
+V2.05,12,PS4 Casual,Brazil,3751,212595,1.1569
+V2.05,13,PS4 Casual,Brazil,6319,212595,1.9488
+V2.05,14,PS4 Casual,Brazil,8936,212595,2.7066
+V2.05,15,PS4 Casual,Brazil,10288,212595,3.1154
+V2.05,16,PS4 Casual,Brazil,11146,212595,3.3751
+V2.05,17,PS4 Casual,Brazil,12777,212595,3.8689
+V2.05,18,PS4 Casual,Brazil,13902,212595,4.2096
+V2.05,19,PS4 Casual,Brazil,14195,212595,4.2983
+V2.05,20,PS4 Casual,Brazil,14082,212595,4.2641
+V2.05,21,PS4 Casual,Brazil,14581,212595,4.4152
+V2.05,22,PS4 Casual,Brazil,15601,212595,4.7240
+V2.05,23,PS4 Casual,Brazil,16006,212595,4.8467
+V2.03,0,Crossplatform Casual,Brazil,13924,178377,8.5818
+V2.03,1,Crossplatform Casual,Brazil,13610,178377,8.3883
+V2.03,2,Crossplatform Casual,Brazil,12136,178377,7.4799
+V2.03,3,Crossplatform Casual,Brazil,10172,178377,6.2693
+V2.03,4,Crossplatform Casual,Brazil,7316,178377,4.5092
+V2.03,5,Crossplatform Casual,Brazil,4719,178377,2.9086
+V2.03,6,Crossplatform Casual,Brazil,2830,178377,1.7443
+V2.03,7,Crossplatform Casual,Brazil,1678,178377,1.0343
+V2.03,8,Crossplatform Casual,Brazil,1101,178377,0.6787
+V2.03,9,Crossplatform Casual,Brazil,823,178377,0.5073
+V2.03,10,Crossplatform Casual,Brazil,929,178377,0.5727
+V2.03,11,Crossplatform Casual,Brazil,1535,178377,0.9462
+V2.03,12,Crossplatform Casual,Brazil,2570,178377,1.6448
+V2.03,13,Crossplatform Casual,Brazil,4259,178377,2.7258
+V2.03,14,Crossplatform Casual,Brazil,5933,178377,3.7972
+V2.03,15,Crossplatform Casual,Brazil,6667,178377,4.1151
+V2.03,16,Crossplatform Casual,Brazil,7636,178377,4.7064
+V2.03,17,Crossplatform Casual,Brazil,9261,178377,5.7080
+V2.03,18,Crossplatform Casual,Brazil,10539,178377,6.4956
+V2.03,19,Crossplatform Casual,Brazil,11189,178377,6.8962
+V2.03,20,Crossplatform Casual,Brazil,11423,178377,7.0404
+V2.03,21,Crossplatform Casual,Brazil,11673,178377,7.1946
+V2.03,22,Crossplatform Casual,Brazil,12885,178377,7.9415
+V2.03,23,Crossplatform Casual,Brazil,13569,178377,8.3631
+V2.04,0,Crossplatform Casual,Brazil,14255,178356,8.7859
+V2.04,1,Crossplatform Casual,Brazil,13560,178356,8.3575
+V2.04,2,Crossplatform Casual,Brazil,12223,178356,7.5335
+V2.04,3,Crossplatform Casual,Brazil,10205,178356,6.2897
+V2.04,4,Crossplatform Casual,Brazil,7444,178356,4.5880
+V2.04,5,Crossplatform Casual,Brazil,4923,178356,3.0343
+V2.04,6,Crossplatform Casual,Brazil,3024,178356,1.8638
+V2.04,7,Crossplatform Casual,Brazil,1854,178356,1.1427
+V2.04,8,Crossplatform Casual,Brazil,1139,178356,0.7021
+V2.04,9,Crossplatform Casual,Brazil,886,178356,0.5461
+V2.04,10,Crossplatform Casual,Brazil,934,178356,0.5757
+V2.04,11,Crossplatform Casual,Brazil,1431,178356,0.8831
+V2.04,12,Crossplatform Casual,Brazil,2561,178356,1.5785
+V2.04,13,Crossplatform Casual,Brazil,4008,178356,2.5652
+V2.04,14,Crossplatform Casual,Brazil,5803,178356,3.7140
+V2.04,15,Crossplatform Casual,Brazil,6565,178356,4.2016
+V2.04,16,Crossplatform Casual,Brazil,7664,178356,4.7237
+V2.04,17,Crossplatform Casual,Brazil,9308,178356,5.7368
+V2.04,18,Crossplatform Casual,Brazil,10176,178356,6.2719
+V2.04,19,Crossplatform Casual,Brazil,10751,178356,6.6262
+V2.04,20,Crossplatform Casual,Brazil,11061,178356,6.8173
+V2.04,21,Crossplatform Casual,Brazil,11795,178356,7.2697
+V2.04,22,Crossplatform Casual,Brazil,12925,178356,7.9661
+V2.04,23,Crossplatform Casual,Brazil,13861,178356,8.5431
+V2.03,0,Keyboard/Mouse Ranked,Europe,3588,168857,2.2115
+V2.03,1,Keyboard/Mouse Ranked,Europe,2176,168857,1.3412
+V2.03,2,Keyboard/Mouse Ranked,Europe,1388,168857,0.8555
+V2.03,3,Keyboard/Mouse Ranked,Europe,968,168857,0.5966
+V2.03,4,Keyboard/Mouse Ranked,Europe,762,168857,0.4697
+V2.03,5,Keyboard/Mouse Ranked,Europe,795,168857,0.4900
+V2.03,6,Keyboard/Mouse Ranked,Europe,1213,168857,0.7476
+V2.03,7,Keyboard/Mouse Ranked,Europe,2022,168857,1.2463
+V2.03,8,Keyboard/Mouse Ranked,Europe,3324,168857,2.0487
+V2.03,9,Keyboard/Mouse Ranked,Europe,5168,168857,3.1852
+V2.03,10,Keyboard/Mouse Ranked,Europe,6832,168857,4.2108
+V2.03,11,Keyboard/Mouse Ranked,Europe,7987,168857,4.9228
+V2.03,12,Keyboard/Mouse Ranked,Europe,9047,168857,5.7901
+V2.03,13,Keyboard/Mouse Ranked,Europe,10432,168857,6.6765
+V2.03,14,Keyboard/Mouse Ranked,Europe,11072,168857,7.0861
+V2.03,15,Keyboard/Mouse Ranked,Europe,11792,168857,7.5562
+V2.03,16,Keyboard/Mouse Ranked,Europe,12629,168857,7.7929
+V2.03,17,Keyboard/Mouse Ranked,Europe,12826,168857,7.9051
+V2.03,18,Keyboard/Mouse Ranked,Europe,12610,168857,7.7720
+V2.03,19,Keyboard/Mouse Ranked,Europe,13658,168857,8.4180
+V2.03,20,Keyboard/Mouse Ranked,Europe,13677,168857,8.4296
+V2.03,21,Keyboard/Mouse Ranked,Europe,11179,168857,6.8900
+V2.03,22,Keyboard/Mouse Ranked,Europe,7996,168857,4.9282
+V2.03,23,Keyboard/Mouse Ranked,Europe,5716,168857,3.5231
+V2.07,0,Crossplatform Casual,Europe,2703,168317,11.1470
+V2.07,1,Crossplatform Casual,Europe,1752,168317,7.2257
+V2.07,2,Crossplatform Casual,Europe,1220,168317,5.0310
+V2.07,3,Crossplatform Casual,Europe,887,168317,3.6582
+V2.07,4,Crossplatform Casual,Europe,728,168317,3.0190
+V2.07,5,Crossplatform Casual,Europe,932,168317,5.1071
+V2.07,6,Crossplatform Casual,Europe,1613,168317,8.8386
+V2.07,7,Crossplatform Casual,Europe,2608,168317,14.2911
+V2.07,8,Crossplatform Casual,Europe,3994,168317,21.8853
+V2.07,9,Crossplatform Casual,Europe,5477,168317,30.0111
+V2.07,10,Crossplatform Casual,Europe,6811,168317,37.3214
+V2.07,11,Crossplatform Casual,Europe,7475,168317,40.9600
+V2.07,12,Crossplatform Casual,Europe,8411,168317,46.0891
+V2.07,13,Crossplatform Casual,Europe,9316,168317,51.0470
+V2.07,14,Crossplatform Casual,Europe,10405,168317,57.0143
+V2.07,15,Crossplatform Casual,Europe,13115,168317,54.1048
+V2.07,16,Crossplatform Casual,Europe,15021,168317,61.9424
+V2.07,17,Crossplatform Casual,Europe,14976,168317,61.7569
+V2.07,18,Crossplatform Casual,Europe,14635,168317,60.3509
+V2.07,19,Crossplatform Casual,Europe,13966,168317,57.5919
+V2.07,20,Crossplatform Casual,Europe,12009,168317,49.5225
+V2.07,21,Crossplatform Casual,Europe,9336,168317,38.4997
+V2.07,22,Crossplatform Casual,Europe,6609,168317,27.2546
+V2.07,23,Crossplatform Casual,Europe,4318,168317,17.8066
+V2.06,0,PS4 Ranked,Europe,4990,163998,1.5110
+V2.06,1,PS4 Ranked,Europe,3142,163998,0.9514
+V2.06,2,PS4 Ranked,Europe,1877,163998,0.5684
+V2.06,3,PS4 Ranked,Europe,1144,163998,0.3464
+V2.06,4,PS4 Ranked,Europe,759,163998,0.2299
+V2.06,5,PS4 Ranked,Europe,582,163998,0.1795
+V2.06,6,PS4 Ranked,Europe,715,163998,0.2166
+V2.06,7,PS4 Ranked,Europe,1380,163998,0.4179
+V2.06,8,PS4 Ranked,Europe,2818,163998,0.8533
+V2.06,9,PS4 Ranked,Europe,4824,163998,1.4608
+V2.06,10,PS4 Ranked,Europe,6442,163998,1.9518
+V2.06,11,PS4 Ranked,Europe,7488,163998,2.3094
+V2.06,12,PS4 Ranked,Europe,8836,163998,2.7251
+V2.06,13,PS4 Ranked,Europe,10601,163998,3.2694
+V2.06,14,PS4 Ranked,Europe,11728,163998,3.6170
+V2.06,15,PS4 Ranked,Europe,12175,163998,3.6877
+V2.06,16,PS4 Ranked,Europe,12342,163998,3.7372
+V2.06,17,PS4 Ranked,Europe,11824,163998,3.5803
+V2.06,18,PS4 Ranked,Europe,10904,163998,3.3018
+V2.06,19,PS4 Ranked,Europe,10901,163998,3.3008
+V2.06,20,PS4 Ranked,Europe,11238,163998,3.4029
+V2.06,21,PS4 Ranked,Europe,10801,163998,3.2706
+V2.06,22,PS4 Ranked,Europe,9246,163998,2.7997
+V2.06,23,PS4 Ranked,Europe,7241,163998,2.1927
+V2.04,0,Keyboard/Mouse Ranked,Europe,3163,153361,1.9495
+V2.04,1,Keyboard/Mouse Ranked,Europe,1971,153361,1.2148
+V2.04,2,Keyboard/Mouse Ranked,Europe,1223,153361,0.7538
+V2.04,3,Keyboard/Mouse Ranked,Europe,830,153361,0.5116
+V2.04,4,Keyboard/Mouse Ranked,Europe,703,153361,0.4333
+V2.04,5,Keyboard/Mouse Ranked,Europe,774,153361,0.4771
+V2.04,6,Keyboard/Mouse Ranked,Europe,1139,153361,0.7021
+V2.04,7,Keyboard/Mouse Ranked,Europe,1834,153361,1.1305
+V2.04,8,Keyboard/Mouse Ranked,Europe,3027,153361,1.8657
+V2.04,9,Keyboard/Mouse Ranked,Europe,4498,153361,2.7723
+V2.04,10,Keyboard/Mouse Ranked,Europe,6024,153361,3.7129
+V2.04,11,Keyboard/Mouse Ranked,Europe,7017,153361,4.3304
+V2.04,12,Keyboard/Mouse Ranked,Europe,8201,153361,5.0546
+V2.04,13,Keyboard/Mouse Ranked,Europe,9450,153361,6.0481
+V2.04,14,Keyboard/Mouse Ranked,Europe,10445,153361,6.6848
+V2.04,15,Keyboard/Mouse Ranked,Europe,11017,153361,7.0509
+V2.04,16,Keyboard/Mouse Ranked,Europe,11488,153361,7.0857
+V2.04,17,Keyboard/Mouse Ranked,Europe,11966,153361,7.3751
+V2.04,18,Keyboard/Mouse Ranked,Europe,12614,153361,7.7746
+V2.04,19,Keyboard/Mouse Ranked,Europe,12138,153361,7.7683
+V2.04,20,Keyboard/Mouse Ranked,Europe,11605,153361,7.1620
+V2.04,21,Keyboard/Mouse Ranked,Europe,9936,153361,6.1239
+V2.04,22,Keyboard/Mouse Ranked,Europe,7339,153361,4.5235
+V2.04,23,Keyboard/Mouse Ranked,Europe,4959,153361,3.0564
+V2.04,0,PS4 Casual,North America,9835,152014,6.0617
+V2.04,1,PS4 Casual,North America,9992,152014,6.1585
+V2.04,2,PS4 Casual,North America,9606,152014,5.9205
+V2.04,3,PS4 Casual,North America,8864,152014,5.4632
+V2.04,4,PS4 Casual,North America,7675,152014,4.7304
+V2.04,5,PS4 Casual,North America,6379,152014,3.9316
+V2.04,6,PS4 Casual,North America,5011,152014,3.0885
+V2.04,7,PS4 Casual,North America,3734,152014,2.3015
+V2.04,8,PS4 Casual,North America,3032,152014,1.8688
+V2.04,9,PS4 Casual,North America,2712,152014,1.6716
+V2.04,10,PS4 Casual,North America,2571,152014,1.5847
+V2.04,11,PS4 Casual,North America,2487,152014,1.5346
+V2.04,12,PS4 Casual,North America,2880,152014,1.7751
+V2.04,13,PS4 Casual,North America,3580,152014,2.2913
+V2.04,14,PS4 Casual,North America,4496,152014,2.8776
+V2.04,15,PS4 Casual,North America,5330,152014,3.4113
+V2.04,16,PS4 Casual,North America,5950,152014,3.6674
+V2.04,17,PS4 Casual,North America,6720,152014,4.1418
+V2.04,18,PS4 Casual,North America,7231,152014,4.4569
+V2.04,19,PS4 Casual,North America,7484,152014,4.6127
+V2.04,20,PS4 Casual,North America,8248,152014,5.0835
+V2.04,21,PS4 Casual,North America,8915,152014,5.4946
+V2.04,22,PS4 Casual,North America,9466,152014,5.8343
+V2.04,23,PS4 Casual,North America,9816,152014,6.0499
+V2.05,0,PS4 Ranked,Europe,4024,148782,1.2185
+V2.05,1,PS4 Ranked,Europe,2482,148782,0.7516
+V2.05,2,PS4 Ranked,Europe,1485,148782,0.4497
+V2.05,3,PS4 Ranked,Europe,919,148782,0.2783
+V2.05,4,PS4 Ranked,Europe,659,148782,0.1996
+V2.05,5,PS4 Ranked,Europe,591,148782,0.1790
+V2.05,6,PS4 Ranked,Europe,792,148782,0.2398
+V2.05,7,PS4 Ranked,Europe,1409,148782,0.4267
+V2.05,8,PS4 Ranked,Europe,2769,148782,0.8385
+V2.05,9,PS4 Ranked,Europe,4575,148782,1.3853
+V2.05,10,PS4 Ranked,Europe,6080,148782,1.8411
+V2.05,11,PS4 Ranked,Europe,6757,148782,2.0472
+V2.05,12,PS4 Ranked,Europe,8028,148782,2.4759
+V2.05,13,PS4 Ranked,Europe,9337,148782,2.8796
+V2.05,14,PS4 Ranked,Europe,10305,148782,3.1781
+V2.05,15,PS4 Ranked,Europe,10945,148782,3.3150
+V2.05,16,PS4 Ranked,Europe,11380,148782,3.4459
+V2.05,17,PS4 Ranked,Europe,11192,148782,3.3890
+V2.05,18,PS4 Ranked,Europe,10299,148782,3.1186
+V2.05,19,PS4 Ranked,Europe,10560,148782,3.1976
+V2.05,20,PS4 Ranked,Europe,10411,148782,3.1525
+V2.05,21,PS4 Ranked,Europe,9646,148782,2.9208
+V2.05,22,PS4 Ranked,Europe,8094,148782,2.4509
+V2.05,23,PS4 Ranked,Europe,6043,148782,1.8298
+V2.07,0,Crossplatform Casual,North America,10082,145836,41.5755
+V2.07,1,Crossplatform Casual,North America,10532,145836,43.4313
+V2.07,2,Crossplatform Casual,North America,10549,145836,43.5015
+V2.07,3,Crossplatform Casual,North America,9128,145836,37.6418
+V2.07,4,Crossplatform Casual,North America,7085,145836,29.3681
+V2.07,5,Crossplatform Casual,North America,5365,145836,29.3974
+V2.07,6,Crossplatform Casual,North America,4137,145836,22.6690
+V2.07,7,Crossplatform Casual,North America,3225,145836,17.6726
+V2.07,8,Crossplatform Casual,North America,2678,145836,14.6741
+V2.07,9,Crossplatform Casual,North America,2268,145836,12.4276
+V2.07,10,Crossplatform Casual,North America,2042,145836,11.1892
+V2.07,11,Crossplatform Casual,North America,2254,145836,12.3520
+V2.07,12,Crossplatform Casual,North America,2702,145836,14.8063
+V2.07,13,Crossplatform Casual,North America,3320,145836,18.1928
+V2.07,14,Crossplatform Casual,North America,4093,145836,22.4280
+V2.07,15,Crossplatform Casual,North America,5236,145836,21.6033
+V2.07,16,Crossplatform Casual,North America,6092,145836,25.1217
+V2.07,17,Crossplatform Casual,North America,6497,145836,26.7923
+V2.07,18,Crossplatform Casual,North America,6796,145836,28.0248
+V2.07,19,Crossplatform Casual,North America,7097,145836,29.2661
+V2.07,20,Crossplatform Casual,North America,7599,145836,31.3369
+V2.07,21,Crossplatform Casual,North America,8440,145836,34.8049
+V2.07,22,Crossplatform Casual,North America,8938,145836,36.8578
+V2.07,23,Crossplatform Casual,North America,9681,145836,39.9218
+V2.05,0,PS4 Casual,Southeast Asia,1014,140309,0.4119
+V2.05,1,PS4 Casual,Southeast Asia,1446,140309,0.5874
+V2.05,2,PS4 Casual,Southeast Asia,2027,140309,0.8232
+V2.05,3,PS4 Casual,Southeast Asia,2437,140309,0.9898
+V2.05,4,PS4 Casual,Southeast Asia,2792,140309,1.1340
+V2.05,5,PS4 Casual,Southeast Asia,3909,140309,1.5875
+V2.05,6,PS4 Casual,Southeast Asia,4942,140309,2.0070
+V2.05,7,PS4 Casual,Southeast Asia,5773,140309,2.2908
+V2.05,8,PS4 Casual,Southeast Asia,6756,140309,2.6793
+V2.05,9,PS4 Casual,Southeast Asia,6894,140309,2.7332
+V2.05,10,PS4 Casual,Southeast Asia,6502,140309,2.5777
+V2.05,11,PS4 Casual,Southeast Asia,7347,140309,2.9150
+V2.05,12,PS4 Casual,Southeast Asia,11368,140309,4.6171
+V2.05,13,PS4 Casual,Southeast Asia,15197,140309,6.1718
+V2.05,14,PS4 Casual,Southeast Asia,16506,140309,6.7032
+V2.05,15,PS4 Casual,Southeast Asia,14318,140309,5.8145
+V2.05,16,PS4 Casual,Southeast Asia,10852,140309,4.4070
+V2.05,17,PS4 Casual,Southeast Asia,7677,140309,3.1177
+V2.05,18,PS4 Casual,Southeast Asia,4900,140309,1.9899
+V2.05,19,PS4 Casual,Southeast Asia,2987,140309,1.2131
+V2.05,20,PS4 Casual,Southeast Asia,1747,140309,0.7096
+V2.05,21,PS4 Casual,Southeast Asia,1175,140309,0.4772
+V2.05,22,PS4 Casual,Southeast Asia,890,140309,0.3615
+V2.05,23,PS4 Casual,Southeast Asia,853,140309,0.3465
+V2.04,0,PS4 Casual,Europe,2940,136565,1.8120
+V2.04,1,PS4 Casual,Europe,1995,136565,1.2296
+V2.04,2,PS4 Casual,Europe,1390,136565,0.8568
+V2.04,3,PS4 Casual,Europe,1086,136565,0.6694
+V2.04,4,PS4 Casual,Europe,956,136565,0.5892
+V2.04,5,PS4 Casual,Europe,1058,136565,0.6521
+V2.04,6,PS4 Casual,Europe,1499,136565,0.9239
+V2.04,7,PS4 Casual,Europe,2172,136565,1.3387
+V2.04,8,PS4 Casual,Europe,3509,136565,2.1628
+V2.04,9,PS4 Casual,Europe,5169,136565,3.1859
+V2.04,10,PS4 Casual,Europe,6012,136565,3.7054
+V2.04,11,PS4 Casual,Europe,6272,136565,3.8702
+V2.04,12,PS4 Casual,Europe,7021,136565,4.3273
+V2.04,13,PS4 Casual,Europe,7934,136565,5.0778
+V2.04,14,PS4 Casual,Europe,8937,136565,5.7197
+V2.04,15,PS4 Casual,Europe,9799,136565,6.2714
+V2.04,16,PS4 Casual,Europe,10669,136565,6.5758
+V2.04,17,PS4 Casual,Europe,10915,136565,6.7273
+V2.04,18,PS4 Casual,Europe,10643,136565,6.5597
+V2.04,19,PS4 Casual,Europe,9838,136565,6.0636
+V2.04,20,PS4 Casual,Europe,8963,136565,5.5242
+V2.04,21,PS4 Casual,Europe,7458,136565,4.5967
+V2.04,22,PS4 Casual,Europe,5990,136565,3.6918
+V2.04,23,PS4 Casual,Europe,4340,136565,2.6749
+V2.03,0,PS4 Casual,North America,8884,135485,5.4755
+V2.03,1,PS4 Casual,North America,8918,135485,5.4965
+V2.03,2,PS4 Casual,North America,8510,135485,5.2451
+V2.03,3,PS4 Casual,North America,8068,135485,4.9726
+V2.03,4,PS4 Casual,North America,6783,135485,4.1807
+V2.03,5,PS4 Casual,North America,5804,135485,3.5773
+V2.03,6,PS4 Casual,North America,4473,135485,2.7569
+V2.03,7,PS4 Casual,North America,3272,135485,2.0167
+V2.03,8,PS4 Casual,North America,2559,135485,1.5772
+V2.03,9,PS4 Casual,North America,2283,135485,1.4071
+V2.03,10,PS4 Casual,North America,2148,135485,1.3239
+V2.03,11,PS4 Casual,North America,2177,135485,1.2944
+V2.03,12,PS4 Casual,North America,2515,135485,1.5501
+V2.03,13,PS4 Casual,North America,3106,135485,1.9144
+V2.03,14,PS4 Casual,North America,3971,135485,2.4476
+V2.03,15,PS4 Casual,North America,4818,135485,2.9696
+V2.03,16,PS4 Casual,North America,5580,135485,3.4392
+V2.03,17,PS4 Casual,North America,5924,135485,3.6512
+V2.03,18,PS4 Casual,North America,6539,135485,4.0302
+V2.03,19,PS4 Casual,North America,6689,135485,4.1227
+V2.03,20,PS4 Casual,North America,7330,135485,4.5177
+V2.03,21,PS4 Casual,North America,8015,135485,4.9399
+V2.03,22,PS4 Casual,North America,8346,135485,5.1440
+V2.03,23,PS4 Casual,North America,8773,135485,5.4071
+V2.03,0,PS4 Casual,Europe,2971,135082,1.8312
+V2.03,1,PS4 Casual,Europe,1858,135082,1.1452
+V2.03,2,PS4 Casual,Europe,1254,135082,0.7729
+V2.03,3,PS4 Casual,Europe,930,135082,0.5732
+V2.03,4,PS4 Casual,Europe,759,135082,0.4679
+V2.03,5,PS4 Casual,Europe,913,135082,0.5628
+V2.03,6,PS4 Casual,Europe,1375,135082,0.8475
+V2.03,7,PS4 Casual,Europe,2315,135082,1.4268
+V2.03,8,PS4 Casual,Europe,3452,135082,2.1276
+V2.03,9,PS4 Casual,Europe,5455,135082,3.3622
+V2.03,10,PS4 Casual,Europe,6651,135082,4.0993
+V2.03,11,PS4 Casual,Europe,7089,135082,4.2150
+V2.03,12,PS4 Casual,Europe,7546,135082,4.6510
+V2.03,13,PS4 Casual,Europe,8235,135082,5.0755
+V2.03,14,PS4 Casual,Europe,8914,135082,5.4940
+V2.03,15,PS4 Casual,Europe,9454,135082,5.8268
+V2.03,16,PS4 Casual,Europe,9965,135082,6.1418
+V2.03,17,PS4 Casual,Europe,9942,135082,6.1276
+V2.03,18,PS4 Casual,Europe,9901,135082,6.1025
+V2.03,19,PS4 Casual,Europe,9397,135082,5.7917
+V2.03,20,PS4 Casual,Europe,8643,135082,5.3271
+V2.03,21,PS4 Casual,Europe,7700,135082,4.7458
+V2.03,22,PS4 Casual,Europe,5997,135082,3.6962
+V2.03,23,PS4 Casual,Europe,4366,135082,2.6909
+V2.04,0,Crossplatform Casual,Latin America North,9261,123334,5.7079
+V2.04,1,Crossplatform Casual,Latin America North,9726,123334,5.9945
+V2.04,2,Crossplatform Casual,Latin America North,10015,123334,6.1726
+V2.04,3,Crossplatform Casual,Latin America North,9839,123334,6.0641
+V2.04,4,Crossplatform Casual,Latin America North,8713,123334,5.3701
+V2.04,5,Crossplatform Casual,Latin America North,6645,123334,4.0956
+V2.04,6,Crossplatform Casual,Latin America North,4340,123334,2.6749
+V2.04,7,Crossplatform Casual,Latin America North,2570,123334,1.5841
+V2.04,8,Crossplatform Casual,Latin America North,1487,123334,0.9165
+V2.04,9,Crossplatform Casual,Latin America North,824,123334,0.5079
+V2.04,10,Crossplatform Casual,Latin America North,528,123334,0.3255
+V2.04,11,Crossplatform Casual,Latin America North,449,123334,0.2771
+V2.04,12,Crossplatform Casual,Latin America North,680,123334,0.4191
+V2.04,13,Crossplatform Casual,Latin America North,1186,123334,0.7591
+V2.04,14,Crossplatform Casual,Latin America North,2054,123334,1.3146
+V2.04,15,Crossplatform Casual,Latin America North,3074,123334,1.9674
+V2.04,16,Crossplatform Casual,Latin America North,4222,123334,2.6024
+V2.04,17,Crossplatform Casual,Latin America North,5023,123334,3.0959
+V2.04,18,Crossplatform Casual,Latin America North,5362,123334,3.3048
+V2.04,19,Crossplatform Casual,Latin America North,5997,123334,3.6962
+V2.04,20,Crossplatform Casual,Latin America North,6607,123334,4.0721
+V2.04,21,Crossplatform Casual,Latin America North,7484,123334,4.6128
+V2.04,22,Crossplatform Casual,Latin America North,8384,123334,5.1675
+V2.04,23,Crossplatform Casual,Latin America North,8864,123334,5.4632
+V2.03,0,Crossplatform Casual,Latin America North,9131,122549,5.6278
+V2.03,1,Crossplatform Casual,Latin America North,9548,122549,5.8848
+V2.03,2,Crossplatform Casual,Latin America North,9932,122549,6.1215
+V2.03,3,Crossplatform Casual,Latin America North,9680,122549,5.9662
+V2.03,4,Crossplatform Casual,Latin America North,8408,122549,5.1822
+V2.03,5,Crossplatform Casual,Latin America North,6388,122549,3.9372
+V2.03,6,Crossplatform Casual,Latin America North,4393,122549,2.7076
+V2.03,7,Crossplatform Casual,Latin America North,2575,122549,1.5871
+V2.03,8,Crossplatform Casual,Latin America North,1461,122549,0.9005
+V2.03,9,Crossplatform Casual,Latin America North,850,122549,0.5239
+V2.03,10,Crossplatform Casual,Latin America North,548,122549,0.3378
+V2.03,11,Crossplatform Casual,Latin America North,449,122549,0.2767
+V2.03,12,Crossplatform Casual,Latin America North,653,122549,0.4179
+V2.03,13,Crossplatform Casual,Latin America North,1144,122549,0.7322
+V2.03,14,Crossplatform Casual,Latin America North,1992,122549,1.2749
+V2.03,15,Crossplatform Casual,Latin America North,3099,122549,1.9128
+V2.03,16,Crossplatform Casual,Latin America North,4100,122549,2.5270
+V2.03,17,Crossplatform Casual,Latin America North,4905,122549,3.0232
+V2.03,18,Crossplatform Casual,Latin America North,5463,122549,3.3671
+V2.03,19,Crossplatform Casual,Latin America North,6209,122549,3.8269
+V2.03,20,Crossplatform Casual,Latin America North,7035,122549,4.3359
+V2.03,21,Crossplatform Casual,Latin America North,7634,122549,4.7052
+V2.03,22,Crossplatform Casual,Latin America North,8340,122549,5.1402
+V2.03,23,Crossplatform Casual,Latin America North,8612,122549,5.3079
+V2.06,0,PS4 Ranked,North America,7469,121987,2.2616
+V2.06,1,PS4 Ranked,North America,7616,121987,2.3062
+V2.06,2,PS4 Ranked,North America,7825,121987,2.3694
+V2.06,3,PS4 Ranked,North America,7807,121987,2.3640
+V2.06,4,PS4 Ranked,North America,7166,121987,2.1699
+V2.06,5,PS4 Ranked,North America,6205,121987,1.8789
+V2.06,6,PS4 Ranked,North America,5159,121987,1.5631
+V2.06,7,PS4 Ranked,North America,3978,121987,1.2046
+V2.06,8,PS4 Ranked,North America,2825,121987,0.8554
+V2.06,9,PS4 Ranked,North America,2063,121987,0.6248
+V2.06,10,PS4 Ranked,North America,1650,121987,0.4999
+V2.06,11,PS4 Ranked,North America,1571,121987,0.4845
+V2.06,12,PS4 Ranked,North America,1864,121987,0.5749
+V2.06,13,PS4 Ranked,North America,2615,121987,0.8065
+V2.06,14,PS4 Ranked,North America,3374,121987,1.0406
+V2.06,15,PS4 Ranked,North America,3987,121987,1.2077
+V2.06,16,PS4 Ranked,North America,4541,121987,1.3751
+V2.06,17,PS4 Ranked,North America,5082,121987,1.5389
+V2.06,18,PS4 Ranked,North America,5638,121987,1.7072
+V2.06,19,PS4 Ranked,North America,6057,121987,1.8341
+V2.06,20,PS4 Ranked,North America,6446,121987,1.9519
+V2.06,21,PS4 Ranked,North America,6709,121987,2.0315
+V2.06,22,PS4 Ranked,North America,7001,121987,2.1199
+V2.06,23,PS4 Ranked,North America,7339,121987,2.2223
+V2.05,0,Keyboard/Mouse Ranked,Brazil,9179,113565,2.7794
+V2.05,1,Keyboard/Mouse Ranked,Brazil,8947,113565,2.7092
+V2.05,2,Keyboard/Mouse Ranked,Brazil,8471,113565,2.5650
+V2.05,3,Keyboard/Mouse Ranked,Brazil,7430,113565,2.2498
+V2.05,4,Keyboard/Mouse Ranked,Brazil,5910,113565,1.7896
+V2.05,5,Keyboard/Mouse Ranked,Brazil,4174,113565,1.2639
+V2.05,6,Keyboard/Mouse Ranked,Brazil,2456,113565,0.7437
+V2.05,7,Keyboard/Mouse Ranked,Brazil,1231,113565,0.3728
+V2.05,8,Keyboard/Mouse Ranked,Brazil,654,113565,0.1982
+V2.05,9,Keyboard/Mouse Ranked,Brazil,330,113565,0.0999
+V2.05,10,Keyboard/Mouse Ranked,Brazil,233,113565,0.0706
+V2.05,11,Keyboard/Mouse Ranked,Brazil,424,113565,0.1308
+V2.05,12,Keyboard/Mouse Ranked,Brazil,945,113565,0.2915
+V2.05,13,Keyboard/Mouse Ranked,Brazil,1811,113565,0.5585
+V2.05,14,Keyboard/Mouse Ranked,Brazil,2988,113565,0.9215
+V2.05,15,Keyboard/Mouse Ranked,Brazil,3652,113565,1.1061
+V2.05,16,Keyboard/Mouse Ranked,Brazil,4231,113565,1.2812
+V2.05,17,Keyboard/Mouse Ranked,Brazil,5446,113565,1.6491
+V2.05,18,Keyboard/Mouse Ranked,Brazil,6384,113565,1.9331
+V2.05,19,Keyboard/Mouse Ranked,Brazil,6905,113565,2.0909
+V2.05,20,Keyboard/Mouse Ranked,Brazil,7301,113565,2.2108
+V2.05,21,Keyboard/Mouse Ranked,Brazil,7453,113565,2.2568
+V2.05,22,Keyboard/Mouse Ranked,Brazil,8164,113565,2.4721
+V2.05,23,Keyboard/Mouse Ranked,Brazil,8846,113565,2.6786
+V2.05,0,PS4 Ranked,North America,6899,112527,2.0891
+V2.05,1,PS4 Ranked,North America,6909,112527,2.0921
+V2.05,2,PS4 Ranked,North America,7044,112527,2.1330
+V2.05,3,PS4 Ranked,North America,7121,112527,2.1563
+V2.05,4,PS4 Ranked,North America,6716,112527,2.0336
+V2.05,5,PS4 Ranked,North America,5825,112527,1.7638
+V2.05,6,PS4 Ranked,North America,4621,112527,1.3993
+V2.05,7,PS4 Ranked,North America,3520,112527,1.0659
+V2.05,8,PS4 Ranked,North America,2652,112527,0.8031
+V2.05,9,PS4 Ranked,North America,1996,112527,0.6044
+V2.05,10,PS4 Ranked,North America,1635,112527,0.4951
+V2.05,11,PS4 Ranked,North America,1486,112527,0.4502
+V2.05,12,PS4 Ranked,North America,1792,112527,0.5527
+V2.05,13,PS4 Ranked,North America,2385,112527,0.7355
+V2.05,14,PS4 Ranked,North America,3127,112527,0.9644
+V2.05,15,PS4 Ranked,North America,3688,112527,1.1171
+V2.05,16,PS4 Ranked,North America,4237,112527,1.2830
+V2.05,17,PS4 Ranked,North America,4868,112527,1.4741
+V2.05,18,PS4 Ranked,North America,5266,112527,1.5946
+V2.05,19,PS4 Ranked,North America,5577,112527,1.6887
+V2.05,20,PS4 Ranked,North America,5770,112527,1.7472
+V2.05,21,PS4 Ranked,North America,6044,112527,1.8301
+V2.05,22,PS4 Ranked,North America,6513,112527,1.9722
+V2.05,23,PS4 Ranked,North America,6836,112527,2.0700
+V2.05,0,Keyboard/Mouse Ranked,North America,7027,110448,2.1278
+V2.05,1,Keyboard/Mouse Ranked,North America,7403,110448,2.2416
+V2.05,2,Keyboard/Mouse Ranked,North America,7695,110448,2.3301
+V2.05,3,Keyboard/Mouse Ranked,North America,7808,110448,2.3643
+V2.05,4,Keyboard/Mouse Ranked,North America,7493,110448,2.2689
+V2.05,5,Keyboard/Mouse Ranked,North America,6343,110448,1.9207
+V2.05,6,Keyboard/Mouse Ranked,North America,5112,110448,1.5479
+V2.05,7,Keyboard/Mouse Ranked,North America,3699,110448,1.1201
+V2.05,8,Keyboard/Mouse Ranked,North America,2788,110448,0.8443
+V2.05,9,Keyboard/Mouse Ranked,North America,2089,110448,0.6326
+V2.05,10,Keyboard/Mouse Ranked,North America,1543,110448,0.4673
+V2.05,11,Keyboard/Mouse Ranked,North America,1368,110448,0.4145
+V2.05,12,Keyboard/Mouse Ranked,North America,1426,110448,0.4398
+V2.05,13,Keyboard/Mouse Ranked,North America,1678,110448,0.5175
+V2.05,14,Keyboard/Mouse Ranked,North America,2221,110448,0.6850
+V2.05,15,Keyboard/Mouse Ranked,North America,2955,110448,0.8950
+V2.05,16,Keyboard/Mouse Ranked,North America,3545,110448,1.0735
+V2.05,17,Keyboard/Mouse Ranked,North America,4106,110448,1.2433
+V2.05,18,Keyboard/Mouse Ranked,North America,4583,110448,1.3878
+V2.05,19,Keyboard/Mouse Ranked,North America,4908,110448,1.4862
+V2.05,20,Keyboard/Mouse Ranked,North America,5622,110448,1.7024
+V2.05,21,Keyboard/Mouse Ranked,North America,6055,110448,1.8335
+V2.05,22,Keyboard/Mouse Ranked,North America,6384,110448,1.9331
+V2.05,23,Keyboard/Mouse Ranked,North America,6597,110448,1.9976
+V2.06,0,Controller Ranked,North America,7488,110192,2.2674
+V2.06,1,Controller Ranked,North America,7934,110192,2.4025
+V2.06,2,Controller Ranked,North America,8018,110192,2.4279
+V2.06,3,Controller Ranked,North America,7606,110192,2.3031
+V2.06,4,Controller Ranked,North America,6831,110192,2.0685
+V2.06,5,Controller Ranked,North America,5758,110192,1.7436
+V2.06,6,Controller Ranked,North America,4560,110192,1.3808
+V2.06,7,Controller Ranked,North America,3257,110192,0.9863
+V2.06,8,Controller Ranked,North America,2253,110192,0.6823
+V2.06,9,Controller Ranked,North America,1579,110192,0.4782
+V2.06,10,Controller Ranked,North America,1155,110192,0.3500
+V2.06,11,Controller Ranked,North America,1006,110192,0.3103
+V2.06,12,Controller Ranked,North America,1148,110192,0.3541
+V2.06,13,Controller Ranked,North America,1625,110192,0.5012
+V2.06,14,Controller Ranked,North America,2271,110192,0.7004
+V2.06,15,Controller Ranked,North America,3047,110192,0.9230
+V2.06,16,Controller Ranked,North America,3774,110192,1.1428
+V2.06,17,Controller Ranked,North America,4393,110192,1.3303
+V2.06,18,Controller Ranked,North America,4941,110192,1.5238
+V2.06,19,Controller Ranked,North America,5448,110192,1.6500
+V2.06,20,Controller Ranked,North America,5823,110192,1.7636
+V2.06,21,Controller Ranked,North America,6320,110192,1.9137
+V2.06,22,Controller Ranked,North America,6741,110192,2.0412
+V2.06,23,Controller Ranked,North America,7216,110192,2.1851
+V2.06,0,Keyboard/Mouse Ranked,Brazil,8507,106096,2.5759
+V2.06,1,Keyboard/Mouse Ranked,Brazil,8501,106096,2.5741
+V2.06,2,Keyboard/Mouse Ranked,Brazil,7967,106096,2.4124
+V2.06,3,Keyboard/Mouse Ranked,Brazil,6747,106096,2.0430
+V2.06,4,Keyboard/Mouse Ranked,Brazil,5132,106096,1.5540
+V2.06,5,Keyboard/Mouse Ranked,Brazil,3558,106096,1.0775
+V2.06,6,Keyboard/Mouse Ranked,Brazil,2155,106096,0.6526
+V2.06,7,Keyboard/Mouse Ranked,Brazil,1169,106096,0.3540
+V2.06,8,Keyboard/Mouse Ranked,Brazil,581,106096,0.1760
+V2.06,9,Keyboard/Mouse Ranked,Brazil,283,106096,0.0857
+V2.06,10,Keyboard/Mouse Ranked,Brazil,205,106096,0.0644
+V2.06,11,Keyboard/Mouse Ranked,Brazil,349,106096,0.1076
+V2.06,12,Keyboard/Mouse Ranked,Brazil,878,106096,0.2708
+V2.06,13,Keyboard/Mouse Ranked,Brazil,1764,106096,0.5440
+V2.06,14,Keyboard/Mouse Ranked,Brazil,2800,106096,0.8635
+V2.06,15,Keyboard/Mouse Ranked,Brazil,3390,106096,1.0268
+V2.06,16,Keyboard/Mouse Ranked,Brazil,3938,106096,1.1932
+V2.06,17,Keyboard/Mouse Ranked,Brazil,5158,106096,1.5619
+V2.06,18,Keyboard/Mouse Ranked,Brazil,6245,106096,1.9260
+V2.06,19,Keyboard/Mouse Ranked,Brazil,6873,106096,2.0815
+V2.06,20,Keyboard/Mouse Ranked,Brazil,7047,106096,2.1345
+V2.06,21,Keyboard/Mouse Ranked,Brazil,7112,106096,2.1535
+V2.06,22,Keyboard/Mouse Ranked,Brazil,7565,106096,2.2907
+V2.06,23,Keyboard/Mouse Ranked,Brazil,8172,106096,2.4745
+V2.06,0,Keyboard/Mouse Ranked,North America,6571,105995,1.9897
+V2.06,1,Keyboard/Mouse Ranked,North America,7109,105995,2.1527
+V2.06,2,Keyboard/Mouse Ranked,North America,7499,105995,2.2707
+V2.06,3,Keyboard/Mouse Ranked,North America,7428,105995,2.2492
+V2.06,4,Keyboard/Mouse Ranked,North America,6880,105995,2.0833
+V2.06,5,Keyboard/Mouse Ranked,North America,5858,105995,1.7738
+V2.06,6,Keyboard/Mouse Ranked,North America,4775,105995,1.4459
+V2.06,7,Keyboard/Mouse Ranked,North America,3519,105995,1.0656
+V2.06,8,Keyboard/Mouse Ranked,North America,2483,105995,0.7519
+V2.06,9,Keyboard/Mouse Ranked,North America,1871,105995,0.5666
+V2.06,10,Keyboard/Mouse Ranked,North America,1478,105995,0.4478
+V2.06,11,Keyboard/Mouse Ranked,North America,1303,105995,0.4019
+V2.06,12,Keyboard/Mouse Ranked,North America,1402,105995,0.4324
+V2.06,13,Keyboard/Mouse Ranked,North America,1658,105995,0.5114
+V2.06,14,Keyboard/Mouse Ranked,North America,2149,105995,0.6628
+V2.06,15,Keyboard/Mouse Ranked,North America,2832,105995,0.8578
+V2.06,16,Keyboard/Mouse Ranked,North America,3446,105995,1.0441
+V2.06,17,Keyboard/Mouse Ranked,North America,4146,105995,1.2554
+V2.06,18,Keyboard/Mouse Ranked,North America,4601,105995,1.4190
+V2.06,19,Keyboard/Mouse Ranked,North America,5083,105995,1.5395
+V2.06,20,Keyboard/Mouse Ranked,North America,5450,105995,1.6507
+V2.06,21,Keyboard/Mouse Ranked,North America,5884,105995,1.7817
+V2.06,22,Keyboard/Mouse Ranked,North America,6148,105995,1.8616
+V2.06,23,Keyboard/Mouse Ranked,North America,6422,105995,1.9446
+V2.05,0,Controller Ranked,North America,7068,104287,2.1402
+V2.05,1,Controller Ranked,North America,7355,104287,2.2271
+V2.05,2,Controller Ranked,North America,7471,104287,2.2622
+V2.05,3,Controller Ranked,North America,7329,104287,2.2192
+V2.05,4,Controller Ranked,North America,6743,104287,2.0418
+V2.05,5,Controller Ranked,North America,5509,104287,1.6681
+V2.05,6,Controller Ranked,North America,4254,104287,1.2881
+V2.05,7,Controller Ranked,North America,3016,104287,0.9133
+V2.05,8,Controller Ranked,North America,2284,104287,0.6917
+V2.05,9,Controller Ranked,North America,1615,104287,0.4891
+V2.05,10,Controller Ranked,North America,1176,104287,0.3562
+V2.05,11,Controller Ranked,North America,1081,104287,0.3276
+V2.05,12,Controller Ranked,North America,1238,104287,0.3818
+V2.05,13,Controller Ranked,North America,1588,104287,0.4898
+V2.05,14,Controller Ranked,North America,2186,104287,0.6742
+V2.05,15,Controller Ranked,North America,2850,104287,0.8633
+V2.05,16,Controller Ranked,North America,3446,104287,1.0435
+V2.05,17,Controller Ranked,North America,4138,104287,1.2530
+V2.05,18,Controller Ranked,North America,4649,104287,1.4077
+V2.05,19,Controller Ranked,North America,4950,104287,1.4989
+V2.05,20,Controller Ranked,North America,5570,104287,1.6866
+V2.05,21,Controller Ranked,North America,5789,104287,1.7529
+V2.05,22,Controller Ranked,North America,6289,104287,1.9043
+V2.05,23,Controller Ranked,North America,6693,104287,2.0267
+V2.04,0,Crossplatform Casual,Southeast Asia,1081,100748,0.6663
+V2.04,1,Crossplatform Casual,Southeast Asia,1431,100748,0.8820
+V2.04,2,Crossplatform Casual,Southeast Asia,1918,100748,1.1821
+V2.04,3,Crossplatform Casual,Southeast Asia,2586,100748,1.5940
+V2.04,4,Crossplatform Casual,Southeast Asia,3235,100748,1.9938
+V2.04,5,Crossplatform Casual,Southeast Asia,3939,100748,2.4278
+V2.04,6,Crossplatform Casual,Southeast Asia,4905,100748,3.0232
+V2.04,7,Crossplatform Casual,Southeast Asia,5662,100748,3.4897
+V2.04,8,Crossplatform Casual,Southeast Asia,6059,100748,3.7344
+V2.04,9,Crossplatform Casual,Southeast Asia,6309,100748,3.8885
+V2.04,10,Crossplatform Casual,Southeast Asia,6421,100748,3.9575
+V2.04,11,Crossplatform Casual,Southeast Asia,5695,100748,3.5143
+V2.04,12,Crossplatform Casual,Southeast Asia,5966,100748,3.6771
+V2.04,13,Crossplatform Casual,Southeast Asia,6783,100748,4.3412
+V2.04,14,Crossplatform Casual,Southeast Asia,7430,100748,4.7553
+V2.04,15,Crossplatform Casual,Southeast Asia,7227,100748,4.6253
+V2.04,16,Crossplatform Casual,Southeast Asia,6429,100748,3.9628
+V2.04,17,Crossplatform Casual,Southeast Asia,5233,100748,3.2253
+V2.04,18,Crossplatform Casual,Southeast Asia,4090,100748,2.5208
+V2.04,19,Crossplatform Casual,Southeast Asia,3064,100748,1.8885
+V2.04,20,Crossplatform Casual,Southeast Asia,2053,100748,1.2654
+V2.04,21,Crossplatform Casual,Southeast Asia,1286,100748,0.7926
+V2.04,22,Crossplatform Casual,Southeast Asia,1000,100748,0.6164
+V2.04,23,Crossplatform Casual,Southeast Asia,946,100748,0.5831
+V2.06,0,PS4 Casual,Southeast Asia,930,100251,0.2816
+V2.06,1,PS4 Casual,Southeast Asia,1319,100251,0.3994
+V2.06,2,PS4 Casual,Southeast Asia,1729,100251,0.5236
+V2.06,3,PS4 Casual,Southeast Asia,1960,100251,0.5935
+V2.06,4,PS4 Casual,Southeast Asia,2253,100251,0.6823
+V2.06,5,PS4 Casual,Southeast Asia,2910,100251,0.8812
+V2.06,6,PS4 Casual,Southeast Asia,3652,100251,1.1059
+V2.06,7,PS4 Casual,Southeast Asia,4246,100251,1.2857
+V2.06,8,PS4 Casual,Southeast Asia,4695,100251,1.4217
+V2.06,9,PS4 Casual,Southeast Asia,4566,100251,1.3826
+V2.06,10,PS4 Casual,Southeast Asia,4160,100251,1.2604
+V2.06,11,PS4 Casual,Southeast Asia,4633,100251,1.4289
+V2.06,12,PS4 Casual,Southeast Asia,7184,100251,2.2156
+V2.06,13,PS4 Casual,Southeast Asia,10281,100251,3.1707
+V2.06,14,PS4 Casual,Southeast Asia,11570,100251,3.5046
+V2.06,15,PS4 Casual,Southeast Asia,10175,100251,3.0810
+V2.06,16,PS4 Casual,Southeast Asia,7817,100251,2.3670
+V2.06,17,PS4 Casual,Southeast Asia,5572,100251,1.6873
+V2.06,18,PS4 Casual,Southeast Asia,3818,100251,1.1562
+V2.06,19,PS4 Casual,Southeast Asia,2656,100251,0.8043
+V2.06,20,PS4 Casual,Southeast Asia,1471,100251,0.4454
+V2.06,21,PS4 Casual,Southeast Asia,1068,100251,0.3234
+V2.06,22,PS4 Casual,Southeast Asia,778,100251,0.2356
+V2.06,23,PS4 Casual,Southeast Asia,808,100251,0.2493
+V2.03,0,Crossplatform Casual,Southeast Asia,911,89527,0.5616
+V2.03,1,Crossplatform Casual,Southeast Asia,1314,89527,0.8100
+V2.03,2,Crossplatform Casual,Southeast Asia,1767,89527,1.0891
+V2.03,3,Crossplatform Casual,Southeast Asia,2411,89527,1.4861
+V2.03,4,Crossplatform Casual,Southeast Asia,2947,89527,1.8164
+V2.03,5,Crossplatform Casual,Southeast Asia,3463,89527,2.1344
+V2.03,6,Crossplatform Casual,Southeast Asia,4203,89527,2.5905
+V2.03,7,Crossplatform Casual,Southeast Asia,4783,89527,2.9480
+V2.03,8,Crossplatform Casual,Southeast Asia,5124,89527,3.1582
+V2.03,9,Crossplatform Casual,Southeast Asia,5619,89527,3.4632
+V2.03,10,Crossplatform Casual,Southeast Asia,5698,89527,3.5120
+V2.03,11,Crossplatform Casual,Southeast Asia,5473,89527,3.3732
+V2.03,12,Crossplatform Casual,Southeast Asia,5390,89527,3.4496
+V2.03,13,Crossplatform Casual,Southeast Asia,6114,89527,3.9130
+V2.03,14,Crossplatform Casual,Southeast Asia,6486,89527,4.1511
+V2.03,15,Crossplatform Casual,Southeast Asia,6299,89527,3.8879
+V2.03,16,Crossplatform Casual,Southeast Asia,5565,89527,3.4300
+V2.03,17,Crossplatform Casual,Southeast Asia,4569,89527,2.8161
+V2.03,18,Crossplatform Casual,Southeast Asia,3729,89527,2.2983
+V2.03,19,Crossplatform Casual,Southeast Asia,2782,89527,1.7147
+V2.03,20,Crossplatform Casual,Southeast Asia,1921,89527,1.1840
+V2.03,21,Crossplatform Casual,Southeast Asia,1261,89527,0.7772
+V2.03,22,Crossplatform Casual,Southeast Asia,918,89527,0.5658
+V2.03,23,Crossplatform Casual,Southeast Asia,780,89527,0.4808
+V2.05,0,Keyboard/Mouse Ranked,Latin America North,5724,74460,1.7332
+V2.05,1,Keyboard/Mouse Ranked,Latin America North,5750,74460,1.7411
+V2.05,2,Keyboard/Mouse Ranked,Latin America North,5936,74460,1.7974
+V2.05,3,Keyboard/Mouse Ranked,Latin America North,6064,74460,1.8362
+V2.05,4,Keyboard/Mouse Ranked,Latin America North,5669,74460,1.7166
+V2.05,5,Keyboard/Mouse Ranked,Latin America North,4554,74460,1.3790
+V2.05,6,Keyboard/Mouse Ranked,Latin America North,3285,74460,0.9947
+V2.05,7,Keyboard/Mouse Ranked,Latin America North,1889,74460,0.5720
+V2.05,8,Keyboard/Mouse Ranked,Latin America North,1006,74460,0.3103
+V2.05,9,Keyboard/Mouse Ranked,Latin America North,423,74460,0.1305
+V2.05,10,Keyboard/Mouse Ranked,Latin America North,124,74460,0.0383
+V2.05,11,Keyboard/Mouse Ranked,Latin America North,31,74460,0.0101
+V2.05,12,Keyboard/Mouse Ranked,Latin America North,18,74460,0.0057
+V2.05,13,Keyboard/Mouse Ranked,Latin America North,101,74460,0.0312
+V2.05,14,Keyboard/Mouse Ranked,Latin America North,582,74460,0.1795
+V2.05,15,Keyboard/Mouse Ranked,Latin America North,1487,74460,0.4504
+V2.05,16,Keyboard/Mouse Ranked,Latin America North,2366,74460,0.7164
+V2.05,17,Keyboard/Mouse Ranked,Latin America North,2957,74460,0.8954
+V2.05,18,Keyboard/Mouse Ranked,Latin America North,3186,74460,0.9647
+V2.05,19,Keyboard/Mouse Ranked,Latin America North,3499,74460,1.0596
+V2.05,20,Keyboard/Mouse Ranked,Latin America North,4066,74460,1.2312
+V2.05,21,Keyboard/Mouse Ranked,Latin America North,4717,74460,1.4283
+V2.05,22,Keyboard/Mouse Ranked,Latin America North,5382,74460,1.6297
+V2.05,23,Keyboard/Mouse Ranked,Latin America North,5644,74460,1.7090
+V2.06,0,Keyboard/Mouse Ranked,Latin America North,5198,69245,1.5740
+V2.06,1,Keyboard/Mouse Ranked,Latin America North,5302,69245,1.6055
+V2.06,2,Keyboard/Mouse Ranked,Latin America North,5686,69245,1.7217
+V2.06,3,Keyboard/Mouse Ranked,Latin America North,5689,69245,1.7226
+V2.06,4,Keyboard/Mouse Ranked,Latin America North,5182,69245,1.5692
+V2.06,5,Keyboard/Mouse Ranked,Latin America North,4309,69245,1.3048
+V2.06,6,Keyboard/Mouse Ranked,Latin America North,3107,69245,0.9408
+V2.06,7,Keyboard/Mouse Ranked,Latin America North,1907,69245,0.5775
+V2.06,8,Keyboard/Mouse Ranked,Latin America North,946,69245,0.2865
+V2.06,9,Keyboard/Mouse Ranked,Latin America North,350,69245,0.1060
+V2.06,10,Keyboard/Mouse Ranked,Latin America North,78,69245,0.0241
+V2.06,11,Keyboard/Mouse Ranked,Latin America North,12,69245,0.0054
+V2.06,12,Keyboard/Mouse Ranked,Latin America North,4,69245,0.0016
+V2.06,13,Keyboard/Mouse Ranked,Latin America North,54,69245,0.0167
+V2.06,14,Keyboard/Mouse Ranked,Latin America North,428,69245,0.1320
+V2.06,15,Keyboard/Mouse Ranked,Latin America North,1197,69245,0.3626
+V2.06,16,Keyboard/Mouse Ranked,Latin America North,2044,69245,0.6193
+V2.06,17,Keyboard/Mouse Ranked,Latin America North,2708,69245,0.8200
+V2.06,18,Keyboard/Mouse Ranked,Latin America North,3011,69245,0.9286
+V2.06,19,Keyboard/Mouse Ranked,Latin America North,3387,69245,1.0258
+V2.06,20,Keyboard/Mouse Ranked,Latin America North,3877,69245,1.1743
+V2.06,21,Keyboard/Mouse Ranked,Latin America North,4488,69245,1.3590
+V2.06,22,Keyboard/Mouse Ranked,Latin America North,5020,69245,1.5201
+V2.06,23,Keyboard/Mouse Ranked,Latin America North,5261,69245,1.5931
+V2.03,0,Keyboard/Mouse Ranked,Brazil,5097,64945,3.1415
+V2.03,1,Keyboard/Mouse Ranked,Brazil,4986,64945,3.0732
+V2.03,2,Keyboard/Mouse Ranked,Brazil,4825,64945,2.9739
+V2.03,3,Keyboard/Mouse Ranked,Brazil,4309,64945,2.6559
+V2.03,4,Keyboard/Mouse Ranked,Brazil,3309,64945,2.0396
+V2.03,5,Keyboard/Mouse Ranked,Brazil,2251,64945,1.3874
+V2.03,6,Keyboard/Mouse Ranked,Brazil,1293,64945,0.7969
+V2.03,7,Keyboard/Mouse Ranked,Brazil,702,64945,0.4327
+V2.03,8,Keyboard/Mouse Ranked,Brazil,342,64945,0.2109
+V2.03,9,Keyboard/Mouse Ranked,Brazil,186,64945,0.1147
+V2.03,10,Keyboard/Mouse Ranked,Brazil,148,64945,0.0913
+V2.03,11,Keyboard/Mouse Ranked,Brazil,263,64945,0.1621
+V2.03,12,Keyboard/Mouse Ranked,Brazil,624,64945,0.3994
+V2.03,13,Keyboard/Mouse Ranked,Brazil,1196,64945,0.7654
+V2.03,14,Keyboard/Mouse Ranked,Brazil,1751,64945,1.1207
+V2.03,15,Keyboard/Mouse Ranked,Brazil,2089,64945,1.3388
+V2.03,16,Keyboard/Mouse Ranked,Brazil,2473,64945,1.5260
+V2.03,17,Keyboard/Mouse Ranked,Brazil,3207,64945,1.9768
+V2.03,18,Keyboard/Mouse Ranked,Brazil,3625,64945,2.2342
+V2.03,19,Keyboard/Mouse Ranked,Brazil,4072,64945,2.5098
+V2.03,20,Keyboard/Mouse Ranked,Brazil,4434,64945,2.7329
+V2.03,21,Keyboard/Mouse Ranked,Brazil,4361,64945,2.6879
+V2.03,22,Keyboard/Mouse Ranked,Brazil,4377,64945,2.6977
+V2.03,23,Keyboard/Mouse Ranked,Brazil,5025,64945,3.0972
+V2.07,0,Crossplatform Casual,Brazil,5022,62843,20.7097
+V2.07,1,Crossplatform Casual,Brazil,4837,62843,19.9466
+V2.07,2,Crossplatform Casual,Brazil,4427,62843,18.2560
+V2.07,3,Crossplatform Casual,Brazil,3454,62843,14.2437
+V2.07,4,Crossplatform Casual,Brazil,2155,62843,8.9334
+V2.07,5,Crossplatform Casual,Brazil,1291,62843,7.0744
+V2.07,6,Crossplatform Casual,Brazil,798,62843,4.3727
+V2.07,7,Crossplatform Casual,Brazil,464,62843,2.5428
+V2.07,8,Crossplatform Casual,Brazil,276,62843,1.5127
+V2.07,9,Crossplatform Casual,Brazil,222,62843,1.2174
+V2.07,10,Crossplatform Casual,Brazil,273,62843,1.4963
+V2.07,11,Crossplatform Casual,Brazil,506,62843,2.7734
+V2.07,12,Crossplatform Casual,Brazil,873,62843,4.7843
+V2.07,13,Crossplatform Casual,Brazil,1433,62843,7.8526
+V2.07,14,Crossplatform Casual,Brazil,1945,62843,10.6585
+V2.07,15,Crossplatform Casual,Brazil,2380,62843,9.8212
+V2.07,16,Crossplatform Casual,Brazil,2956,62843,12.1907
+V2.07,17,Crossplatform Casual,Brazil,3448,62843,14.2189
+V2.07,18,Crossplatform Casual,Brazil,3919,62843,16.1609
+V2.07,19,Crossplatform Casual,Brazil,4031,62843,16.6227
+V2.07,20,Crossplatform Casual,Brazil,4159,62843,17.1509
+V2.07,21,Crossplatform Casual,Brazil,4317,62843,17.8029
+V2.07,22,Crossplatform Casual,Brazil,4677,62843,19.2873
+V2.07,23,Crossplatform Casual,Brazil,4980,62843,20.5366
+V2.04,0,PS4 Casual,Brazil,4196,57852,2.5861
+V2.04,1,PS4 Casual,Brazil,3759,57852,2.3169
+V2.04,2,PS4 Casual,Brazil,3229,57852,1.9902
+V2.04,3,PS4 Casual,Brazil,2658,57852,1.6382
+V2.04,4,PS4 Casual,Brazil,2002,57852,1.2340
+V2.04,5,PS4 Casual,Brazil,1390,57852,0.8568
+V2.04,6,PS4 Casual,Brazil,882,57852,0.5437
+V2.04,7,PS4 Casual,Brazil,584,57852,0.3600
+V2.04,8,PS4 Casual,Brazil,394,57852,0.2429
+V2.04,9,PS4 Casual,Brazil,333,57852,0.2053
+V2.04,10,PS4 Casual,Brazil,407,57852,0.2509
+V2.04,11,PS4 Casual,Brazil,655,57852,0.4042
+V2.04,12,PS4 Casual,Brazil,1105,57852,0.6811
+V2.04,13,PS4 Casual,Brazil,1654,57852,1.0586
+V2.04,14,PS4 Casual,Brazil,2254,57852,1.4426
+V2.04,15,PS4 Casual,Brazil,2481,57852,1.5879
+V2.04,16,PS4 Casual,Brazil,2695,57852,1.6611
+V2.04,17,PS4 Casual,Brazil,3229,57852,1.9903
+V2.04,18,PS4 Casual,Brazil,3635,57852,2.2404
+V2.04,19,PS4 Casual,Brazil,3716,57852,2.2903
+V2.04,20,PS4 Casual,Brazil,3858,57852,2.3778
+V2.04,21,PS4 Casual,Brazil,4030,57852,2.4840
+V2.04,22,PS4 Casual,Brazil,4312,57852,2.6577
+V2.04,23,PS4 Casual,Brazil,4394,57852,2.7082
+V2.04,0,Keyboard/Mouse Ranked,Brazil,4583,56423,2.8247
+V2.04,1,Keyboard/Mouse Ranked,Brazil,4481,56423,2.7618
+V2.04,2,Keyboard/Mouse Ranked,Brazil,4309,56423,2.6559
+V2.04,3,Keyboard/Mouse Ranked,Brazil,3758,56423,2.3163
+V2.04,4,Keyboard/Mouse Ranked,Brazil,2980,56423,1.8367
+V2.04,5,Keyboard/Mouse Ranked,Brazil,2083,56423,1.2839
+V2.04,6,Keyboard/Mouse Ranked,Brazil,1273,56423,0.7846
+V2.04,7,Keyboard/Mouse Ranked,Brazil,624,56423,0.3846
+V2.04,8,Keyboard/Mouse Ranked,Brazil,310,56423,0.1911
+V2.04,9,Keyboard/Mouse Ranked,Brazil,153,56423,0.0943
+V2.04,10,Keyboard/Mouse Ranked,Brazil,120,56423,0.0769
+V2.04,11,Keyboard/Mouse Ranked,Brazil,220,56423,0.1408
+V2.04,12,Keyboard/Mouse Ranked,Brazil,487,56423,0.3002
+V2.04,13,Keyboard/Mouse Ranked,Brazil,967,56423,0.6189
+V2.04,14,Keyboard/Mouse Ranked,Brazil,1472,56423,0.9423
+V2.04,15,Keyboard/Mouse Ranked,Brazil,1736,56423,1.1111
+V2.04,16,Keyboard/Mouse Ranked,Brazil,1979,56423,1.2208
+V2.04,17,Keyboard/Mouse Ranked,Brazil,2573,56423,1.5858
+V2.04,18,Keyboard/Mouse Ranked,Brazil,3305,56423,2.0370
+V2.04,19,Keyboard/Mouse Ranked,Brazil,3435,56423,2.1984
+V2.04,20,Keyboard/Mouse Ranked,Brazil,3609,56423,2.2273
+V2.04,21,Keyboard/Mouse Ranked,Brazil,3695,56423,2.2774
+V2.04,22,Keyboard/Mouse Ranked,Brazil,3931,56423,2.4229
+V2.04,23,Keyboard/Mouse Ranked,Brazil,4340,56423,2.6749
+V2.06,0,Crossplatform Casual,Oceania,1195,56238,0.3619
+V2.06,1,Crossplatform Casual,Oceania,1462,56238,0.4427
+V2.06,2,Crossplatform Casual,Oceania,1690,56238,0.5117
+V2.06,3,Crossplatform Casual,Oceania,1872,56238,0.5669
+V2.06,4,Crossplatform Casual,Oceania,2266,56238,0.6862
+V2.06,5,Crossplatform Casual,Oceania,2720,56238,0.8236
+V2.06,6,Crossplatform Casual,Oceania,3368,56238,1.0199
+V2.06,7,Crossplatform Casual,Oceania,4009,56238,1.2139
+V2.06,8,Crossplatform Casual,Oceania,4546,56238,1.3766
+V2.06,9,Crossplatform Casual,Oceania,4603,56238,1.3938
+V2.06,10,Crossplatform Casual,Oceania,4827,56238,1.4625
+V2.06,11,Crossplatform Casual,Oceania,4586,56238,1.4144
+V2.06,12,Crossplatform Casual,Oceania,4042,56238,1.2466
+V2.06,13,Crossplatform Casual,Oceania,3323,56238,1.0249
+V2.06,14,Crossplatform Casual,Oceania,2588,56238,0.7840
+V2.06,15,Crossplatform Casual,Oceania,1955,56238,0.5920
+V2.06,16,Crossplatform Casual,Oceania,1451,56238,0.4395
+V2.06,17,Crossplatform Casual,Oceania,1071,56238,0.3243
+V2.06,18,Crossplatform Casual,Oceania,834,56238,0.2526
+V2.06,19,Crossplatform Casual,Oceania,721,56238,0.2183
+V2.06,20,Crossplatform Casual,Oceania,648,56238,0.1962
+V2.06,21,Crossplatform Casual,Oceania,724,56238,0.2193
+V2.06,22,Crossplatform Casual,Oceania,789,56238,0.2389
+V2.06,23,Crossplatform Casual,Oceania,948,56238,0.2871
+V2.03,0,Keyboard/Mouse Ranked,North America,3520,55243,2.1695
+V2.03,1,Keyboard/Mouse Ranked,North America,3825,55243,2.3576
+V2.03,2,Keyboard/Mouse Ranked,North America,4062,55243,2.5036
+V2.03,3,Keyboard/Mouse Ranked,North America,4089,55243,2.5203
+V2.03,4,Keyboard/Mouse Ranked,North America,3695,55243,2.2774
+V2.03,5,Keyboard/Mouse Ranked,North America,3071,55243,1.8928
+V2.03,6,Keyboard/Mouse Ranked,North America,2431,55243,1.4984
+V2.03,7,Keyboard/Mouse Ranked,North America,1776,55243,1.0946
+V2.03,8,Keyboard/Mouse Ranked,North America,1193,55243,0.7354
+V2.03,9,Keyboard/Mouse Ranked,North America,947,55243,0.5837
+V2.03,10,Keyboard/Mouse Ranked,North America,792,55243,0.4882
+V2.03,11,Keyboard/Mouse Ranked,North America,684,55243,0.4216
+V2.03,12,Keyboard/Mouse Ranked,North America,706,55243,0.4519
+V2.03,13,Keyboard/Mouse Ranked,North America,826,55243,0.5287
+V2.03,14,Keyboard/Mouse Ranked,North America,1067,55243,0.6829
+V2.03,15,Keyboard/Mouse Ranked,North America,1419,55243,0.9093
+V2.03,16,Keyboard/Mouse Ranked,North America,1744,55243,1.0762
+V2.03,17,Keyboard/Mouse Ranked,North America,2044,55243,1.2599
+V2.03,18,Keyboard/Mouse Ranked,North America,2163,55243,1.3332
+V2.03,19,Keyboard/Mouse Ranked,North America,2501,55243,1.5415
+V2.03,20,Keyboard/Mouse Ranked,North America,2958,55243,1.8232
+V2.03,21,Keyboard/Mouse Ranked,North America,3108,55243,1.9157
+V2.03,22,Keyboard/Mouse Ranked,North America,3175,55243,1.9569
+V2.03,23,Keyboard/Mouse Ranked,North America,3447,55243,2.1246
+V2.03,0,PS4 Casual,Brazil,3962,54995,2.4421
+V2.03,1,PS4 Casual,Brazil,3513,54995,2.1653
+V2.03,2,PS4 Casual,Brazil,3075,54995,1.8953
+V2.03,3,PS4 Casual,Brazil,2545,54995,1.5686
+V2.03,4,PS4 Casual,Brazil,1822,54995,1.1230
+V2.03,5,PS4 Casual,Brazil,1295,54995,0.7983
+V2.03,6,PS4 Casual,Brazil,853,54995,0.5258
+V2.03,7,PS4 Casual,Brazil,500,54995,0.3082
+V2.03,8,PS4 Casual,Brazil,331,54995,0.2040
+V2.03,9,PS4 Casual,Brazil,326,54995,0.2010
+V2.03,10,PS4 Casual,Brazil,465,54995,0.2867
+V2.03,11,PS4 Casual,Brazil,711,54995,0.4228
+V2.03,12,PS4 Casual,Brazil,1152,54995,0.7101
+V2.03,13,PS4 Casual,Brazil,1693,54995,1.0435
+V2.03,14,PS4 Casual,Brazil,2250,54995,1.3868
+V2.03,15,PS4 Casual,Brazil,2419,54995,1.4909
+V2.03,16,PS4 Casual,Brazil,2567,54995,1.5823
+V2.03,17,PS4 Casual,Brazil,2919,54995,1.7992
+V2.03,18,PS4 Casual,Brazil,3367,54995,2.0752
+V2.03,19,PS4 Casual,Brazil,3483,54995,2.1468
+V2.03,20,PS4 Casual,Brazil,3574,54995,2.2028
+V2.03,21,PS4 Casual,Brazil,3823,54995,2.3564
+V2.03,22,PS4 Casual,Brazil,4165,54995,2.5670
+V2.03,23,PS4 Casual,Brazil,4185,54995,2.5794
+V2.03,0,PS4 Ranked,Europe,1516,54325,1.0091
+V2.03,1,PS4 Ranked,Europe,995,54325,0.6623
+V2.03,2,PS4 Ranked,Europe,560,54325,0.3728
+V2.03,3,PS4 Ranked,Europe,305,54325,0.2030
+V2.03,4,PS4 Ranked,Europe,178,54325,0.1185
+V2.03,5,PS4 Ranked,Europe,160,54325,0.1065
+V2.03,6,PS4 Ranked,Europe,231,54325,0.1538
+V2.03,7,PS4 Ranked,Europe,445,54325,0.2962
+V2.03,8,PS4 Ranked,Europe,867,54325,0.5771
+V2.03,9,PS4 Ranked,Europe,1533,54325,1.0203
+V2.03,10,PS4 Ranked,Europe,2023,54325,1.3465
+V2.03,11,PS4 Ranked,Europe,2392,54325,1.4223
+V2.03,12,PS4 Ranked,Europe,2805,54325,1.9446
+V2.03,13,PS4 Ranked,Europe,3295,54325,2.1959
+V2.03,14,PS4 Ranked,Europe,3751,54325,2.4966
+V2.03,15,PS4 Ranked,Europe,3827,54325,2.5472
+V2.03,16,PS4 Ranked,Europe,4042,54325,2.6903
+V2.03,17,PS4 Ranked,Europe,4085,54325,2.7188
+V2.03,18,PS4 Ranked,Europe,3912,54325,2.6037
+V2.03,19,PS4 Ranked,Europe,3949,54325,2.6283
+V2.03,20,PS4 Ranked,Europe,4197,54325,2.7934
+V2.03,21,PS4 Ranked,Europe,3832,54325,2.5505
+V2.03,22,PS4 Ranked,Europe,3186,54325,2.1205
+V2.03,23,PS4 Ranked,Europe,2239,54325,1.4902
+V2.05,0,Crossplatform Casual,Oceania,1089,52612,0.3298
+V2.05,1,Crossplatform Casual,Oceania,1428,52612,0.4324
+V2.05,2,Crossplatform Casual,Oceania,1663,52612,0.5036
+V2.05,3,Crossplatform Casual,Oceania,1913,52612,0.5793
+V2.05,4,Crossplatform Casual,Oceania,2257,52612,0.6834
+V2.05,5,Crossplatform Casual,Oceania,2605,52612,0.7889
+V2.05,6,Crossplatform Casual,Oceania,3031,52612,0.9178
+V2.05,7,Crossplatform Casual,Oceania,3720,52612,1.1264
+V2.05,8,Crossplatform Casual,Oceania,4196,52612,1.2706
+V2.05,9,Crossplatform Casual,Oceania,4249,52612,1.2866
+V2.05,10,Crossplatform Casual,Oceania,4344,52612,1.3154
+V2.05,11,Crossplatform Casual,Oceania,4192,52612,1.2701
+V2.05,12,Crossplatform Casual,Oceania,3751,52612,1.1568
+V2.05,13,Crossplatform Casual,Oceania,3087,52612,0.9520
+V2.05,14,Crossplatform Casual,Oceania,2387,52612,0.7230
+V2.05,15,Crossplatform Casual,Oceania,1830,52612,0.5542
+V2.05,16,Crossplatform Casual,Oceania,1410,52612,0.4270
+V2.05,17,Crossplatform Casual,Oceania,1101,52612,0.3334
+V2.05,18,Crossplatform Casual,Oceania,901,52612,0.2728
+V2.05,19,Crossplatform Casual,Oceania,723,52612,0.2189
+V2.05,20,Crossplatform Casual,Oceania,566,52612,0.1714
+V2.05,21,Crossplatform Casual,Oceania,597,52612,0.1808
+V2.05,22,Crossplatform Casual,Oceania,699,52612,0.2117
+V2.05,23,Crossplatform Casual,Oceania,873,52612,0.2644
+V2.04,0,Keyboard/Mouse Ranked,North America,3369,48419,2.0765
+V2.04,1,Keyboard/Mouse Ranked,North America,3455,48419,2.1295
+V2.04,2,Keyboard/Mouse Ranked,North America,3557,48419,2.1923
+V2.04,3,Keyboard/Mouse Ranked,North America,3517,48419,2.1677
+V2.04,4,Keyboard/Mouse Ranked,North America,3259,48419,2.0087
+V2.04,5,Keyboard/Mouse Ranked,North America,2764,48419,1.7036
+V2.04,6,Keyboard/Mouse Ranked,North America,2215,48419,1.3653
+V2.04,7,Keyboard/Mouse Ranked,North America,1615,48419,0.9956
+V2.04,8,Keyboard/Mouse Ranked,North America,1128,48419,0.6952
+V2.04,9,Keyboard/Mouse Ranked,North America,812,48419,0.5006
+V2.04,10,Keyboard/Mouse Ranked,North America,650,48419,0.4006
+V2.04,11,Keyboard/Mouse Ranked,North America,549,48419,0.3388
+V2.04,12,Keyboard/Mouse Ranked,North America,629,48419,0.3877
+V2.04,13,Keyboard/Mouse Ranked,North America,746,48419,0.4775
+V2.04,14,Keyboard/Mouse Ranked,North America,962,48419,0.6157
+V2.04,15,Keyboard/Mouse Ranked,North America,1178,48419,0.7540
+V2.04,16,Keyboard/Mouse Ranked,North America,1455,48419,0.8975
+V2.04,17,Keyboard/Mouse Ranked,North America,1651,48419,1.0177
+V2.04,18,Keyboard/Mouse Ranked,North America,1971,48419,1.2148
+V2.04,19,Keyboard/Mouse Ranked,North America,2043,48419,1.3075
+V2.04,20,Keyboard/Mouse Ranked,North America,2293,48419,1.4152
+V2.04,21,Keyboard/Mouse Ranked,North America,2700,48419,1.6641
+V2.04,22,Keyboard/Mouse Ranked,North America,2861,48419,1.7633
+V2.04,23,Keyboard/Mouse Ranked,North America,3040,48419,1.8737
+V2.04,0,PS4 Ranked,Europe,1326,48060,0.8173
+V2.04,1,PS4 Ranked,Europe,810,48060,0.4993
+V2.04,2,PS4 Ranked,Europe,479,48060,0.2953
+V2.04,3,PS4 Ranked,Europe,291,48060,0.1794
+V2.04,4,PS4 Ranked,Europe,182,48060,0.1122
+V2.04,5,PS4 Ranked,Europe,147,48060,0.0906
+V2.04,6,PS4 Ranked,Europe,209,48060,0.1289
+V2.04,7,PS4 Ranked,Europe,375,48060,0.2312
+V2.04,8,PS4 Ranked,Europe,744,48060,0.4586
+V2.04,9,PS4 Ranked,Europe,1231,48060,0.7588
+V2.04,10,PS4 Ranked,Europe,1650,48060,1.0170
+V2.04,11,PS4 Ranked,Europe,1935,48060,1.1941
+V2.04,12,PS4 Ranked,Europe,2379,48060,1.4663
+V2.04,13,PS4 Ranked,Europe,2792,48060,1.7870
+V2.04,14,PS4 Ranked,Europe,3270,48060,2.0928
+V2.04,15,PS4 Ranked,Europe,3518,48060,2.2516
+V2.04,16,PS4 Ranked,Europe,3858,48060,2.3796
+V2.04,17,PS4 Ranked,Europe,3872,48060,2.3865
+V2.04,18,PS4 Ranked,Europe,3750,48060,2.3113
+V2.04,19,PS4 Ranked,Europe,3479,48060,2.2267
+V2.04,20,PS4 Ranked,Europe,3592,48060,2.2169
+V2.04,21,PS4 Ranked,Europe,3402,48060,2.0968
+V2.04,22,PS4 Ranked,Europe,2762,48060,1.7023
+V2.04,23,PS4 Ranked,Europe,2007,48060,1.2370
+V2.03,0,Controller Ranked,North America,2956,43629,1.8219
+V2.03,1,Controller Ranked,North America,3173,43629,1.9556
+V2.03,2,Controller Ranked,North America,3242,43629,1.9982
+V2.03,3,Controller Ranked,North America,3122,43629,1.9243
+V2.03,4,Controller Ranked,North America,2786,43629,1.7171
+V2.03,5,Controller Ranked,North America,2293,43629,1.4133
+V2.03,6,Controller Ranked,North America,1739,43629,1.0718
+V2.03,7,Controller Ranked,North America,1238,43629,0.7630
+V2.03,8,Controller Ranked,North America,842,43629,0.5190
+V2.03,9,Controller Ranked,North America,646,43629,0.3982
+V2.03,10,Controller Ranked,North America,550,43629,0.3390
+V2.03,11,Controller Ranked,North America,496,43629,0.3057
+V2.03,12,Controller Ranked,North America,556,43629,0.3559
+V2.03,13,Controller Ranked,North America,742,43629,0.4750
+V2.03,14,Controller Ranked,North America,911,43629,0.5831
+V2.03,15,Controller Ranked,North America,1152,43629,0.7382
+V2.03,16,Controller Ranked,North America,1364,43629,0.8418
+V2.03,17,Controller Ranked,North America,1676,43629,1.0330
+V2.03,18,Controller Ranked,North America,1722,43629,1.0614
+V2.03,19,Controller Ranked,North America,2025,43629,1.2481
+V2.03,20,Controller Ranked,North America,2384,43629,1.4694
+V2.03,21,Controller Ranked,North America,2488,43629,1.5335
+V2.03,22,Controller Ranked,North America,2625,43629,1.6179
+V2.03,23,Controller Ranked,North America,2901,43629,1.7881
+V2.03,0,Keyboard/Mouse Ranked,Latin America North,3114,42667,1.9193
+V2.03,1,Keyboard/Mouse Ranked,Latin America North,3292,42667,2.0290
+V2.03,2,Keyboard/Mouse Ranked,Latin America North,3618,42667,2.2299
+V2.03,3,Keyboard/Mouse Ranked,Latin America North,3647,42667,2.2479
+V2.03,4,Keyboard/Mouse Ranked,Latin America North,3256,42667,2.0068
+V2.03,5,Keyboard/Mouse Ranked,Latin America North,2583,42667,1.5920
+V2.03,6,Keyboard/Mouse Ranked,Latin America North,1718,42667,1.0589
+V2.03,7,Keyboard/Mouse Ranked,Latin America North,979,42667,0.6034
+V2.03,8,Keyboard/Mouse Ranked,Latin America North,483,42667,0.2977
+V2.03,9,Keyboard/Mouse Ranked,Latin America North,181,42667,0.1117
+V2.03,10,Keyboard/Mouse Ranked,Latin America North,44,42667,0.0318
+V2.03,11,Keyboard/Mouse Ranked,Latin America North,8,42667,0.0067
+V2.03,12,Keyboard/Mouse Ranked,Latin America North,4,42667,0.0044
+V2.03,13,Keyboard/Mouse Ranked,Latin America North,74,42667,0.0474
+V2.03,14,Keyboard/Mouse Ranked,Latin America North,376,42667,0.2407
+V2.03,15,Keyboard/Mouse Ranked,Latin America North,900,42667,0.5768
+V2.03,16,Keyboard/Mouse Ranked,Latin America North,1400,42667,0.8640
+V2.03,17,Keyboard/Mouse Ranked,Latin America North,1701,42667,1.0484
+V2.03,18,Keyboard/Mouse Ranked,Latin America North,1755,42667,1.0818
+V2.03,19,Keyboard/Mouse Ranked,Latin America North,2023,42667,1.2469
+V2.03,20,Keyboard/Mouse Ranked,Latin America North,2500,42667,1.5409
+V2.03,21,Keyboard/Mouse Ranked,Latin America North,2853,42667,1.7585
+V2.03,22,Keyboard/Mouse Ranked,Latin America North,2950,42667,1.8183
+V2.03,23,Keyboard/Mouse Ranked,Latin America North,3208,42667,1.9772
+V2.05,0,Keyboard/Mouse Ranked,Southeast Asia,210,42074,0.0636
+V2.05,1,Keyboard/Mouse Ranked,Southeast Asia,306,42074,0.0927
+V2.05,2,Keyboard/Mouse Ranked,Southeast Asia,553,42074,0.1675
+V2.05,3,Keyboard/Mouse Ranked,Southeast Asia,866,42074,0.2623
+V2.05,4,Keyboard/Mouse Ranked,Southeast Asia,1165,42074,0.3528
+V2.05,5,Keyboard/Mouse Ranked,Southeast Asia,1488,42074,0.4506
+V2.05,6,Keyboard/Mouse Ranked,Southeast Asia,1946,42074,0.5893
+V2.05,7,Keyboard/Mouse Ranked,Southeast Asia,2264,42074,0.6855
+V2.05,8,Keyboard/Mouse Ranked,Southeast Asia,2520,42074,0.7632
+V2.05,9,Keyboard/Mouse Ranked,Southeast Asia,2620,42074,0.7934
+V2.05,10,Keyboard/Mouse Ranked,Southeast Asia,2572,42074,0.7788
+V2.05,11,Keyboard/Mouse Ranked,Southeast Asia,2538,42074,0.7690
+V2.05,12,Keyboard/Mouse Ranked,Southeast Asia,2624,42074,0.8093
+V2.05,13,Keyboard/Mouse Ranked,Southeast Asia,2871,42074,0.8855
+V2.05,14,Keyboard/Mouse Ranked,Southeast Asia,3138,42074,0.9678
+V2.05,15,Keyboard/Mouse Ranked,Southeast Asia,3125,42074,0.9465
+V2.05,16,Keyboard/Mouse Ranked,Southeast Asia,2714,42074,0.8218
+V2.05,17,Keyboard/Mouse Ranked,Southeast Asia,2329,42074,0.7052
+V2.05,18,Keyboard/Mouse Ranked,Southeast Asia,2024,42074,0.6129
+V2.05,19,Keyboard/Mouse Ranked,Southeast Asia,1660,42074,0.5027
+V2.05,20,Keyboard/Mouse Ranked,Southeast Asia,1242,42074,0.3761
+V2.05,21,Keyboard/Mouse Ranked,Southeast Asia,710,42074,0.2150
+V2.05,22,Keyboard/Mouse Ranked,Southeast Asia,363,42074,0.1099
+V2.05,23,Keyboard/Mouse Ranked,Southeast Asia,226,42074,0.0685
+V2.04,0,PS4 Ranked,North America,2949,41503,1.8177
+V2.04,1,PS4 Ranked,North America,2928,41503,1.8047
+V2.04,2,PS4 Ranked,North America,2864,41503,1.7652
+V2.04,3,PS4 Ranked,North America,2788,41503,1.7184
+V2.04,4,PS4 Ranked,North America,2525,41503,1.5563
+V2.04,5,PS4 Ranked,North America,2167,41503,1.3357
+V2.04,6,PS4 Ranked,North America,1721,41503,1.0607
+V2.04,7,PS4 Ranked,North America,1229,41503,0.7575
+V2.04,8,PS4 Ranked,North America,874,41503,0.5387
+V2.04,9,PS4 Ranked,North America,644,41503,0.3969
+V2.04,10,PS4 Ranked,North America,484,41503,0.2984
+V2.04,11,PS4 Ranked,North America,433,41503,0.2673
+V2.04,12,PS4 Ranked,North America,512,41503,0.3156
+V2.04,13,PS4 Ranked,North America,657,41503,0.4205
+V2.04,14,PS4 Ranked,North America,881,41503,0.5639
+V2.04,15,PS4 Ranked,North America,1141,41503,0.7303
+V2.04,16,PS4 Ranked,North America,1389,41503,0.8570
+V2.04,17,PS4 Ranked,North America,1596,41503,0.9837
+V2.04,18,PS4 Ranked,North America,1791,41503,1.1040
+V2.04,19,PS4 Ranked,North America,1910,41503,1.2224
+V2.04,20,PS4 Ranked,North America,2129,41503,1.3140
+V2.04,21,PS4 Ranked,North America,2425,41503,1.4947
+V2.04,22,PS4 Ranked,North America,2657,41503,1.6376
+V2.04,23,PS4 Ranked,North America,2809,41503,1.7314
+V2.03,0,PS4 Ranked,North America,2833,40962,1.8856
+V2.03,1,PS4 Ranked,North America,2862,40962,1.9048
+V2.03,2,PS4 Ranked,North America,2873,40962,1.9122
+V2.03,3,PS4 Ranked,North America,2783,40962,1.8523
+V2.03,4,PS4 Ranked,North America,2448,40962,1.6293
+V2.03,5,PS4 Ranked,North America,2105,40962,1.4010
+V2.03,6,PS4 Ranked,North America,1679,40962,1.1176
+V2.03,7,PS4 Ranked,North America,1187,40962,0.7900
+V2.03,8,PS4 Ranked,North America,813,40962,0.5412
+V2.03,9,PS4 Ranked,North America,622,40962,0.4140
+V2.03,10,PS4 Ranked,North America,499,40962,0.3322
+V2.03,11,PS4 Ranked,North America,455,40962,0.2706
+V2.03,12,PS4 Ranked,North America,475,40962,0.3293
+V2.03,13,PS4 Ranked,North America,663,40962,0.4419
+V2.03,14,PS4 Ranked,North America,900,40962,0.5991
+V2.03,15,PS4 Ranked,North America,1160,40962,0.7721
+V2.03,16,PS4 Ranked,North America,1377,40962,0.9165
+V2.03,17,PS4 Ranked,North America,1593,40962,1.0603
+V2.03,18,PS4 Ranked,North America,1733,40962,1.1534
+V2.03,19,PS4 Ranked,North America,1950,40962,1.2979
+V2.03,20,PS4 Ranked,North America,2212,40962,1.4723
+V2.03,21,PS4 Ranked,North America,2466,40962,1.6413
+V2.03,22,PS4 Ranked,North America,2584,40962,1.7198
+V2.03,23,PS4 Ranked,North America,2690,40962,1.7904
+V2.04,0,Controller Ranked,North America,2949,39004,1.8176
+V2.04,1,Controller Ranked,North America,3015,39004,1.8583
+V2.04,2,Controller Ranked,North America,2928,39004,1.8047
+V2.04,3,Controller Ranked,North America,2705,39004,1.6672
+V2.04,4,Controller Ranked,North America,2414,39004,1.4879
+V2.04,5,Controller Ranked,North America,2066,39004,1.2734
+V2.04,6,Controller Ranked,North America,1584,39004,0.9763
+V2.04,7,Controller Ranked,North America,1169,39004,0.7205
+V2.04,8,Controller Ranked,North America,809,39004,0.4987
+V2.04,9,Controller Ranked,North America,590,39004,0.3637
+V2.04,10,Controller Ranked,North America,462,39004,0.2848
+V2.04,11,Controller Ranked,North America,417,39004,0.2573
+V2.04,12,Controller Ranked,North America,478,39004,0.2946
+V2.04,13,Controller Ranked,North America,634,39004,0.4058
+V2.04,14,Controller Ranked,North America,828,39004,0.5299
+V2.04,15,Controller Ranked,North America,1070,39004,0.6849
+V2.04,16,Controller Ranked,North America,1216,39004,0.7502
+V2.04,17,Controller Ranked,North America,1385,39004,0.8537
+V2.04,18,Controller Ranked,North America,1571,39004,0.9684
+V2.04,19,Controller Ranked,North America,1651,39004,1.0567
+V2.04,20,Controller Ranked,North America,1892,39004,1.1677
+V2.04,21,Controller Ranked,North America,2141,39004,1.3196
+V2.04,22,Controller Ranked,North America,2391,39004,1.4737
+V2.04,23,Controller Ranked,North America,2639,39004,1.6266
+V2.06,0,Controller Ranked,Europe,704,37700,0.2132
+V2.06,1,Controller Ranked,Europe,363,37700,0.1099
+V2.06,2,Controller Ranked,Europe,158,37700,0.0497
+V2.06,3,Controller Ranked,Europe,49,37700,0.0185
+V2.06,4,Controller Ranked,Europe,9,37700,0.0042
+V2.06,5,Controller Ranked,Europe,2,37700,0.0030
+V2.06,6,Controller Ranked,Europe,50,37700,0.0160
+V2.06,7,Controller Ranked,Europe,256,37700,0.0775
+V2.06,8,Controller Ranked,Europe,655,37700,0.1984
+V2.06,9,Controller Ranked,Europe,1190,37700,0.3604
+V2.06,10,Controller Ranked,Europe,1587,37700,0.4808
+V2.06,11,Controller Ranked,Europe,1793,37700,0.5530
+V2.06,12,Controller Ranked,Europe,2247,37700,0.6930
+V2.06,13,Controller Ranked,Europe,2638,37700,0.8136
+V2.06,14,Controller Ranked,Europe,2884,37700,0.8894
+V2.06,15,Controller Ranked,Europe,2949,37700,0.8933
+V2.06,16,Controller Ranked,Europe,3059,37700,0.9268
+V2.06,17,Controller Ranked,Europe,2897,37700,0.8772
+V2.06,18,Controller Ranked,Europe,2665,37700,0.8219
+V2.06,19,Controller Ranked,Europe,2780,37700,0.8420
+V2.06,20,Controller Ranked,Europe,2885,37700,0.8738
+V2.06,21,Controller Ranked,Europe,2594,37700,0.7855
+V2.06,22,Controller Ranked,Europe,1996,37700,0.6044
+V2.06,23,Controller Ranked,Europe,1290,37700,0.3907
+V2.06,0,PS4 Ranked,Brazil,2912,36872,0.8818
+V2.06,1,PS4 Ranked,Brazil,2721,36872,0.8240
+V2.06,2,PS4 Ranked,Brazil,2519,36872,0.7628
+V2.06,3,PS4 Ranked,Brazil,2205,36872,0.6677
+V2.06,4,PS4 Ranked,Brazil,1694,36872,0.5130
+V2.06,5,PS4 Ranked,Brazil,1118,36872,0.3448
+V2.06,6,PS4 Ranked,Brazil,613,36872,0.1858
+V2.06,7,PS4 Ranked,Brazil,258,36872,0.0782
+V2.06,8,PS4 Ranked,Brazil,87,36872,0.0284
+V2.06,9,PS4 Ranked,Brazil,19,36872,0.0109
+V2.06,10,PS4 Ranked,Brazil,4,36872,0.0134
+V2.06,11,PS4 Ranked,Brazil,19,36872,0.0067
+V2.06,12,PS4 Ranked,Brazil,154,36872,0.0475
+V2.06,13,PS4 Ranked,Brazil,492,36872,0.1517
+V2.06,14,PS4 Ranked,Brazil,901,36872,0.2779
+V2.06,15,PS4 Ranked,Brazil,1185,36872,0.3590
+V2.06,16,PS4 Ranked,Brazil,1443,36872,0.4370
+V2.06,17,PS4 Ranked,Brazil,1919,36872,0.5811
+V2.06,18,PS4 Ranked,Brazil,2379,36872,0.7204
+V2.06,19,PS4 Ranked,Brazil,2652,36872,0.8030
+V2.06,20,PS4 Ranked,Brazil,2811,36872,0.8512
+V2.06,21,PS4 Ranked,Brazil,2873,36872,0.8700
+V2.06,22,PS4 Ranked,Brazil,2926,36872,0.8860
+V2.06,23,PS4 Ranked,Brazil,2968,36872,0.8987
+V2.04,0,Keyboard/Mouse Ranked,Latin America North,2842,36427,1.7516
+V2.04,1,Keyboard/Mouse Ranked,Latin America North,2918,36427,1.7985
+V2.04,2,Keyboard/Mouse Ranked,Latin America North,3036,36427,1.8713
+V2.04,3,Keyboard/Mouse Ranked,Latin America North,3054,36427,1.8823
+V2.04,4,Keyboard/Mouse Ranked,Latin America North,2712,36427,1.6716
+V2.04,5,Keyboard/Mouse Ranked,Latin America North,2168,36427,1.3363
+V2.04,6,Keyboard/Mouse Ranked,Latin America North,1523,36427,0.9387
+V2.04,7,Keyboard/Mouse Ranked,Latin America North,916,36427,0.5646
+V2.04,8,Keyboard/Mouse Ranked,Latin America North,444,36427,0.2737
+V2.04,9,Keyboard/Mouse Ranked,Latin America North,147,36427,0.0906
+V2.04,10,Keyboard/Mouse Ranked,Latin America North,25,36427,0.0174
+V2.04,12,Keyboard/Mouse Ranked,Latin America North,2,36427,0.0042
+V2.04,13,Keyboard/Mouse Ranked,Latin America North,47,36427,0.0301
+V2.04,14,Keyboard/Mouse Ranked,Latin America North,286,36427,0.1830
+V2.04,15,Keyboard/Mouse Ranked,Latin America North,717,36427,0.4589
+V2.04,16,Keyboard/Mouse Ranked,Latin America North,1113,36427,0.6866
+V2.04,17,Keyboard/Mouse Ranked,Latin America North,1442,36427,0.8888
+V2.04,18,Keyboard/Mouse Ranked,Latin America North,1642,36427,1.0121
+V2.04,19,Keyboard/Mouse Ranked,Latin America North,1679,36427,1.0746
+V2.04,20,Keyboard/Mouse Ranked,Latin America North,1946,36427,1.2010
+V2.04,21,Keyboard/Mouse Ranked,Latin America North,2322,36427,1.4312
+V2.04,22,Keyboard/Mouse Ranked,Latin America North,2633,36427,1.6229
+V2.04,23,Keyboard/Mouse Ranked,Latin America North,2810,36427,1.7319
+V2.06,0,Keyboard/Mouse Ranked,Southeast Asia,95,35661,0.0304
+V2.06,1,Keyboard/Mouse Ranked,Southeast Asia,193,35661,0.0585
+V2.06,2,Keyboard/Mouse Ranked,Southeast Asia,410,35661,0.1242
+V2.06,3,Keyboard/Mouse Ranked,Southeast Asia,641,35661,0.1941
+V2.06,4,Keyboard/Mouse Ranked,Southeast Asia,859,35661,0.2601
+V2.06,5,Keyboard/Mouse Ranked,Southeast Asia,1118,35661,0.3385
+V2.06,6,Keyboard/Mouse Ranked,Southeast Asia,1562,35661,0.4730
+V2.06,7,Keyboard/Mouse Ranked,Southeast Asia,1885,35661,0.5708
+V2.06,8,Keyboard/Mouse Ranked,Southeast Asia,2047,35661,0.6199
+V2.06,9,Keyboard/Mouse Ranked,Southeast Asia,2139,35661,0.6477
+V2.06,10,Keyboard/Mouse Ranked,Southeast Asia,2256,35661,0.6836
+V2.06,11,Keyboard/Mouse Ranked,Southeast Asia,2243,35661,0.6918
+V2.06,12,Keyboard/Mouse Ranked,Southeast Asia,2375,35661,0.7325
+V2.06,13,Keyboard/Mouse Ranked,Southeast Asia,2598,35661,0.8013
+V2.06,14,Keyboard/Mouse Ranked,Southeast Asia,2786,35661,0.8592
+V2.06,15,Keyboard/Mouse Ranked,Southeast Asia,2713,35661,0.8219
+V2.06,16,Keyboard/Mouse Ranked,Southeast Asia,2405,35661,0.7287
+V2.06,17,Keyboard/Mouse Ranked,Southeast Asia,2122,35661,0.6426
+V2.06,18,Keyboard/Mouse Ranked,Southeast Asia,1783,35661,0.5499
+V2.06,19,Keyboard/Mouse Ranked,Southeast Asia,1469,35661,0.4449
+V2.06,20,Keyboard/Mouse Ranked,Southeast Asia,998,35661,0.3024
+V2.06,21,Keyboard/Mouse Ranked,Southeast Asia,582,35661,0.1763
+V2.06,22,Keyboard/Mouse Ranked,Southeast Asia,262,35661,0.0793
+V2.06,23,Keyboard/Mouse Ranked,Southeast Asia,120,35661,0.0364
+V2.05,0,PS4 Casual,Oceania,819,33842,0.2480
+V2.05,1,PS4 Casual,Oceania,919,33842,0.2783
+V2.05,2,PS4 Casual,Oceania,964,33842,0.2919
+V2.05,3,PS4 Casual,Oceania,1016,33842,0.3077
+V2.05,4,PS4 Casual,Oceania,1070,33842,0.3240
+V2.05,5,PS4 Casual,Oceania,1237,33842,0.3746
+V2.05,6,PS4 Casual,Oceania,1510,33842,0.4572
+V2.05,7,PS4 Casual,Oceania,1889,33842,0.5720
+V2.05,8,PS4 Casual,Oceania,2176,33842,0.6589
+V2.05,9,PS4 Casual,Oceania,2235,33842,0.6768
+V2.05,10,PS4 Casual,Oceania,2154,33842,0.6523
+V2.05,11,PS4 Casual,Oceania,2102,33842,0.6369
+V2.05,12,PS4 Casual,Oceania,2068,33842,0.6378
+V2.05,13,PS4 Casual,Oceania,2122,33842,0.6545
+V2.05,14,PS4 Casual,Oceania,1866,33842,0.5652
+V2.05,15,PS4 Casual,Oceania,1696,33842,0.5136
+V2.05,16,PS4 Casual,Oceania,1465,33842,0.4437
+V2.05,17,PS4 Casual,Oceania,1290,33842,0.3907
+V2.05,18,PS4 Casual,Oceania,1187,33842,0.3594
+V2.05,19,PS4 Casual,Oceania,982,33842,0.2974
+V2.05,20,PS4 Casual,Oceania,799,33842,0.2420
+V2.05,21,PS4 Casual,Oceania,774,33842,0.2344
+V2.05,22,PS4 Casual,Oceania,730,33842,0.2211
+V2.05,23,PS4 Casual,Oceania,772,33842,0.2338
+V2.05,0,PS4 Ranked,Brazil,2557,32773,0.7743
+V2.05,1,PS4 Ranked,Brazil,2375,32773,0.7192
+V2.05,2,PS4 Ranked,Brazil,2263,32773,0.6853
+V2.05,3,PS4 Ranked,Brazil,2024,32773,0.6129
+V2.05,4,PS4 Ranked,Brazil,1592,32773,0.4821
+V2.05,5,PS4 Ranked,Brazil,1025,32773,0.3104
+V2.05,6,PS4 Ranked,Brazil,545,32773,0.1650
+V2.05,7,PS4 Ranked,Brazil,212,32773,0.0642
+V2.05,8,PS4 Ranked,Brazil,42,32773,0.0137
+V2.05,11,PS4 Ranked,Brazil,8,32773,0.0043
+V2.05,12,PS4 Ranked,Brazil,123,32773,0.0379
+V2.05,13,PS4 Ranked,Brazil,450,32773,0.1388
+V2.05,14,PS4 Ranked,Brazil,873,32773,0.2693
+V2.05,15,PS4 Ranked,Brazil,1182,32773,0.3581
+V2.05,16,PS4 Ranked,Brazil,1455,32773,0.4406
+V2.05,17,PS4 Ranked,Brazil,1806,32773,0.5469
+V2.05,18,PS4 Ranked,Brazil,2097,32773,0.6350
+V2.05,19,PS4 Ranked,Brazil,2278,32773,0.6898
+V2.05,20,PS4 Ranked,Brazil,2350,32773,0.7116
+V2.05,21,PS4 Ranked,Brazil,2332,32773,0.7062
+V2.05,22,PS4 Ranked,Brazil,2533,32773,0.7670
+V2.05,23,PS4 Ranked,Brazil,2650,32773,0.8024
+V2.06,0,PS4 Casual,Oceania,775,32632,0.2347
+V2.06,1,PS4 Casual,Oceania,822,32632,0.2489
+V2.06,2,PS4 Casual,Oceania,800,32632,0.2422
+V2.06,3,PS4 Casual,Oceania,843,32632,0.2553
+V2.06,4,PS4 Casual,Oceania,969,32632,0.2934
+V2.06,5,PS4 Casual,Oceania,1100,32632,0.3393
+V2.06,6,PS4 Casual,Oceania,1450,32632,0.4391
+V2.06,7,PS4 Casual,Oceania,1731,32632,0.5242
+V2.06,8,PS4 Casual,Oceania,2167,32632,0.6562
+V2.06,9,PS4 Casual,Oceania,2214,32632,0.6704
+V2.06,10,PS4 Casual,Oceania,2219,32632,0.6723
+V2.06,11,PS4 Casual,Oceania,2204,32632,0.6797
+V2.06,12,PS4 Casual,Oceania,2038,32632,0.6285
+V2.06,13,PS4 Casual,Oceania,1824,32632,0.5626
+V2.06,14,PS4 Casual,Oceania,1625,32632,0.4923
+V2.06,15,PS4 Casual,Oceania,1493,32632,0.4521
+V2.06,16,PS4 Casual,Oceania,1344,32632,0.4070
+V2.06,17,PS4 Casual,Oceania,1166,32632,0.3531
+V2.06,18,PS4 Casual,Oceania,1278,32632,0.3870
+V2.06,19,PS4 Casual,Oceania,1282,32632,0.3882
+V2.06,20,PS4 Casual,Oceania,920,32632,0.2786
+V2.06,21,PS4 Casual,Oceania,824,32632,0.2496
+V2.06,22,PS4 Casual,Oceania,778,32632,0.2356
+V2.06,23,PS4 Casual,Oceania,766,32632,0.2319
+V2.07,0,Keyboard/Mouse Ranked,Europe,598,29578,2.4666
+V2.07,1,Keyboard/Mouse Ranked,Europe,394,29578,1.6251
+V2.07,2,Keyboard/Mouse Ranked,Europe,239,29578,0.9858
+V2.07,3,Keyboard/Mouse Ranked,Europe,169,29578,0.6974
+V2.07,4,Keyboard/Mouse Ranked,Europe,143,29578,0.5930
+V2.07,5,Keyboard/Mouse Ranked,Europe,139,29578,0.7618
+V2.07,6,Keyboard/Mouse Ranked,Europe,227,29578,1.2441
+V2.07,7,Keyboard/Mouse Ranked,Europe,376,29578,2.0610
+V2.07,8,Keyboard/Mouse Ranked,Europe,600,29578,3.2888
+V2.07,9,Keyboard/Mouse Ranked,Europe,867,29578,4.7509
+V2.07,10,Keyboard/Mouse Ranked,Europe,1092,29578,5.9841
+V2.07,11,Keyboard/Mouse Ranked,Europe,1259,29578,6.8992
+V2.07,12,Keyboard/Mouse Ranked,Europe,1460,29578,8.0001
+V2.07,13,Keyboard/Mouse Ranked,Europe,1682,29578,9.2166
+V2.07,14,Keyboard/Mouse Ranked,Europe,1874,29578,10.2692
+V2.07,15,Keyboard/Mouse Ranked,Europe,1967,29578,10.7785
+V2.07,16,Keyboard/Mouse Ranked,Europe,2325,29578,9.6284
+V2.07,17,Keyboard/Mouse Ranked,Europe,2612,29578,10.7721
+V2.07,18,Keyboard/Mouse Ranked,Europe,2592,29578,10.6889
+V2.07,19,Keyboard/Mouse Ranked,Europe,2554,29578,10.5327
+V2.07,20,Keyboard/Mouse Ranked,Europe,2326,29578,9.5923
+V2.07,21,Keyboard/Mouse Ranked,Europe,1819,29578,7.5015
+V2.07,22,Keyboard/Mouse Ranked,Europe,1336,29578,5.5105
+V2.07,23,Keyboard/Mouse Ranked,Europe,928,29578,3.8273
+V2.05,0,Controller Ranked,Europe,500,28735,0.1514
+V2.05,1,Controller Ranked,Europe,213,28735,0.0645
+V2.05,2,Controller Ranked,Europe,56,28735,0.0179
+V2.05,3,Controller Ranked,Europe,6,28735,0.0024
+V2.05,6,Controller Ranked,Europe,20,28735,0.0074
+V2.05,7,Controller Ranked,Europe,181,28735,0.0558
+V2.05,8,Controller Ranked,Europe,513,28735,0.1554
+V2.05,9,Controller Ranked,Europe,909,28735,0.2753
+V2.05,10,Controller Ranked,Europe,1129,28735,0.3419
+V2.05,11,Controller Ranked,Europe,1283,28735,0.3888
+V2.05,12,Controller Ranked,Europe,1599,28735,0.4931
+V2.05,13,Controller Ranked,Europe,1892,28735,0.5835
+V2.05,14,Controller Ranked,Europe,2090,28735,0.6446
+V2.05,15,Controller Ranked,Europe,2350,28735,0.7118
+V2.05,16,Controller Ranked,Europe,2470,28735,0.7479
+V2.05,17,Controller Ranked,Europe,2381,28735,0.7210
+V2.05,18,Controller Ranked,Europe,2160,28735,0.6541
+V2.05,19,Controller Ranked,Europe,2192,28735,0.6637
+V2.05,20,Controller Ranked,Europe,2288,28735,0.6928
+V2.05,21,Controller Ranked,Europe,2003,28735,0.6065
+V2.05,22,Controller Ranked,Europe,1543,28735,0.4672
+V2.05,23,Controller Ranked,Europe,956,28735,0.2895
+V2.07,0,Crossplatform Casual,Latin America North,2056,26838,8.4786
+V2.07,1,Crossplatform Casual,Latin America North,2119,26838,8.7392
+V2.07,2,Crossplatform Casual,Latin America North,2255,26838,9.2993
+V2.07,3,Crossplatform Casual,Latin America North,2135,26838,8.8047
+V2.07,4,Crossplatform Casual,Latin America North,1733,26838,7.1836
+V2.07,5,Crossplatform Casual,Latin America North,1184,26838,6.4877
+V2.07,6,Crossplatform Casual,Latin America North,768,26838,4.2093
+V2.07,7,Crossplatform Casual,Latin America North,427,26838,2.3405
+V2.07,8,Crossplatform Casual,Latin America North,235,26838,1.2877
+V2.07,9,Crossplatform Casual,Latin America North,134,26838,0.7347
+V2.07,10,Crossplatform Casual,Latin America North,94,26838,0.5157
+V2.07,11,Crossplatform Casual,Latin America North,82,26838,0.4497
+V2.07,12,Crossplatform Casual,Latin America North,117,26838,0.6420
+V2.07,13,Crossplatform Casual,Latin America North,225,26838,1.2336
+V2.07,14,Crossplatform Casual,Latin America North,408,26838,2.2367
+V2.07,15,Crossplatform Casual,Latin America North,723,26838,2.9839
+V2.07,16,Crossplatform Casual,Latin America North,1037,26838,4.2764
+V2.07,17,Crossplatform Casual,Latin America North,1188,26838,4.8993
+V2.07,18,Crossplatform Casual,Latin America North,1295,26838,5.3409
+V2.07,19,Crossplatform Casual,Latin America North,1426,26838,5.8808
+V2.07,20,Crossplatform Casual,Latin America North,1574,26838,6.4908
+V2.07,21,Crossplatform Casual,Latin America North,1748,26838,7.2084
+V2.07,22,Crossplatform Casual,Latin America North,1855,26838,7.6496
+V2.07,23,Crossplatform Casual,Latin America North,2020,26838,8.3301
+V2.07,0,Crossplatform Casual,Southeast Asia,268,24955,1.1052
+V2.07,1,Crossplatform Casual,Southeast Asia,372,24955,1.5343
+V2.07,2,Crossplatform Casual,Southeast Asia,576,24955,2.3754
+V2.07,3,Crossplatform Casual,Southeast Asia,676,24955,2.7878
+V2.07,4,Crossplatform Casual,Southeast Asia,750,24955,3.1090
+V2.07,5,Crossplatform Casual,Southeast Asia,787,24955,4.3127
+V2.07,6,Crossplatform Casual,Southeast Asia,1044,24955,5.7213
+V2.07,7,Crossplatform Casual,Southeast Asia,1177,24955,6.4504
+V2.07,8,Crossplatform Casual,Southeast Asia,1282,24955,7.0249
+V2.07,9,Crossplatform Casual,Southeast Asia,1293,24955,7.0851
+V2.07,10,Crossplatform Casual,Southeast Asia,1359,24955,7.4471
+V2.07,11,Crossplatform Casual,Southeast Asia,1334,24955,7.3101
+V2.07,12,Crossplatform Casual,Southeast Asia,1532,24955,8.3955
+V2.07,13,Crossplatform Casual,Southeast Asia,1774,24955,9.7211
+V2.07,14,Crossplatform Casual,Southeast Asia,1929,24955,10.5701
+V2.07,15,Crossplatform Casual,Southeast Asia,2106,24955,8.6900
+V2.07,16,Crossplatform Casual,Southeast Asia,2000,24955,8.2475
+V2.07,17,Crossplatform Casual,Southeast Asia,1566,24955,6.4585
+V2.07,18,Crossplatform Casual,Southeast Asia,1142,24955,4.7095
+V2.07,19,Crossplatform Casual,Southeast Asia,770,24955,3.1764
+V2.07,20,Crossplatform Casual,Southeast Asia,472,24955,1.9468
+V2.07,21,Crossplatform Casual,Southeast Asia,315,24955,1.2993
+V2.07,22,Crossplatform Casual,Southeast Asia,232,24955,0.9575
+V2.07,23,Crossplatform Casual,Southeast Asia,199,24955,0.8213
+V2.03,0,Keyboard/Mouse Ranked,Southeast Asia,77,22210,0.0475
+V2.03,1,Keyboard/Mouse Ranked,Southeast Asia,110,22210,0.0678
+V2.03,2,Keyboard/Mouse Ranked,Southeast Asia,263,22210,0.1621
+V2.03,3,Keyboard/Mouse Ranked,Southeast Asia,424,22210,0.2614
+V2.03,4,Keyboard/Mouse Ranked,Southeast Asia,609,22210,0.3754
+V2.03,5,Keyboard/Mouse Ranked,Southeast Asia,772,22210,0.4759
+V2.03,6,Keyboard/Mouse Ranked,Southeast Asia,999,22210,0.6158
+V2.03,7,Keyboard/Mouse Ranked,Southeast Asia,1224,22210,0.7544
+V2.03,8,Keyboard/Mouse Ranked,Southeast Asia,1299,22210,0.8006
+V2.03,9,Keyboard/Mouse Ranked,Southeast Asia,1415,22210,0.8722
+V2.03,10,Keyboard/Mouse Ranked,Southeast Asia,1506,22210,0.9283
+V2.03,11,Keyboard/Mouse Ranked,Southeast Asia,1547,22210,0.9535
+V2.03,12,Keyboard/Mouse Ranked,Southeast Asia,1580,22210,1.0113
+V2.03,13,Keyboard/Mouse Ranked,Southeast Asia,1692,22210,1.0829
+V2.03,14,Keyboard/Mouse Ranked,Southeast Asia,1624,22210,1.0394
+V2.03,15,Keyboard/Mouse Ranked,Southeast Asia,1509,22210,0.9670
+V2.03,16,Keyboard/Mouse Ranked,Southeast Asia,1346,22210,0.8307
+V2.03,17,Keyboard/Mouse Ranked,Southeast Asia,1172,22210,0.7224
+V2.03,18,Keyboard/Mouse Ranked,Southeast Asia,937,22210,0.5776
+V2.03,19,Keyboard/Mouse Ranked,Southeast Asia,797,22210,0.4912
+V2.03,20,Keyboard/Mouse Ranked,Southeast Asia,609,22210,0.3754
+V2.03,21,Keyboard/Mouse Ranked,Southeast Asia,400,22210,0.2466
+V2.03,22,Keyboard/Mouse Ranked,Southeast Asia,190,22210,0.1172
+V2.03,23,Keyboard/Mouse Ranked,Southeast Asia,109,22210,0.0698
+V2.03,0,Crossplatform Casual,Oceania,613,21270,0.3779
+V2.03,1,Crossplatform Casual,Oceania,755,21270,0.4654
+V2.03,2,Crossplatform Casual,Oceania,843,21270,0.5196
+V2.03,3,Crossplatform Casual,Oceania,951,21270,0.5862
+V2.03,4,Crossplatform Casual,Oceania,1065,21270,0.6565
+V2.03,5,Crossplatform Casual,Oceania,1135,21270,0.6996
+V2.03,6,Crossplatform Casual,Oceania,1263,21270,0.7785
+V2.03,7,Crossplatform Casual,Oceania,1396,21270,0.8605
+V2.03,8,Crossplatform Casual,Oceania,1395,21270,0.8598
+V2.03,9,Crossplatform Casual,Oceania,1473,21270,0.9079
+V2.03,10,Crossplatform Casual,Oceania,1600,21270,0.9862
+V2.03,11,Crossplatform Casual,Oceania,1533,21270,0.9449
+V2.03,12,Crossplatform Casual,Oceania,1346,21270,0.8615
+V2.03,13,Crossplatform Casual,Oceania,1125,21270,0.7201
+V2.03,14,Crossplatform Casual,Oceania,909,21270,0.5818
+V2.03,15,Crossplatform Casual,Oceania,698,21270,0.4468
+V2.03,16,Crossplatform Casual,Oceania,586,21270,0.3613
+V2.03,17,Crossplatform Casual,Oceania,447,21270,0.2756
+V2.03,18,Crossplatform Casual,Oceania,368,21270,0.2269
+V2.03,19,Crossplatform Casual,Oceania,297,21270,0.1831
+V2.03,20,Crossplatform Casual,Oceania,289,21270,0.1782
+V2.03,21,Crossplatform Casual,Oceania,323,21270,0.1991
+V2.03,22,Crossplatform Casual,Oceania,392,21270,0.2417
+V2.03,23,Crossplatform Casual,Oceania,468,21270,0.2885
+V2.04,0,Crossplatform Casual,Oceania,492,19904,0.3033
+V2.04,1,Crossplatform Casual,Oceania,572,19904,0.3526
+V2.04,2,Crossplatform Casual,Oceania,641,19904,0.3951
+V2.04,3,Crossplatform Casual,Oceania,725,19904,0.4469
+V2.04,4,Crossplatform Casual,Oceania,826,19904,0.5091
+V2.04,5,Crossplatform Casual,Oceania,912,19904,0.5621
+V2.04,6,Crossplatform Casual,Oceania,1163,19904,0.7168
+V2.04,7,Crossplatform Casual,Oceania,1355,19904,0.8352
+V2.04,8,Crossplatform Casual,Oceania,1418,19904,0.8740
+V2.04,9,Crossplatform Casual,Oceania,1434,19904,0.8838
+V2.04,10,Crossplatform Casual,Oceania,1545,19904,0.9523
+V2.04,11,Crossplatform Casual,Oceania,1577,19904,0.9732
+V2.04,12,Crossplatform Casual,Oceania,1394,19904,0.8592
+V2.04,13,Crossplatform Casual,Oceania,1135,19904,0.7264
+V2.04,14,Crossplatform Casual,Oceania,912,19904,0.5837
+V2.04,15,Crossplatform Casual,Oceania,760,19904,0.4864
+V2.04,16,Crossplatform Casual,Oceania,632,19904,0.3897
+V2.04,17,Crossplatform Casual,Oceania,524,19904,0.3231
+V2.04,18,Crossplatform Casual,Oceania,392,19904,0.2416
+V2.04,19,Crossplatform Casual,Oceania,303,19904,0.1868
+V2.04,20,Crossplatform Casual,Oceania,249,19904,0.1535
+V2.04,21,Crossplatform Casual,Oceania,277,19904,0.1708
+V2.04,22,Crossplatform Casual,Oceania,310,19904,0.1911
+V2.04,23,Crossplatform Casual,Oceania,356,19904,0.2194
+V2.04,0,Keyboard/Mouse Ranked,Southeast Asia,68,19457,0.0454
+V2.04,1,Keyboard/Mouse Ranked,Southeast Asia,108,19457,0.0666
+V2.04,2,Keyboard/Mouse Ranked,Southeast Asia,207,19457,0.1276
+V2.04,3,Keyboard/Mouse Ranked,Southeast Asia,382,19457,0.2355
+V2.04,4,Keyboard/Mouse Ranked,Southeast Asia,543,19457,0.3347
+V2.04,5,Keyboard/Mouse Ranked,Southeast Asia,701,19457,0.4321
+V2.04,6,Keyboard/Mouse Ranked,Southeast Asia,917,19457,0.5652
+V2.04,7,Keyboard/Mouse Ranked,Southeast Asia,1104,19457,0.6805
+V2.04,8,Keyboard/Mouse Ranked,Southeast Asia,1202,19457,0.7409
+V2.04,9,Keyboard/Mouse Ranked,Southeast Asia,1229,19457,0.7575
+V2.04,10,Keyboard/Mouse Ranked,Southeast Asia,1313,19457,0.8093
+V2.04,11,Keyboard/Mouse Ranked,Southeast Asia,1230,19457,0.7592
+V2.04,12,Keyboard/Mouse Ranked,Southeast Asia,1220,19457,0.7520
+V2.04,13,Keyboard/Mouse Ranked,Southeast Asia,1332,19457,0.8526
+V2.04,14,Keyboard/Mouse Ranked,Southeast Asia,1452,19457,0.9293
+V2.04,15,Keyboard/Mouse Ranked,Southeast Asia,1384,19457,0.8858
+V2.04,16,Keyboard/Mouse Ranked,Southeast Asia,1230,19457,0.7587
+V2.04,17,Keyboard/Mouse Ranked,Southeast Asia,1043,19457,0.6429
+V2.04,18,Keyboard/Mouse Ranked,Southeast Asia,961,19457,0.5923
+V2.04,19,Keyboard/Mouse Ranked,Southeast Asia,743,19457,0.4756
+V2.04,20,Keyboard/Mouse Ranked,Southeast Asia,550,19457,0.3520
+V2.04,21,Keyboard/Mouse Ranked,Southeast Asia,304,19457,0.1874
+V2.04,22,Keyboard/Mouse Ranked,Southeast Asia,152,19457,0.0937
+V2.04,23,Keyboard/Mouse Ranked,Southeast Asia,82,19457,0.0525
+V2.07,0,Controller Ranked,North America,1171,16678,4.8293
+V2.07,1,Controller Ranked,North America,1203,16678,4.9609
+V2.07,2,Controller Ranked,North America,1220,16678,5.0310
+V2.07,3,Controller Ranked,North America,1148,16678,4.7349
+V2.07,4,Controller Ranked,North America,936,16678,3.8806
+V2.07,5,Controller Ranked,North America,720,16678,3.9458
+V2.07,6,Controller Ranked,North America,568,16678,3.1129
+V2.07,7,Controller Ranked,North America,404,16678,2.2143
+V2.07,8,Controller Ranked,North America,284,16678,1.5569
+V2.07,9,Controller Ranked,North America,201,16678,1.1016
+V2.07,10,Controller Ranked,North America,175,16678,0.9593
+V2.07,11,Controller Ranked,North America,177,16678,0.9702
+V2.07,12,Controller Ranked,North America,210,16678,1.1510
+V2.07,13,Controller Ranked,North America,271,16678,1.4857
+V2.07,14,Controller Ranked,North America,383,16678,2.0990
+V2.07,15,Controller Ranked,North America,475,16678,2.6033
+V2.07,16,Controller Ranked,North America,613,16678,2.5386
+V2.07,17,Controller Ranked,North America,724,16678,2.9872
+V2.07,18,Controller Ranked,North America,788,16678,3.2503
+V2.07,19,Controller Ranked,North America,878,16678,3.6208
+V2.07,20,Controller Ranked,North America,916,16678,3.7782
+V2.07,21,Controller Ranked,North America,1001,16678,4.1284
+V2.07,22,Controller Ranked,North America,1063,16678,4.3839
+V2.07,23,Controller Ranked,North America,1149,16678,4.7384
+V2.07,0,Controller Ranked,Europe,341,14483,1.4073
+V2.07,1,Controller Ranked,Europe,201,14483,0.8295
+V2.07,2,Controller Ranked,Europe,119,14483,0.4912
+V2.07,3,Controller Ranked,Europe,68,14483,0.2805
+V2.07,4,Controller Ranked,Europe,38,14483,0.1576
+V2.07,5,Controller Ranked,Europe,38,14483,0.2084
+V2.07,6,Controller Ranked,Europe,66,14483,0.3620
+V2.07,7,Controller Ranked,Europe,147,14483,0.8057
+V2.07,8,Controller Ranked,Europe,254,14483,1.3923
+V2.07,9,Controller Ranked,Europe,441,14483,2.4167
+V2.07,10,Controller Ranked,Europe,547,14483,2.9978
+V2.07,11,Controller Ranked,Europe,632,14483,3.4635
+V2.07,12,Controller Ranked,Europe,709,14483,3.8859
+V2.07,13,Controller Ranked,Europe,835,14483,4.5760
+V2.07,14,Controller Ranked,Europe,930,14483,5.0965
+V2.07,15,Controller Ranked,Europe,1011,14483,5.5405
+V2.07,16,Controller Ranked,Europe,1210,14483,5.0112
+V2.07,17,Controller Ranked,Europe,1246,14483,5.1382
+V2.07,18,Controller Ranked,Europe,1158,14483,4.7757
+V2.07,19,Controller Ranked,Europe,1137,14483,4.6891
+V2.07,20,Controller Ranked,Europe,1074,14483,4.4299
+V2.07,21,Controller Ranked,Europe,957,14483,3.9467
+V2.07,22,Controller Ranked,Europe,782,14483,3.2252
+V2.07,23,Controller Ranked,Europe,542,14483,2.2368
+V2.03,0,PS4 Ranked,Brazil,1166,14394,0.7761
+V2.03,1,PS4 Ranked,Brazil,1064,14394,0.7082
+V2.03,2,PS4 Ranked,Brazil,975,14394,0.6490
+V2.03,3,PS4 Ranked,Brazil,829,14394,0.5518
+V2.03,4,PS4 Ranked,Brazil,621,14394,0.4134
+V2.03,5,PS4 Ranked,Brazil,415,14394,0.2762
+V2.03,6,PS4 Ranked,Brazil,224,14394,0.1554
+V2.03,7,PS4 Ranked,Brazil,67,14394,0.0507
+V2.03,8,PS4 Ranked,Brazil,19,14394,0.0144
+V2.03,11,PS4 Ranked,Brazil,9,14394,0.0100
+V2.03,12,PS4 Ranked,Brazil,56,14394,0.0405
+V2.03,13,PS4 Ranked,Brazil,231,14394,0.1602
+V2.03,14,PS4 Ranked,Brazil,416,14394,0.2770
+V2.03,15,PS4 Ranked,Brazil,522,14394,0.3475
+V2.03,16,PS4 Ranked,Brazil,601,14394,0.4001
+V2.03,17,PS4 Ranked,Brazil,732,14394,0.4872
+V2.03,18,PS4 Ranked,Brazil,910,14394,0.6057
+V2.03,19,PS4 Ranked,Brazil,989,14394,0.6583
+V2.03,20,PS4 Ranked,Brazil,1077,14394,0.7169
+V2.03,21,PS4 Ranked,Brazil,1072,14394,0.7135
+V2.03,22,PS4 Ranked,Brazil,1181,14394,0.7861
+V2.03,23,PS4 Ranked,Brazil,1217,14394,0.8101
+V2.03,0,Controller Ranked,Europe,228,12683,0.1406
+V2.03,1,Controller Ranked,Europe,97,12683,0.0621
+V2.03,2,Controller Ranked,Europe,28,12683,0.0187
+V2.03,6,Controller Ranked,Europe,9,12683,0.0079
+V2.03,7,Controller Ranked,Europe,69,12683,0.0426
+V2.03,8,Controller Ranked,Europe,192,12683,0.1184
+V2.03,9,Controller Ranked,Europe,348,12683,0.2146
+V2.03,10,Controller Ranked,Europe,496,12683,0.3057
+V2.03,11,Controller Ranked,Europe,595,12683,0.3668
+V2.03,12,Controller Ranked,Europe,709,12683,0.4538
+V2.03,13,Controller Ranked,Europe,801,12683,0.5127
+V2.03,14,Controller Ranked,Europe,867,12683,0.5549
+V2.03,15,Controller Ranked,Europe,953,12683,0.6108
+V2.03,16,Controller Ranked,Europe,1053,12683,0.6498
+V2.03,17,Controller Ranked,Europe,1129,12683,0.6958
+V2.03,18,Controller Ranked,Europe,987,12683,0.6083
+V2.03,19,Controller Ranked,Europe,1017,12683,0.6268
+V2.03,20,Controller Ranked,Europe,1116,12683,0.6879
+V2.03,21,Controller Ranked,Europe,956,12683,0.5893
+V2.03,22,Controller Ranked,Europe,622,12683,0.3835
+V2.03,23,Controller Ranked,Europe,411,12683,0.2534
+V2.04,0,PS4 Ranked,Brazil,1055,12555,0.6503
+V2.04,1,PS4 Ranked,Brazil,938,12555,0.5783
+V2.04,2,PS4 Ranked,Brazil,861,12555,0.5307
+V2.04,3,PS4 Ranked,Brazil,723,12555,0.4456
+V2.04,4,PS4 Ranked,Brazil,516,12555,0.3181
+V2.04,5,PS4 Ranked,Brazil,326,12555,0.2010
+V2.04,6,PS4 Ranked,Brazil,168,12555,0.1036
+V2.04,7,PS4 Ranked,Brazil,42,12555,0.0304
+V2.04,8,PS4 Ranked,Brazil,8,12555,0.0063
+V2.04,12,PS4 Ranked,Brazil,31,12555,0.0235
+V2.04,13,PS4 Ranked,Brazil,127,12555,0.0814
+V2.04,14,PS4 Ranked,Brazil,314,12555,0.2010
+V2.04,15,PS4 Ranked,Brazil,454,12555,0.2906
+V2.04,16,PS4 Ranked,Brazil,579,12555,0.3572
+V2.04,17,PS4 Ranked,Brazil,698,12555,0.4303
+V2.04,18,PS4 Ranked,Brazil,851,12555,0.5246
+V2.04,19,PS4 Ranked,Brazil,900,12555,0.5760
+V2.04,20,PS4 Ranked,Brazil,918,12555,0.5876
+V2.04,21,PS4 Ranked,Brazil,951,12555,0.5862
+V2.04,22,PS4 Ranked,Brazil,1021,12555,0.6293
+V2.04,23,PS4 Ranked,Brazil,1072,12555,0.6608
+V2.04,0,Controller Ranked,Europe,178,10439,0.1098
+V2.04,1,Controller Ranked,Europe,58,10439,0.0358
+V2.04,2,Controller Ranked,Europe,7,10439,0.0078
+V2.04,6,Controller Ranked,Europe,3,10439,0.0166
+V2.04,7,Controller Ranked,Europe,31,10439,0.0206
+V2.04,8,Controller Ranked,Europe,128,10439,0.0789
+V2.04,9,Controller Ranked,Europe,247,10439,0.1522
+V2.04,10,Controller Ranked,Europe,373,10439,0.2300
+V2.04,11,Controller Ranked,Europe,455,10439,0.2912
+V2.04,12,Controller Ranked,Europe,544,10439,0.3482
+V2.04,13,Controller Ranked,Europe,661,10439,0.4231
+V2.04,14,Controller Ranked,Europe,760,10439,0.4864
+V2.04,15,Controller Ranked,Europe,802,10439,0.5134
+V2.04,16,Controller Ranked,Europe,888,10439,0.5478
+V2.04,17,Controller Ranked,Europe,922,10439,0.5683
+V2.04,18,Controller Ranked,Europe,906,10439,0.5585
+V2.04,19,Controller Ranked,Europe,900,10439,0.5760
+V2.04,20,Controller Ranked,Europe,875,10439,0.5401
+V2.04,21,Controller Ranked,Europe,767,10439,0.4728
+V2.04,22,Controller Ranked,Europe,577,10439,0.3557
+V2.04,23,Controller Ranked,Europe,357,10439,0.2201
+V2.07,0,Keyboard/Mouse Ranked,Brazil,819,10279,3.3783
+V2.07,1,Keyboard/Mouse Ranked,Brazil,839,10279,3.4602
+V2.07,2,Keyboard/Mouse Ranked,Brazil,779,10279,3.2125
+V2.07,3,Keyboard/Mouse Ranked,Brazil,674,10279,2.7798
+V2.07,4,Keyboard/Mouse Ranked,Brazil,486,10279,2.0149
+V2.07,5,Keyboard/Mouse Ranked,Brazil,292,10279,1.6001
+V2.07,6,Keyboard/Mouse Ranked,Brazil,182,10279,0.9980
+V2.07,7,Keyboard/Mouse Ranked,Brazil,102,10279,0.5591
+V2.07,8,Keyboard/Mouse Ranked,Brazil,53,10279,0.2907
+V2.07,9,Keyboard/Mouse Ranked,Brazil,19,10279,0.1045
+V2.07,10,Keyboard/Mouse Ranked,Brazil,20,10279,0.1099
+V2.07,11,Keyboard/Mouse Ranked,Brazil,38,10279,0.2088
+V2.07,12,Keyboard/Mouse Ranked,Brazil,98,10279,0.5372
+V2.07,13,Keyboard/Mouse Ranked,Brazil,190,10279,1.0418
+V2.07,14,Keyboard/Mouse Ranked,Brazil,269,10279,1.4744
+V2.07,15,Keyboard/Mouse Ranked,Brazil,295,10279,1.6170
+V2.07,16,Keyboard/Mouse Ranked,Brazil,388,10279,1.6071
+V2.07,17,Keyboard/Mouse Ranked,Brazil,542,10279,2.2352
+V2.07,18,Keyboard/Mouse Ranked,Brazil,636,10279,2.6233
+V2.07,19,Keyboard/Mouse Ranked,Brazil,670,10279,2.7630
+V2.07,20,Keyboard/Mouse Ranked,Brazil,680,10279,2.8042
+V2.07,21,Keyboard/Mouse Ranked,Brazil,678,10279,2.7960
+V2.07,22,Keyboard/Mouse Ranked,Brazil,734,10279,3.0271
+V2.07,23,Keyboard/Mouse Ranked,Brazil,796,10279,3.2830
+V2.04,0,PS4 Casual,Oceania,276,9892,0.1702
+V2.04,1,PS4 Casual,Oceania,291,9892,0.1794
+V2.04,2,PS4 Casual,Oceania,283,9892,0.1745
+V2.04,3,PS4 Casual,Oceania,330,9892,0.2034
+V2.04,4,PS4 Casual,Oceania,376,9892,0.2318
+V2.04,5,PS4 Casual,Oceania,382,9892,0.2355
+V2.04,6,PS4 Casual,Oceania,497,9892,0.3063
+V2.04,7,PS4 Casual,Oceania,490,9892,0.3021
+V2.04,8,PS4 Casual,Oceania,585,9892,0.3606
+V2.04,9,PS4 Casual,Oceania,659,9892,0.4062
+V2.04,10,PS4 Casual,Oceania,636,9892,0.3920
+V2.04,11,PS4 Casual,Oceania,626,9892,0.3863
+V2.04,12,PS4 Casual,Oceania,566,9892,0.3489
+V2.04,13,PS4 Casual,Oceania,559,9892,0.3578
+V2.04,14,PS4 Casual,Oceania,519,9892,0.3322
+V2.04,15,PS4 Casual,Oceania,485,9892,0.3104
+V2.04,16,PS4 Casual,Oceania,407,9892,0.2510
+V2.04,17,PS4 Casual,Oceania,391,9892,0.2410
+V2.04,18,PS4 Casual,Oceania,330,9892,0.2034
+V2.04,19,PS4 Casual,Oceania,263,9892,0.1621
+V2.04,20,PS4 Casual,Oceania,234,9892,0.1442
+V2.04,21,PS4 Casual,Oceania,222,9892,0.1369
+V2.04,22,PS4 Casual,Oceania,250,9892,0.1541
+V2.04,23,PS4 Casual,Oceania,235,9892,0.1449
+V2.07,0,Keyboard/Mouse Ranked,North America,611,9170,2.5197
+V2.07,1,Keyboard/Mouse Ranked,North America,662,9170,2.7302
+V2.07,2,Keyboard/Mouse Ranked,North America,677,9170,2.7919
+V2.07,3,Keyboard/Mouse Ranked,North America,701,9170,2.8914
+V2.07,4,Keyboard/Mouse Ranked,North America,574,9170,2.3795
+V2.07,5,Keyboard/Mouse Ranked,North America,452,9170,2.4769
+V2.07,6,Keyboard/Mouse Ranked,North America,367,9170,2.0116
+V2.07,7,Keyboard/Mouse Ranked,North America,272,9170,1.4907
+V2.07,8,Keyboard/Mouse Ranked,North America,199,9170,1.0906
+V2.07,9,Keyboard/Mouse Ranked,North America,144,9170,0.7905
+V2.07,10,Keyboard/Mouse Ranked,North America,113,9170,0.6204
+V2.07,11,Keyboard/Mouse Ranked,North America,97,9170,0.5325
+V2.07,12,Keyboard/Mouse Ranked,North America,110,9170,0.6030
+V2.07,13,Keyboard/Mouse Ranked,North America,126,9170,0.6908
+V2.07,14,Keyboard/Mouse Ranked,North America,153,9170,0.8388
+V2.07,15,Keyboard/Mouse Ranked,North America,214,9170,1.1729
+V2.07,16,Keyboard/Mouse Ranked,North America,288,9170,1.1930
+V2.07,17,Keyboard/Mouse Ranked,North America,367,9170,1.5148
+V2.07,18,Keyboard/Mouse Ranked,North America,406,9170,1.6745
+V2.07,19,Keyboard/Mouse Ranked,North America,449,9170,1.8517
+V2.07,20,Keyboard/Mouse Ranked,North America,485,9170,2.0003
+V2.07,21,Keyboard/Mouse Ranked,North America,541,9170,2.2310
+V2.07,22,Keyboard/Mouse Ranked,North America,551,9170,2.2723
+V2.07,23,Keyboard/Mouse Ranked,North America,611,9170,2.5201
+V2.03,0,PS4 Casual,Oceania,244,8625,0.1505
+V2.03,1,PS4 Casual,Oceania,270,8625,0.1664
+V2.03,2,PS4 Casual,Oceania,268,8625,0.1653
+V2.03,3,PS4 Casual,Oceania,269,8625,0.1658
+V2.03,4,PS4 Casual,Oceania,329,8625,0.2028
+V2.03,5,PS4 Casual,Oceania,371,8625,0.2287
+V2.03,6,PS4 Casual,Oceania,397,8625,0.2447
+V2.03,7,PS4 Casual,Oceania,431,8625,0.2657
+V2.03,8,PS4 Casual,Oceania,493,8625,0.3039
+V2.03,9,PS4 Casual,Oceania,545,8625,0.3359
+V2.03,10,PS4 Casual,Oceania,572,8625,0.3526
+V2.03,11,PS4 Casual,Oceania,585,8625,0.3479
+V2.03,12,PS4 Casual,Oceania,514,8625,0.3168
+V2.03,13,PS4 Casual,Oceania,480,8625,0.2959
+V2.03,14,PS4 Casual,Oceania,454,8625,0.2798
+V2.03,15,PS4 Casual,Oceania,418,8625,0.2577
+V2.03,16,PS4 Casual,Oceania,328,8625,0.2022
+V2.03,17,PS4 Casual,Oceania,322,8625,0.1985
+V2.03,18,PS4 Casual,Oceania,280,8625,0.1726
+V2.03,19,PS4 Casual,Oceania,229,8625,0.1412
+V2.03,20,PS4 Casual,Oceania,206,8625,0.1270
+V2.03,21,PS4 Casual,Oceania,185,8625,0.1141
+V2.03,22,PS4 Casual,Oceania,208,8625,0.1282
+V2.03,23,PS4 Casual,Oceania,227,8625,0.1399
+V2.07,0,Keyboard/Mouse Ranked,Latin America North,546,6738,2.2517
+V2.07,1,Keyboard/Mouse Ranked,Latin America North,537,6738,2.2148
+V2.07,2,Keyboard/Mouse Ranked,Latin America North,559,6738,2.3053
+V2.07,3,Keyboard/Mouse Ranked,Latin America North,558,6738,2.3012
+V2.07,4,Keyboard/Mouse Ranked,Latin America North,474,6738,1.9655
+V2.07,5,Keyboard/Mouse Ranked,Latin America North,330,6738,1.8089
+V2.07,6,Keyboard/Mouse Ranked,Latin America North,228,6738,1.2497
+V2.07,7,Keyboard/Mouse Ranked,Latin America North,150,6738,0.8221
+V2.07,8,Keyboard/Mouse Ranked,Latin America North,67,6738,0.3678
+V2.07,9,Keyboard/Mouse Ranked,Latin America North,23,6738,0.1266
+V2.07,13,Keyboard/Mouse Ranked,Latin America North,7,6738,0.0387
+V2.07,14,Keyboard/Mouse Ranked,Latin America North,46,6738,0.2523
+V2.07,15,Keyboard/Mouse Ranked,Latin America North,119,6738,0.6525
+V2.07,16,Keyboard/Mouse Ranked,Latin America North,201,6738,0.8326
+V2.07,17,Keyboard/Mouse Ranked,Latin America North,292,6738,1.2044
+V2.07,18,Keyboard/Mouse Ranked,Latin America North,338,6738,1.3940
+V2.07,19,Keyboard/Mouse Ranked,Latin America North,354,6738,1.4602
+V2.07,20,Keyboard/Mouse Ranked,Latin America North,415,6738,1.7120
+V2.07,21,Keyboard/Mouse Ranked,Latin America North,459,6738,1.8931
+V2.07,22,Keyboard/Mouse Ranked,Latin America North,504,6738,2.0788
+V2.07,23,Keyboard/Mouse Ranked,Latin America North,528,6738,2.1776
+V2.07,0,Crossplatform Casual,Oceania,183,6456,0.7558
+V2.07,1,Crossplatform Casual,Oceania,223,6456,0.9198
+V2.07,2,Crossplatform Casual,Oceania,266,6456,1.0979
+V2.07,3,Crossplatform Casual,Oceania,285,6456,1.1754
+V2.07,4,Crossplatform Casual,Oceania,258,6456,1.0699
+V2.07,5,Crossplatform Casual,Oceania,297,6456,1.6278
+V2.07,6,Crossplatform Casual,Oceania,351,6456,1.9239
+V2.07,7,Crossplatform Casual,Oceania,393,6456,2.1541
+V2.07,8,Crossplatform Casual,Oceania,398,6456,2.1816
+V2.07,9,Crossplatform Casual,Oceania,450,6456,2.4659
+V2.07,10,Crossplatform Casual,Oceania,482,6456,2.6417
+V2.07,11,Crossplatform Casual,Oceania,475,6456,2.6038
+V2.07,12,Crossplatform Casual,Oceania,402,6456,2.2038
+V2.07,13,Crossplatform Casual,Oceania,346,6456,1.8964
+V2.07,14,Crossplatform Casual,Oceania,265,6456,1.4525
+V2.07,15,Crossplatform Casual,Oceania,228,6456,0.9412
+V2.07,16,Crossplatform Casual,Oceania,228,6456,0.9405
+V2.07,17,Crossplatform Casual,Oceania,167,6456,0.6895
+V2.07,18,Crossplatform Casual,Oceania,141,6456,0.5819
+V2.07,19,Crossplatform Casual,Oceania,125,6456,0.5157
+V2.07,20,Crossplatform Casual,Oceania,96,6456,0.3961
+V2.07,21,Crossplatform Casual,Oceania,111,6456,0.4585
+V2.07,22,Crossplatform Casual,Oceania,138,6456,0.5698
+V2.07,23,Crossplatform Casual,Oceania,148,6456,0.6108
+V2.07,0,Controller Ranked,Brazil,274,3646,1.1302
+V2.07,1,Controller Ranked,Brazil,263,3646,1.0847
+V2.07,2,Controller Ranked,Brazil,243,3646,1.0026
+V2.07,3,Controller Ranked,Brazil,205,3646,0.8458
+V2.07,4,Controller Ranked,Brazil,142,3646,0.5892
+V2.07,5,Controller Ranked,Brazil,87,3646,0.4768
+V2.07,6,Controller Ranked,Brazil,49,3646,0.2688
+V2.07,7,Controller Ranked,Brazil,28,3646,0.1540
+V2.07,8,Controller Ranked,Brazil,11,3646,0.0605
+V2.07,11,Controller Ranked,Brazil,9,3646,0.0497
+V2.07,12,Controller Ranked,Brazil,37,3646,0.2031
+V2.07,13,Controller Ranked,Brazil,70,3646,0.3838
+V2.07,14,Controller Ranked,Brazil,106,3646,0.5817
+V2.07,15,Controller Ranked,Brazil,135,3646,0.7400
+V2.07,16,Controller Ranked,Brazil,152,3646,0.6302
+V2.07,17,Controller Ranked,Brazil,197,3646,0.8128
+V2.07,18,Controller Ranked,Brazil,258,3646,1.0644
+V2.07,19,Controller Ranked,Brazil,273,3646,1.1263
+V2.07,20,Controller Ranked,Brazil,267,3646,1.1013
+V2.07,21,Controller Ranked,Brazil,269,3646,1.1097
+V2.07,22,Controller Ranked,Brazil,277,3646,1.1424
+V2.07,23,Controller Ranked,Brazil,294,3646,1.2130
+V2.07,0,Keyboard/Mouse Ranked,Southeast Asia,8,3057,0.0662
+V2.07,1,Keyboard/Mouse Ranked,Southeast Asia,20,3057,0.0831
+V2.07,2,Keyboard/Mouse Ranked,Southeast Asia,41,3057,0.1696
+V2.07,3,Keyboard/Mouse Ranked,Southeast Asia,63,3057,0.2602
+V2.07,4,Keyboard/Mouse Ranked,Southeast Asia,83,3057,0.3443
+V2.07,5,Keyboard/Mouse Ranked,Southeast Asia,96,3057,0.5262
+V2.07,6,Keyboard/Mouse Ranked,Southeast Asia,130,3057,0.7124
+V2.07,7,Keyboard/Mouse Ranked,Southeast Asia,149,3057,0.8171
+V2.07,8,Keyboard/Mouse Ranked,Southeast Asia,176,3057,0.9653
+V2.07,9,Keyboard/Mouse Ranked,Southeast Asia,188,3057,1.0306
+V2.07,10,Keyboard/Mouse Ranked,Southeast Asia,179,3057,0.9810
+V2.07,11,Keyboard/Mouse Ranked,Southeast Asia,177,3057,0.9701
+V2.07,12,Keyboard/Mouse Ranked,Southeast Asia,190,3057,1.0413
+V2.07,13,Keyboard/Mouse Ranked,Southeast Asia,205,3057,1.1234
+V2.07,14,Keyboard/Mouse Ranked,Southeast Asia,224,3057,1.2275
+V2.07,15,Keyboard/Mouse Ranked,Southeast Asia,220,3057,1.2058
+V2.07,16,Keyboard/Mouse Ranked,Southeast Asia,210,3057,0.8700
+V2.07,17,Keyboard/Mouse Ranked,Southeast Asia,213,3057,0.8784
+V2.07,18,Keyboard/Mouse Ranked,Southeast Asia,164,3057,0.6765
+V2.07,19,Keyboard/Mouse Ranked,Southeast Asia,130,3057,0.5364
+V2.07,20,Keyboard/Mouse Ranked,Southeast Asia,91,3057,0.3755
+V2.07,21,Keyboard/Mouse Ranked,Southeast Asia,55,3057,0.2273
+V2.07,22,Keyboard/Mouse Ranked,Southeast Asia,25,3057,0.1032
+V2.07,23,Keyboard/Mouse Ranked,Southeast Asia,20,3057,0.0828
+V2.05,3,PS4 Ranked,Southeast Asia,12,2812,0.0095
+V2.05,4,PS4 Ranked,Southeast Asia,21,2812,0.0125
+V2.05,5,PS4 Ranked,Southeast Asia,41,2812,0.0235
+V2.05,6,PS4 Ranked,Southeast Asia,58,2812,0.0302
+V2.05,7,PS4 Ranked,Southeast Asia,77,2812,0.0427
+V2.05,8,PS4 Ranked,Southeast Asia,113,2812,0.0607
+V2.05,9,PS4 Ranked,Southeast Asia,123,2812,0.0586
+V2.05,10,PS4 Ranked,Southeast Asia,152,2812,0.0767
+V2.05,11,PS4 Ranked,Southeast Asia,188,2812,0.0950
+V2.05,12,PS4 Ranked,Southeast Asia,281,2812,0.1338
+V2.05,13,PS4 Ranked,Southeast Asia,396,2812,0.1832
+V2.05,14,PS4 Ranked,Southeast Asia,455,2812,0.2048
+V2.05,15,PS4 Ranked,Southeast Asia,383,2812,0.1724
+V2.05,16,PS4 Ranked,Southeast Asia,259,2812,0.1233
+V2.05,17,PS4 Ranked,Southeast Asia,148,2812,0.0747
+V2.05,18,PS4 Ranked,Southeast Asia,68,2812,0.0378
+V2.05,19,PS4 Ranked,Southeast Asia,30,2812,0.0178
+V2.05,20,PS4 Ranked,Southeast Asia,6,2812,0.0111
+V2.03,0,PS4 Casual,Southeast Asia,7,2557,0.0068
+V2.03,1,PS4 Casual,Southeast Asia,19,2557,0.0127
+V2.03,2,PS4 Casual,Southeast Asia,17,2557,0.0118
+V2.03,3,PS4 Casual,Southeast Asia,15,2557,0.0125
+V2.03,4,PS4 Casual,Southeast Asia,33,2557,0.0229
+V2.03,5,PS4 Casual,Southeast Asia,43,2557,0.0287
+V2.03,6,PS4 Casual,Southeast Asia,62,2557,0.0382
+V2.03,7,PS4 Casual,Southeast Asia,97,2557,0.0599
+V2.03,8,PS4 Casual,Southeast Asia,109,2557,0.0673
+V2.03,9,PS4 Casual,Southeast Asia,147,2557,0.0906
+V2.03,10,PS4 Casual,Southeast Asia,181,2557,0.1117
+V2.03,11,PS4 Casual,Southeast Asia,201,2557,0.1196
+V2.03,12,PS4 Casual,Southeast Asia,211,2557,0.1301
+V2.03,13,PS4 Casual,Southeast Asia,263,2557,0.1621
+V2.03,14,PS4 Casual,Southeast Asia,250,2557,0.1541
+V2.03,15,PS4 Casual,Southeast Asia,223,2557,0.1375
+V2.03,16,PS4 Casual,Southeast Asia,203,2557,0.1251
+V2.03,17,PS4 Casual,Southeast Asia,168,2557,0.1036
+V2.03,18,PS4 Casual,Southeast Asia,112,2557,0.0691
+V2.03,19,PS4 Casual,Southeast Asia,82,2557,0.0506
+V2.03,20,PS4 Casual,Southeast Asia,55,2557,0.0339
+V2.03,21,PS4 Casual,Southeast Asia,30,2557,0.0192
+V2.03,22,PS4 Casual,Southeast Asia,20,2557,0.0139
+V2.03,23,PS4 Casual,Southeast Asia,9,2557,0.0060

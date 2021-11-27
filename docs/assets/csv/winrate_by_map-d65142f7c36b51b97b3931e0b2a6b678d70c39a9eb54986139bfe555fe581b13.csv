@@ -1,0 +1,463 @@
+Map,Champion,Winrate|% Games Won,Count
+Ascension Peak,Androxus,0.4069,4979
+Ascension Peak,Ash,0.5305,18683
+Ascension Peak,Atlas,0.4797,7855
+Ascension Peak,Barik,0.5280,24665
+Ascension Peak,Bomb King,0.5351,9847
+Ascension Peak,Buck,0.4777,2491
+Ascension Peak,Cassie,0.4776,10269
+Ascension Peak,Dredge,0.4923,5876
+Ascension Peak,Drogoz,0.5204,6947
+Ascension Peak,Evie,0.4952,6333
+Ascension Peak,Fernando,0.4966,10649
+Ascension Peak,Furia,0.5246,10889
+Ascension Peak,Grohk,0.5189,4681
+Ascension Peak,Grover,0.5073,6069
+Ascension Peak,Imani,0.4393,2051
+Ascension Peak,Inara,0.5058,25112
+Ascension Peak,Io,0.5617,9805
+Ascension Peak,Jenos,0.5167,20770
+Ascension Peak,Khan,0.4983,23138
+Ascension Peak,Kinessa,0.3541,3386
+Ascension Peak,Koga,0.4656,3593
+Ascension Peak,Lex,0.3849,3084
+Ascension Peak,Lian,0.4501,13379
+Ascension Peak,Maeve,0.4938,11442
+Ascension Peak,Makoa,0.5121,11899
+Ascension Peak,Mal'Damba,0.4382,7777
+Ascension Peak,Moji,0.5546,4962
+Ascension Peak,Pip,0.4689,4014
+Ascension Peak,Ruckus,0.4175,6501
+Ascension Peak,Seris,0.4593,16699
+Ascension Peak,Sha Lin,0.4039,1993
+Ascension Peak,Skye,0.4816,6929
+Ascension Peak,Strix,0.4286,7683
+Ascension Peak,Talus,0.4918,4394
+Ascension Peak,Terminus,0.5406,7409
+Ascension Peak,Torvald,0.4907,5633
+Ascension Peak,Tyra,0.5379,16151
+Ascension Peak,Viktor,0.4588,11360
+Ascension Peak,Vivian,0.5296,8460
+Ascension Peak,Willo,0.5689,8458
+Ascension Peak,Ying,0.5034,6543
+Ascension Peak,Zhin,0.5538,13262
+Bazaar,Androxus,0.4087,4830
+Bazaar,Ash,0.5211,18229
+Bazaar,Atlas,0.4774,7748
+Bazaar,Barik,0.5313,24368
+Bazaar,Bomb King,0.5001,9372
+Bazaar,Buck,0.5223,2351
+Bazaar,Cassie,0.4712,9939
+Bazaar,Dredge,0.4957,5965
+Bazaar,Drogoz,0.5448,7309
+Bazaar,Evie,0.4912,6396
+Bazaar,Fernando,0.5058,10325
+Bazaar,Furia,0.5036,10212
+Bazaar,Grohk,0.4973,4259
+Bazaar,Grover,0.4986,6559
+Bazaar,Imani,0.4283,1926
+Bazaar,Inara,0.5099,24399
+Bazaar,Io,0.5506,9875
+Bazaar,Jenos,0.5383,21080
+Bazaar,Khan,0.4799,22783
+Bazaar,Kinessa,0.3700,2592
+Bazaar,Koga,0.4491,3596
+Bazaar,Lex,0.3962,3021
+Bazaar,Lian,0.4496,13073
+Bazaar,Maeve,0.5050,11402
+Bazaar,Makoa,0.5116,12112
+Bazaar,Mal'Damba,0.4421,7313
+Bazaar,Moji,0.5496,5033
+Bazaar,Pip,0.4865,3971
+Bazaar,Ruckus,0.4521,6227
+Bazaar,Seris,0.4482,15392
+Bazaar,Sha Lin,0.4255,1979
+Bazaar,Skye,0.4862,6892
+Bazaar,Strix,0.4613,7282
+Bazaar,Talus,0.4885,4387
+Bazaar,Terminus,0.5383,7175
+Bazaar,Torvald,0.4928,5804
+Bazaar,Tyra,0.5201,15709
+Bazaar,Viktor,0.4727,11745
+Bazaar,Vivian,0.5309,8559
+Bazaar,Willo,0.5708,8328
+Bazaar,Ying,0.4935,6669
+Bazaar,Zhin,0.5443,13144
+Brightmarsh,Androxus,0.4161,5225
+Brightmarsh,Ash,0.5156,15863
+Brightmarsh,Atlas,0.4737,6949
+Brightmarsh,Barik,0.5166,21311
+Brightmarsh,Bomb King,0.5212,10807
+Brightmarsh,Buck,0.4956,2052
+Brightmarsh,Cassie,0.4565,8696
+Brightmarsh,Dredge,0.4917,6156
+Brightmarsh,Drogoz,0.5346,7926
+Brightmarsh,Evie,0.4781,6264
+Brightmarsh,Fernando,0.4929,9475
+Brightmarsh,Furia,0.5127,9171
+Brightmarsh,Grohk,0.5208,4816
+Brightmarsh,Grover,0.5240,7640
+Brightmarsh,Imani,0.3885,1758
+Brightmarsh,Inara,0.5383,22871
+Brightmarsh,Io,0.5691,8412
+Brightmarsh,Jenos,0.5163,18606
+Brightmarsh,Khan,0.4949,20486
+Brightmarsh,Kinessa,0.3398,1536
+Brightmarsh,Koga,0.4772,3112
+Brightmarsh,Lex,0.3866,2726
+Brightmarsh,Lian,0.4455,10674
+Brightmarsh,Maeve,0.4987,10354
+Brightmarsh,Makoa,0.5000,10904
+Brightmarsh,Mal'Damba,0.4361,6435
+Brightmarsh,Moji,0.5634,5115
+Brightmarsh,Pip,0.4728,4139
+Brightmarsh,Ruckus,0.4062,5765
+Brightmarsh,Seris,0.4471,13612
+Brightmarsh,Sha Lin,0.4039,1676
+Brightmarsh,Skye,0.4872,6004
+Brightmarsh,Strix,0.3981,3233
+Brightmarsh,Talus,0.4865,3581
+Brightmarsh,Terminus,0.5427,6825
+Brightmarsh,Torvald,0.4944,5198
+Brightmarsh,Tyra,0.5391,15419
+Brightmarsh,Viktor,0.4500,9103
+Brightmarsh,Vivian,0.5185,7397
+Brightmarsh,Willo,0.5719,7543
+Brightmarsh,Ying,0.4987,5512
+Brightmarsh,Zhin,0.5457,11213
+Fish Market,Androxus,0.4264,4097
+Fish Market,Ash,0.5015,18009
+Fish Market,Atlas,0.4693,6535
+Fish Market,Barik,0.5328,19822
+Fish Market,Bomb King,0.4804,6132
+Fish Market,Buck,0.5152,2209
+Fish Market,Cassie,0.4823,8863
+Fish Market,Dredge,0.4614,3641
+Fish Market,Drogoz,0.4976,5225
+Fish Market,Evie,0.4843,5742
+Fish Market,Fernando,0.4755,8094
+Fish Market,Furia,0.5243,8882
+Fish Market,Grohk,0.5085,3188
+Fish Market,Grover,0.4932,4177
+Fish Market,Imani,0.4481,1656
+Fish Market,Inara,0.5086,19714
+Fish Market,Io,0.5794,8553
+Fish Market,Jenos,0.5186,17396
+Fish Market,Khan,0.5225,18272
+Fish Market,Kinessa,0.4000,3800
+Fish Market,Koga,0.4606,2853
+Fish Market,Lex,0.4188,2538
+Fish Market,Lian,0.4854,11904
+Fish Market,Maeve,0.5170,10107
+Fish Market,Makoa,0.5114,10187
+Fish Market,Mal'Damba,0.4256,6464
+Fish Market,Moji,0.5180,3492
+Fish Market,Pip,0.4774,3444
+Fish Market,Ruckus,0.4433,5461
+Fish Market,Seris,0.4591,13545
+Fish Market,Sha Lin,0.4261,1589
+Fish Market,Skye,0.4749,5473
+Fish Market,Strix,0.4709,8723
+Fish Market,Talus,0.5073,3633
+Fish Market,Terminus,0.5198,5346
+Fish Market,Torvald,0.5025,4543
+Fish Market,Tyra,0.5228,12181
+Fish Market,Viktor,0.4868,9914
+Fish Market,Vivian,0.5356,6811
+Fish Market,Willo,0.5633,7460
+Fish Market,Ying,0.4924,5368
+Fish Market,Zhin,0.5277,10237
+Frozen Guard,Androxus,0.4238,2572
+Frozen Guard,Ash,0.5142,10375
+Frozen Guard,Atlas,0.4819,4592
+Frozen Guard,Barik,0.5215,13758
+Frozen Guard,Bomb King,0.5169,5777
+Frozen Guard,Buck,0.5048,1452
+Frozen Guard,Cassie,0.4651,6110
+Frozen Guard,Dredge,0.4962,3309
+Frozen Guard,Drogoz,0.4692,3007
+Frozen Guard,Evie,0.4875,3434
+Frozen Guard,Fernando,0.4957,6107
+Frozen Guard,Furia,0.5193,5956
+Frozen Guard,Grohk,0.5045,2652
+Frozen Guard,Grover,0.4947,3394
+Frozen Guard,Imani,0.4336,1167
+Frozen Guard,Inara,0.5063,14202
+Frozen Guard,Io,0.5477,5596
+Frozen Guard,Jenos,0.5333,11601
+Frozen Guard,Khan,0.5047,12605
+Frozen Guard,Kinessa,0.4002,1614
+Frozen Guard,Koga,0.4260,2021
+Frozen Guard,Lex,0.3760,1811
+Frozen Guard,Lian,0.4559,7651
+Frozen Guard,Maeve,0.5027,6375
+Frozen Guard,Makoa,0.5156,6688
+Frozen Guard,Mal'Damba,0.4267,4535
+Frozen Guard,Moji,0.5533,2729
+Frozen Guard,Pip,0.4899,2123
+Frozen Guard,Ruckus,0.4359,3636
+Frozen Guard,Seris,0.4650,9423
+Frozen Guard,Sha Lin,0.4200,1212
+Frozen Guard,Skye,0.4808,4002
+Frozen Guard,Strix,0.4595,3730
+Frozen Guard,Talus,0.4870,2622
+Frozen Guard,Terminus,0.5378,4316
+Frozen Guard,Torvald,0.5065,2782
+Frozen Guard,Tyra,0.5356,9675
+Frozen Guard,Viktor,0.4760,6529
+Frozen Guard,Vivian,0.5396,4896
+Frozen Guard,Willo,0.5578,4943
+Frozen Guard,Ying,0.4973,3575
+Frozen Guard,Zhin,0.5432,7546
+Jaguar Falls,Androxus,0.4310,4664
+Jaguar Falls,Ash,0.5220,16478
+Jaguar Falls,Atlas,0.4682,6913
+Jaguar Falls,Barik,0.5196,21254
+Jaguar Falls,Bomb King,0.5326,10692
+Jaguar Falls,Buck,0.4854,2050
+Jaguar Falls,Cassie,0.4630,9255
+Jaguar Falls,Dredge,0.5182,5782
+Jaguar Falls,Drogoz,0.5273,8138
+Jaguar Falls,Evie,0.4763,5003
+Jaguar Falls,Fernando,0.4839,9280
+Jaguar Falls,Furia,0.5043,9510
+Jaguar Falls,Grohk,0.5005,4434
+Jaguar Falls,Grover,0.5078,6056
+Jaguar Falls,Imani,0.4058,1826
+Jaguar Falls,Inara,0.5268,22435
+Jaguar Falls,Io,0.5535,8802
+Jaguar Falls,Jenos,0.5347,18607
+Jaguar Falls,Khan,0.4944,20566
+Jaguar Falls,Kinessa,0.3216,1508
+Jaguar Falls,Koga,0.4679,3080
+Jaguar Falls,Lex,0.4099,2842
+Jaguar Falls,Lian,0.4316,11637
+Jaguar Falls,Maeve,0.4921,9713
+Jaguar Falls,Makoa,0.5136,10864
+Jaguar Falls,Mal'Damba,0.4323,7000
+Jaguar Falls,Moji,0.5646,5191
+Jaguar Falls,Pip,0.4967,3737
+Jaguar Falls,Ruckus,0.4231,5630
+Jaguar Falls,Seris,0.4531,13899
+Jaguar Falls,Sha Lin,0.4051,1728
+Jaguar Falls,Skye,0.4789,6199
+Jaguar Falls,Strix,0.4055,3213
+Jaguar Falls,Talus,0.4872,3920
+Jaguar Falls,Terminus,0.5433,6554
+Jaguar Falls,Torvald,0.5090,5308
+Jaguar Falls,Tyra,0.5226,14988
+Jaguar Falls,Viktor,0.4652,9077
+Jaguar Falls,Vivian,0.5135,7564
+Jaguar Falls,Willo,0.5735,7683
+Jaguar Falls,Ying,0.4872,5450
+Jaguar Falls,Zhin,0.5405,11990
+Serpent Beach,Androxus,0.4287,4980
+Serpent Beach,Ash,0.5199,15159
+Serpent Beach,Atlas,0.4690,6685
+Serpent Beach,Barik,0.5294,20018
+Serpent Beach,Bomb King,0.5137,7351
+Serpent Beach,Buck,0.5009,2166
+Serpent Beach,Cassie,0.4561,7692
+Serpent Beach,Dredge,0.4870,4643
+Serpent Beach,Drogoz,0.5573,7196
+Serpent Beach,Evie,0.5121,7657
+Serpent Beach,Fernando,0.4809,8438
+Serpent Beach,Furia,0.5333,8933
+Serpent Beach,Grohk,0.5205,3318
+Serpent Beach,Grover,0.5080,5028
+Serpent Beach,Imani,0.4446,1624
+Serpent Beach,Inara,0.5309,20828
+Serpent Beach,Io,0.5678,8136
+Serpent Beach,Jenos,0.5085,17691
+Serpent Beach,Khan,0.4875,19057
+Serpent Beach,Kinessa,0.3985,3227
+Serpent Beach,Koga,0.4387,2911
+Serpent Beach,Lex,0.3922,2218
+Serpent Beach,Lian,0.4511,11387
+Serpent Beach,Maeve,0.5158,10475
+Serpent Beach,Makoa,0.5095,10471
+Serpent Beach,Mal'Damba,0.4277,6420
+Serpent Beach,Moji,0.5413,3728
+Serpent Beach,Pip,0.4989,3640
+Serpent Beach,Ruckus,0.4338,5487
+Serpent Beach,Seris,0.4644,13530
+Serpent Beach,Sha Lin,0.3877,1491
+Serpent Beach,Skye,0.4726,5415
+Serpent Beach,Strix,0.4394,6143
+Serpent Beach,Talus,0.4767,3178
+Serpent Beach,Terminus,0.5366,5824
+Serpent Beach,Torvald,0.4765,4856
+Serpent Beach,Tyra,0.5190,12981
+Serpent Beach,Viktor,0.4656,9294
+Serpent Beach,Vivian,0.5202,6784
+Serpent Beach,Willo,0.6164,7751
+Serpent Beach,Ying,0.4817,5341
+Serpent Beach,Zhin,0.5204,9468
+Shattered Desert,Androxus,0.4056,3920
+Shattered Desert,Ash,0.5273,15685
+Shattered Desert,Atlas,0.4772,6509
+Shattered Desert,Barik,0.5292,20196
+Shattered Desert,Bomb King,0.5379,8315
+Shattered Desert,Buck,0.5012,2107
+Shattered Desert,Cassie,0.4724,8963
+Shattered Desert,Dredge,0.5057,4457
+Shattered Desert,Drogoz,0.4906,5679
+Shattered Desert,Evie,0.4740,5006
+Shattered Desert,Fernando,0.5025,8644
+Shattered Desert,Furia,0.5231,9191
+Shattered Desert,Grohk,0.5001,3921
+Shattered Desert,Grover,0.4858,4522
+Shattered Desert,Imani,0.4270,1644
+Shattered Desert,Inara,0.5095,20478
+Shattered Desert,Io,0.5782,8094
+Shattered Desert,Jenos,0.5169,17171
+Shattered Desert,Khan,0.4786,19095
+Shattered Desert,Kinessa,0.3612,2071
+Shattered Desert,Koga,0.4544,2929
+Shattered Desert,Lex,0.3998,2664
+Shattered Desert,Lian,0.4588,11632
+Shattered Desert,Maeve,0.5133,9376
+Shattered Desert,Makoa,0.5206,10141
+Shattered Desert,Mal'Damba,0.4272,6505
+Shattered Desert,Moji,0.5554,4242
+Shattered Desert,Pip,0.4889,3115
+Shattered Desert,Ruckus,0.4383,5282
+Shattered Desert,Seris,0.4711,13932
+Shattered Desert,Sha Lin,0.4342,1619
+Shattered Desert,Skye,0.4656,5552
+Shattered Desert,Strix,0.4437,5042
+Shattered Desert,Talus,0.4709,3714
+Shattered Desert,Terminus,0.5328,5995
+Shattered Desert,Torvald,0.4997,4541
+Shattered Desert,Tyra,0.5286,13521
+Shattered Desert,Viktor,0.4670,9598
+Shattered Desert,Vivian,0.5201,7364
+Shattered Desert,Willo,0.5708,6982
+Shattered Desert,Ying,0.4862,5152
+Shattered Desert,Zhin,0.5459,11264
+Splitstone Quarry,Androxus,0.4285,4166
+Splitstone Quarry,Ash,0.5061,13074
+Splitstone Quarry,Atlas,0.4629,5781
+Splitstone Quarry,Barik,0.5212,17323
+Splitstone Quarry,Bomb King,0.5224,5664
+Splitstone Quarry,Buck,0.4931,1661
+Splitstone Quarry,Cassie,0.4472,5796
+Splitstone Quarry,Dredge,0.5208,5033
+Splitstone Quarry,Drogoz,0.5280,5629
+Splitstone Quarry,Evie,0.5197,6567
+Splitstone Quarry,Fernando,0.4918,7114
+Splitstone Quarry,Furia,0.5280,7727
+Splitstone Quarry,Grohk,0.5207,2614
+Splitstone Quarry,Grover,0.5041,4015
+Splitstone Quarry,Imani,0.4313,1442
+Splitstone Quarry,Inara,0.5363,17747
+Splitstone Quarry,Io,0.5635,6667
+Splitstone Quarry,Jenos,0.5195,15448
+Splitstone Quarry,Khan,0.5050,16233
+Splitstone Quarry,Kinessa,0.3888,3675
+Splitstone Quarry,Koga,0.4532,2403
+Splitstone Quarry,Lex,0.3883,1759
+Splitstone Quarry,Lian,0.4446,8821
+Splitstone Quarry,Maeve,0.5068,8837
+Splitstone Quarry,Makoa,0.5139,9118
+Splitstone Quarry,Mal'Damba,0.4416,5435
+Splitstone Quarry,Moji,0.5454,2895
+Splitstone Quarry,Pip,0.5015,3370
+Splitstone Quarry,Ruckus,0.4275,4889
+Splitstone Quarry,Seris,0.4496,11675
+Splitstone Quarry,Sha Lin,0.3915,1221
+Splitstone Quarry,Skye,0.4785,4621
+Splitstone Quarry,Strix,0.4402,8967
+Splitstone Quarry,Talus,0.4859,2509
+Splitstone Quarry,Terminus,0.5517,4979
+Splitstone Quarry,Torvald,0.4624,4338
+Splitstone Quarry,Tyra,0.5384,10646
+Splitstone Quarry,Viktor,0.4597,8037
+Splitstone Quarry,Vivian,0.5214,5664
+Splitstone Quarry,Willo,0.6090,6424
+Splitstone Quarry,Ying,0.4824,4592
+Splitstone Quarry,Zhin,0.5416,7504
+Stone Keep,Androxus,0.4295,1043
+Stone Keep,Ash,0.5000,3376
+Stone Keep,Atlas,0.4807,1190
+Stone Keep,Barik,0.5104,4528
+Stone Keep,Bomb King,0.5770,2298
+Stone Keep,Buck,0.5167,449
+Stone Keep,Cassie,0.4706,1953
+Stone Keep,Dredge,0.4872,940
+Stone Keep,Drogoz,0.5253,1445
+Stone Keep,Evie,0.4529,1369
+Stone Keep,Fernando,0.5083,1798
+Stone Keep,Furia,0.5194,2064
+Stone Keep,Grohk,0.4798,694
+Stone Keep,Grover,0.5106,1040
+Stone Keep,Imani,0.3903,351
+Stone Keep,Inara,0.5403,4540
+Stone Keep,Io,0.5718,1782
+Stone Keep,Jenos,0.5174,3477
+Stone Keep,Khan,0.4941,4185
+Stone Keep,Kinessa,0.3667,480
+Stone Keep,Koga,0.4805,614
+Stone Keep,Lex,0.3816,359
+Stone Keep,Lian,0.4347,2528
+Stone Keep,Maeve,0.5076,2376
+Stone Keep,Makoa,0.5003,1861
+Stone Keep,Mal'Damba,0.4338,1360
+Stone Keep,Moji,0.5551,935
+Stone Keep,Pip,0.5182,797
+Stone Keep,Ruckus,0.4523,1351
+Stone Keep,Seris,0.4597,2930
+Stone Keep,Sha Lin,0.3811,349
+Stone Keep,Skye,0.4938,1126
+Stone Keep,Strix,0.4399,1357
+Stone Keep,Talus,0.4690,548
+Stone Keep,Terminus,0.5451,1231
+Stone Keep,Torvald,0.4880,1416
+Stone Keep,Tyra,0.5111,2215
+Stone Keep,Viktor,0.4633,2109
+Stone Keep,Vivian,0.5304,1448
+Stone Keep,Willo,0.5878,1065
+Stone Keep,Ying,0.5019,1283
+Stone Keep,Zhin,0.5411,2310
+Warder's Gate,Androxus,0.4164,5163
+Warder's Gate,Ash,0.5255,19023
+Warder's Gate,Atlas,0.4686,7842
+Warder's Gate,Barik,0.5208,24217
+Warder's Gate,Bomb King,0.5298,10466
+Warder's Gate,Buck,0.5019,2381
+Warder's Gate,Cassie,0.4611,10343
+Warder's Gate,Dredge,0.5289,6164
+Warder's Gate,Drogoz,0.5182,7511
+Warder's Gate,Evie,0.4890,6315
+Warder's Gate,Fernando,0.4938,10180
+Warder's Gate,Furia,0.5200,11101
+Warder's Gate,Grohk,0.5323,4520
+Warder's Gate,Grover,0.5068,6202
+Warder's Gate,Imani,0.4461,2087
+Warder's Gate,Inara,0.5266,25276
+Warder's Gate,Io,0.5528,9686
+Warder's Gate,Jenos,0.5201,20871
+Warder's Gate,Khan,0.4882,23040
+Warder's Gate,Kinessa,0.3637,2505
+Warder's Gate,Koga,0.4548,3419
+Warder's Gate,Lex,0.3839,2985
+Warder's Gate,Lian,0.4383,13330
+Warder's Gate,Maeve,0.5091,11832
+Warder's Gate,Makoa,0.5085,12113
+Warder's Gate,Mal'Damba,0.4405,7628
+Warder's Gate,Moji,0.5487,5019
+Warder's Gate,Pip,0.4878,3940
+Warder's Gate,Ruckus,0.4265,6401
+Warder's Gate,Seris,0.4579,16311
+Warder's Gate,Sha Lin,0.4231,1839
+Warder's Gate,Skye,0.4770,6877
+Warder's Gate,Strix,0.4217,6033
+Warder's Gate,Talus,0.4911,4376
+Warder's Gate,Terminus,0.5469,7274
+Warder's Gate,Torvald,0.4950,5602
+Warder's Gate,Tyra,0.5362,16746
+Warder's Gate,Viktor,0.4590,10820
+Warder's Gate,Vivian,0.5201,8387
+Warder's Gate,Willo,0.5787,8559
+Warder's Gate,Ying,0.4903,6166
+Warder's Gate,Zhin,0.5293,13150
